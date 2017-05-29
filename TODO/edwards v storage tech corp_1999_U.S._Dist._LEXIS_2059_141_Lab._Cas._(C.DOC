@@ -1,0 +1,464 @@
+{\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff31507\deff0\stshfdbch31505\stshfloch31506\stshfhich31506\stshfbi31507\deflang1033\deflangfe1033\themelang1033\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f5\fbidi \fmodern\fcharset0\fprq1{\*\panose 02070409020205020404}Courier;}
+{\f5\fbidi \fmodern\fcharset0\fprq1{\*\panose 02070409020205020404}Courier;}{\flomajor\f31500\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\fdbmajor\f31501\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fhimajor\f31502\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0302020204030204}Calibri Light;}
+{\fbimajor\f31503\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\flominor\f31504\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\fdbminor\f31505\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fhiminor\f31506\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}
+{\fbiminor\f31507\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f42\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\f43\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\f45\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\f46\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\f47\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f48\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\f49\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\f50\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\flomajor\f31508\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\flomajor\f31509\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\flomajor\f31511\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\flomajor\f31512\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}
+{\flomajor\f31513\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\flomajor\f31514\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\flomajor\f31515\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\flomajor\f31516\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fdbmajor\f31518\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fdbmajor\f31519\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\fdbmajor\f31521\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fdbmajor\f31522\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fdbmajor\f31523\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\fdbmajor\f31524\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fdbmajor\f31525\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fdbmajor\f31526\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\fhimajor\f31528\fbidi \fswiss\fcharset238\fprq2 Calibri Light CE;}{\fhimajor\f31529\fbidi \fswiss\fcharset204\fprq2 Calibri Light Cyr;}{\fhimajor\f31531\fbidi \fswiss\fcharset161\fprq2 Calibri Light Greek;}
+{\fhimajor\f31532\fbidi \fswiss\fcharset162\fprq2 Calibri Light Tur;}{\fhimajor\f31533\fbidi \fswiss\fcharset177\fprq2 Calibri Light (Hebrew);}{\fhimajor\f31534\fbidi \fswiss\fcharset178\fprq2 Calibri Light (Arabic);}
+{\fhimajor\f31535\fbidi \fswiss\fcharset186\fprq2 Calibri Light Baltic;}{\fhimajor\f31536\fbidi \fswiss\fcharset163\fprq2 Calibri Light (Vietnamese);}{\fbimajor\f31538\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\fbimajor\f31539\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fbimajor\f31541\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fbimajor\f31542\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}
+{\fbimajor\f31543\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fbimajor\f31544\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fbimajor\f31545\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\fbimajor\f31546\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\flominor\f31548\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\flominor\f31549\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\flominor\f31551\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\flominor\f31552\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\flominor\f31553\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\flominor\f31554\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\flominor\f31555\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\flominor\f31556\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\fdbminor\f31558\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fdbminor\f31559\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fdbminor\f31561\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
+{\fdbminor\f31562\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fdbminor\f31563\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fdbminor\f31564\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\fdbminor\f31565\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fdbminor\f31566\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fhiminor\f31568\fbidi \fswiss\fcharset238\fprq2 Calibri CE;}
+{\fhiminor\f31569\fbidi \fswiss\fcharset204\fprq2 Calibri Cyr;}{\fhiminor\f31571\fbidi \fswiss\fcharset161\fprq2 Calibri Greek;}{\fhiminor\f31572\fbidi \fswiss\fcharset162\fprq2 Calibri Tur;}
+{\fhiminor\f31573\fbidi \fswiss\fcharset177\fprq2 Calibri (Hebrew);}{\fhiminor\f31574\fbidi \fswiss\fcharset178\fprq2 Calibri (Arabic);}{\fhiminor\f31575\fbidi \fswiss\fcharset186\fprq2 Calibri Baltic;}
+{\fhiminor\f31576\fbidi \fswiss\fcharset163\fprq2 Calibri (Vietnamese);}{\fbiminor\f31578\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fbiminor\f31579\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\fbiminor\f31581\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fbiminor\f31582\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fbiminor\f31583\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\fbiminor\f31584\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fbiminor\f31585\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fbiminor\f31586\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}}
+{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;
+\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\red204\green0\blue51;}{\*\defchp \fs22\loch\af31506\hich\af31506\dbch\af31505 }{\*\defpap \ql \li0\ri0\sa160\sl259\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 }\noqfpromote {\stylesheet{\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\loch\f5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext0 \sqformat \spriority0 Normal;}{\*\cs10 \additive \ssemihidden \sunhideused \spriority1 Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tblind0\tblindtype3\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv \ql \li0\ri0\sa160\sl259\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs22\alang1025 \ltrch\fcs0 \fs22\lang1033\langfe1033\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext11 \ssemihidden \sunhideused 
+Normal Table;}}{\*\rsidtbl \rsid4133640\rsid9643721}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\operator Liubov Phillips}{\creatim\yr2017\mo5\dy20\hr16\min20}
+{\revtim\yr2017\mo5\dy20\hr16\min21}{\version2}{\edmins1}{\nofpages5}{\nofwords3247}{\nofchars18513}{\nofcharsws21717}{\vern57441}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}
+\paperw12240\paperh15840\margl1296\margr1296\margt1728\margb1296\gutter0\ltrsect 
+\widowctrl\ftnbj\aenddoc\trackmoves0\trackformatting1\donotembedsysfont0\relyonvml0\donotembedlingdata1\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0\hyphauto1\horzdoc\dghspace120\dgvspace120
+\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale100\rsidroot9643721 \fet0{\*\wgrffmtfilter 2450}\ilfomacatclnup0{\*\ftnsep \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 
+\af31507\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid4133640 \chftnsep 
+\par }}{\*\ftnsepc \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
+\af31507 \ltrch\fcs0 \insrsid4133640 \chftnsepc 
+\par }}{\*\aftnsep \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
+\af31507 \ltrch\fcs0 \insrsid4133640 \chftnsep 
+\par }}{\*\aftnsepc \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
+\af31507 \ltrch\fcs0 \insrsid4133640 \chftnsepc 
+\par }}\ltrpar \sectd \ltrsect\pgnrestart\linex0\sectdefaultcl\sftnbj {\headerr \ltrpar \pard\plain \ltrpar\qr \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\loch\af5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Page \chpgn 
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs20\alang1025 
+\ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af5 \ltrch\fcs0 \insrsid4133640 \sect }\sectd \ltrsect\sbknone\linex0\sectdefaultcl\sftnbj {\headerr \ltrpar \pard\plain \ltrpar
+\qr \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\hich\af0\dbch\af31505\loch\f0 Page \chpgn 
+\par }\pard \ltrpar\qc \li0\ri0\widctlpar\wrapdefault\hyphpar0\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 1999 U.S. Dist. LEXIS 2059, *; 141 Lab. Cas. (CCH) P58,958
+\par }}\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid4133640 {\*\bkmkstart DOC_ID_0}{\*\bkmkstart DOC_ID_0_0}{\*\bkmkend DOC_ID_0}{\*\bkmkend DOC_ID_0_0}
+\par 
+\par }\pard \ltrpar\qc \li1200\ri1200\widctlpar\wrapdefault\faauto\rin1200\lin1200\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 PETER }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 
+\hich\af0\dbch\af31505\loch\f0 EDWARDS}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0  v. }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 STORAGE}{\rtlch\fcs1 \ab\af0 
+\ltrch\fcs0 \b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0  TECHNOLOGY CORP.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 
+\par }\pard \ltrpar\qc \li1200\ri1200\widctlpar\wrapdefault\faauto\rin1200\lin1200\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 CIVIL ACTION NO. 97-5427
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 
+\par }\pard \ltrpar\qc \li1200\ri1200\widctlpar\wrapdefault\faauto\rin1200\lin1200\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 
+\par }\pard \ltrpar\qc \li1200\ri1200\widctlpar\wrapdefault\faauto\rin1200\lin1200\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 1999 U.S. Dist. LEXIS }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 
+\hich\af0\dbch\af31505\loch\f0 2059}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 ; 141 Lab. Cas. (CCH) P58,958
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 
+\par 
+\par }\pard \ltrpar\qc \li1200\ri1200\widctlpar\wrapdefault\faauto\rin1200\lin1200\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 March 1, 1999, Decided  
+\par \hich\af0\dbch\af31505\loch\f0 March 1, 1999, Filed 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 DISPOSITION:}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0   }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 
+\hich\af0\dbch\af31505\loch\f0 [*1]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0   Defendant's Motion for Leave to Amend GRANTED.  
+\par 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 CASE SUMMARY:}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640\charrsid9643721 \hich\af0\dbch\af31505\loch\f0 PROCEDURAL POSTURE: }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640\charrsid9643721 \hich\af0\dbch\af31505\loch\f0 
+Pursuant to Fed. R. Civ. P. 13(f) and Fed. R. Civ. P. 15(a), defendant employer sought leave to amend its answer to add affirmative defenses and counterclaims based on \hich\af0\dbch\af31505\loch\f0 
+fraud and negligent misrepresentation in plaintiff employee's action for breach of his employment contract.
+\par 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640\charrsid9643721 \hich\af0\dbch\af31505\loch\f0 OVERVIEW: }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640\charrsid9643721 \hich\af0\dbch\af31505\loch\f0 
+Plaintiff employee filed an action against defendant employer seeking damages for breach of an employment contract. During discovery, the\hich\af0\dbch\af31505\loch\f0 
+ court ordered plaintiff to produce certain documents pertaining to his departure from his previous job. Based on information revealed in the documents, defendant believed that plaintiff provided false information during his negotiations with defendant. P
+\hich\af0\dbch\af31505\loch\f0 u\hich\af0\dbch\af31505\loch\f0 
+rsuant to Fed. R. Civ. P. 13(f) and Fed. R. Civ. P. 15(a), defendant sought leave to amend its answer to add affirmative defenses and counterclaims based on fraud and negligent misrepresentation. The court granted the motion. The court determined that pla
+\hich\af0\dbch\af31505\loch\f0 i\hich\af0\dbch\af31505\loch\f0 
+ntiff would not suffer undue prejudice if the court allowed the amendment. The court also determined that defendant's counterclaims were compulsory counterclaims because they arose from the same basic controversy, plaintiff's employment relationship with 
+\hich\af0\dbch\af31505\loch\f0 d\hich\af0\dbch\af31505\loch\f0 
+efendant and the contract that resulted from that relationship. Moreover, the court found no evidence of undue delay by defendant in seeking to bring the counterclaims. Finally, the court determined that the counterclaims were meritorious and, therefore, 
+\hich\af0\dbch\af31505\loch\f0 a\hich\af0\dbch\af31505\loch\f0 mendment would not be futile.
+\par 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640\charrsid9643721 \hich\af0\dbch\af31505\loch\f0 OUTCOME: }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640\charrsid9643721 \hich\af0\dbch\af31505\loch\f0 
+The court granted defendant employer eave to amend its answer to add affirmative defenses and counterclaims based on fraud and negligent misrepresentation in plaintiff employee's breach of contract action. The court \hich\af0\dbch\af31505\loch\f0 
+concluded that the amendment would not result in undue prejudice to plaintiff, that defendant's counterclaims were compulsory, and that defendant's counterclaims were meritorious.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\par 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 CORE TERMS: }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 counterclaim, discovery, compulsory, amend, leave to amend, mer
+\hich\af0\dbch\af31505\loch\f0 
+itorious, opposing, affirmative defenses, employment contract, negligent misrepresentation, statute of limitations, confidentiality, occurrence, pleader, employment relationship, contract claim, party's claim, information contained, justice requires, undu
+\hich\af0\dbch\af31505\loch\f0 e\hich\af0\dbch\af31505\loch\f0  prejudice, undue delay, opportunity to present, disadvantaged, particularity, terminated, settlement, non-moving, diversity, asserting, diligence
+\par 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 COUNSEL: }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 For PETER }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 
+\hich\af0\dbch\af31505\loch\f0 EDWARDS,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0  PLAINTIFF: GEORGE P. WOOD, STEWART WOOD & BRANCA, NORRISTOWN, PA USA.
+\par 
+\par \hich\af0\dbch\af31505\loch\f0 For }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 STORAGE}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 
+ TECHNOLOGY CORPORATION, DEFENDANT: IAN MATHESON BALLARD, JR., MORGAN, LEWIS & BOCKIUS, PHILADELPHIA, PA USA.
+\par 
+\par \hich\af0\dbch\af31505\loch\f0 For DIGITAL EQUIPMENT CORPORATION, MOVANT: LAWRENCE T. HOYLE, HOYLE, MORRIS AND KERR, PHILADELPHIA, PA USA.  
+\par 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 JUDGES: }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 JAMES T. GILES, C.J.  
+\par 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 OPINION BY: }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 JAMES T. GILES
+\par 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0  OPINION
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 MEMORANDUM}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Giles, C.J. 
+\par \hich\af0\dbch\af31505\loch\f0 March 1, 1999
+\par \hich\af0\dbch\af31505\loch\f0 Plaintiff, Peter }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwards ("Edwards}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 "),
+\hich\af0\dbch\af31505\loch\f0  brings this diversity action against }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Storage}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 
+ Technology Corp. ("StorageTek"), his former employer, seeking damages for breach of an employment contract. Based upon documents produced during discovery, StorageTek now seeks leave to amend its answer to add \hich\af0\dbch\af31505\loch\f0 
+affirmative defenses and counterclaims based on fraud and negligent misrepresentation. For the reasons that follow, the motion is granted and StorageTek may file an amended answer with the requested counterclaims.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Background}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwards}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\hich\af0\dbch\af31505\loch\f0  brought this suit in t\hich\af0\dbch\af31505\loch\f0 he Court of Common Pleas of Delaware County on August 1, 1997, alleging that he and StorageTek had agreed to a five-year employment contract that would have }{
+\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 [*2]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 
+  paid him in excess of $ 75,000 per year with potential bonuses and other earnings that would \hich\af0\dbch\af31505\loch\f0 have paid him more than $ 166,000 his first year. The position also required that }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwards}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0  relocate from Boston to the Philadelphia area. }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 
+\hich\af0\dbch\af31505\loch\f0 Edwards}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0  claims his employment was terminated without cause about three months after it had begun. On August 25, 1997, S
+\hich\af0\dbch\af31505\loch\f0 \hich\f0 torageTek removed the case to this court, pursuant to 28 U.S.C. \'a7\'a7\loch\f0 \hich\f0  1441(a) and 1446(b), basing jurisdiction on diversity of citizenship, 28 U.S.C. \'a7\loch\f0 
+ 1332. On September 16, 1997, StorageTek filed an answer. On June 11, 1998, }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwards,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\hich\af0\dbch\af31505\loch\f0  with leave of this cour\hich\af0\dbch\af31505\loch\f0 t, filed an amended complaint, which StorageTek answered on June 19, 1998.
+\par \hich\af0\dbch\af31505\loch\f0 In December 1998, the parties came before this court for resolution of a discovery dispute. StorageTek sought production of certain documents from third party Digital Equipment Corp\hich\af0\dbch\af31505\loch\f0 
+. ("Digital"), one of }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwards's}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 
+ former employers, relating to his performance at Digital and his reasons for leaving that job. }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwards}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\hich\af0\dbch\af31505\loch\f0  opposed production of the documents, which were subject to a confidentiality provision in the settlement agreement. Follo\hich\af0\dbch\af31505\loch\f0 
+wing in camera review, this court on December 23, 1998 ordered production of }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 [*3]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 
+  certain documents relating to }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwards's}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0  departure from Digital.
+\par \hich\af0\dbch\af31505\loch\f0 StorageTek believes, based on those documents, that }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwards}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\hich\af0\dbch\af31505\loch\f0  provided false information about his employment h\hich\af0\dbch\af31505\loch\f0 istory during employment discussions with StorageTek in March 1995. Specifically, }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 
+\hich\af0\dbch\af31505\loch\f0 Edwards}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 
+ stated that he had left Digital because he was recruited by another company and that his performance at Digital never was criticized and that he left Digital voluntar\hich\af0\dbch\af31505\loch\f0 
+ily as an employee in good standing. StorageTek claims that such statements were false and that they form the basis for state law claims of fraud and negligent misrepresentation, which StorageTek now seeks to assert as affirmative defenses and counterclai
+\hich\af0\dbch\af31505\loch\f0 m\hich\af0\dbch\af31505\loch\f0 s.
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Discussion}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0  
+\par \hich\af0\dbch\af31505\loch\f0 
+StorageTek seeks leave to amend pursuant to Fed. R. Civ. P. 13(f) and 15(a).  [HN1] The former rule states that when a pleader has omitted a counterclaim through oversight, inadvertence, or excusable neglect, or "when justice requires," he m
+\hich\af0\dbch\af31505\loch\f0 
+ay by leave of court set up the counterclaim in an amended pleading. Fed. R. Civ. P. 13(f). The latter rule permits a party generally to amend pleadings by leave of court and commands that "leave shall be freely given when justice so requires." Fed. R. Ci
+\hich\af0\dbch\af31505\loch\f0 v\hich\af0\dbch\af31505\loch\f0 .  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 [*4]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 
+  P. 15(a). The two rules together "have been construed to require essentially the same standards for granting leave to add omitted counterclaims." Bryant v. Clark, 1991 U.S. Dist. LEXIS 14755, No. 91-4352, 1991 WL 212092, *1 (E.D. Pa. 1991) (citing
+\hich\af0\dbch\af31505\loch\f0 
+ cases); see also id. at *2 (quoting Perfect Plastics Indus., Inc. v. Cars & Concepts, Inc., 758 F. Supp. 1080, 1081-82 (W.D. Pa. 1991) (noting that the language of Rule 13(f) is "especially flexible and allows the court to exercise its discretion and per
+\hich\af0\dbch\af31505\loch\f0 m\hich\af0\dbch\af31505\loch\f0 
+it amendment whenever it seems desirable to do so"). The decision to grant or deny leave is within the sound discretion of the district court, however the command that leave is to be given freely when justice requires is a mandate that must be heeded.  Fo
+\hich\af0\dbch\af31505\loch\f0 m\hich\af0\dbch\af31505\loch\f0 
+an v. Davis, 371 U.S. 178, 182, 9 L. Ed. 2d 222, 83 S. Ct. 227 (1962); see Heyl & Patterson, Int'l., Inc. v. F.D. Rich Housing of the Virgin Islands, Inc., 663 F.2d 419, 425 (3d Cir. 1981) (quoting 3 Moore's Federal Practice, P 15.08(2) at 15-59 (2d ed. 1
+\hich\af0\dbch\af31505\loch\f0 9\hich\af0\dbch\af31505\loch\f0 80) ("courts have shown a strong liberality" in allowing amendments), cert. denied, 455 U.S. 1018, 72 L. Ed. 2d 136, 102 S. Ct. 1714 (1982).
+\par \hich\af0\dbch\af31505\loch\f0  [HN2] In determining whether to permit a defendant to }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 [*5]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\hich\af0\dbch\af31505\loch\f0   amend its answer to add a counterclaim, the court must\hich\af0\dbch\af31505\loch\f0 
+ consider the presence or absence of a number of factors, including: 1) whether the counterclaim is compulsory; 2) whether the defendant has acted in good faith; 3) whether the defendant has unduly delayed filing the counterclaim; 4) whether the plaintiff
+\hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0 
+would suffer undue prejudice if the amendment is allowed; and 5) whether the counterclaim is meritorious or whether amendment would be futile. See Fort Washington Resources, Inc. v. Tannen, 153 F.R.D. 565, 566 (E.D. Pa. 1994); Bryant, 1991 WL 212092 at *2
+\hich\af0\dbch\af31505\loch\f0 ;\hich\af0\dbch\af31505\loch\f0  Perfect Plastics, 758 F. Supp. at 1082; see also Heyl & Patterson, 663 F.2d at 425 (quoting Foman, 371 U.S. 178 at 182).
+\par \hich\af0\dbch\af31505\loch\f0  [HN3] In the context of amending pleadings generally, the Third Circuit has held that "prejudice to the non-moving party is the touch\hich\af0\dbch\af31505\loch\f0 
+stone for the denial of the amendment." Bechtel v. Robinson, 886 F.2d 644, 652 (3d Cir. 1989) (quoting Cornell & Co. v. Occupational Safety and Health Rev. Comm'n., 573 F.2d 820, 823 (3d Cir. 1978)). The non-moving party bears a heavy burden in challengin
+\hich\af0\dbch\af31505\loch\f0 g\hich\af0\dbch\af31505\loch\f0  a proposed amended pleading. Heyl & Patterson, 663 F.2d at 426. He must do more than merely claim }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 [*6]}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0   prejudice; it must show that it was unfairly disadvantaged or deprived of the opportunity to present facts or evidence which it would have offered had 
+\hich\af0\dbch\af31505\loch\f0 
+the amendments been filed timely.  Bechtel, 886 F.2d at 652 (citing Heyl & Patterson Int'l., 663 F.2d 419 at 426). Absent such prejudice, the district court must ground its denial in one of the other factors, Bechtel, 886 F.2d at 652-53 (citing Heyl & Pat
+\hich\af0\dbch\af31505\loch\f0 t\hich\af0\dbch\af31505\loch\f0 
+erson, 663 F.2d at 425), however the court should be hesitant to deny amendment, even at a later stage of the litigation, when no such prejudice has been demonstrated.  Perfect Plastics, 758 F. Supp. at 1082.
+\par \hich\af0\dbch\af31505\loch\f0 The court considers these factors in turn.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\par }{\rtlch\fcs1 \ab\ai\af0 \ltrch\fcs0 \b\i\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Undue Prejudice to the Plaintiff}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwards}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\hich\af0\dbch\af31505\loch\f0  claims that he will suffer prejudice if the amendment is permitted, primarily because permitting the counterclaim will require additional, increased, and prolonged discovery. The parties will need to depose personne
+\hich\af0\dbch\af31505\loch\f0 l from Digital, which }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwards}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 
+ fears will add "enormous expense to a simple case." Additional document discovery and review also will be necessary, related to }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwards's}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0  performance for two previous employers. This court has imposed a March 15 deadline for t\hich\af0\dbch\af31505\loch\f0 he completion }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 
+\hich\af0\dbch\af31505\loch\f0 [*7]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0   of discovery.
+\par \hich\af0\dbch\af31505\loch\f0 However,  [HN4] the essential question under Rules 15(a) and 13(f) is whether asserting the counterclaim now will burden or disadvantage the plaintiff in a way that it would not have had the counterclaim been brought previ
+\hich\af0\dbch\af31505\loch\f0 
+ously. See Heyl & Patterson, 663 F.2d at 426 (holding that party opposing amendment "must show that it was unfairly disadvantaged or deprived of the opportunity to present facts or evidence which it would have offered" had the amendments been timely). }{
+\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwa\hich\af0\dbch\af31505\loch\f0 rds}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 
+ cannot show that type of actual prejudice in this case. The additional discovery related to }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwards's}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\hich\af0\dbch\af31505\loch\f0  employment at Digital would have been necessary had StorageTek brought the counterclaim at the time of its initial answer in September 1997 or in its \hich\af0\dbch\af31505\loch\f0 
+answer to the amended complaint in June 1998. The timing does not create prejudice that would not have existed previously. While it is true that StorageTek requested leave just six weeks prior to the court-ordered close of discovery, that alone is not suf
+\hich\af0\dbch\af31505\loch\f0 f\hich\af0\dbch\af31505\loch\f0 icient prejudice to deny amendment.
+\par \hich\af0\dbch\af31505\loch\f0 Moreover, the taking of this same discovery about }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwards's}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\hich\af0\dbch\af31505\loch\f0  employment history with Digital would be necessary in any event, because many of the questions raised }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 [*8]}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0   by the proposed counterclaims would be raised by Sto\hich\af0\dbch\af31505\loch\f0 
+rageTek's defenses to the breach of contract claim. See Perfect Plastics Indus., 758 F. Supp. at 1082 ("In all likelihood, the questions raised by the counterclaims would, in any event, be litigated in the action as defenses."). StorageTek initially inqui
+\hich\af0\dbch\af31505\loch\f0 r\hich\af0\dbch\af31505\loch\f0 ed into }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwards's}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 
+ employment history in order to establish a defense that it would not have entered into the contract had it known about }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwards's}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0  employment history with Digital, and might enable it to limit liabili\hich\af0\dbch\af31505\loch\f0 
+ty or damages. See McKennon v. Nashville Banner Publ'g Co., 513 U.S. 352, 360, 130 L. Ed. 2d 852, 115 S. Ct. 879 (1995) (addressing the use of after-acquired evidence in an employment discrimination case to shape the proper remedy and damages). A plaintif
+\hich\af0\dbch\af31505\loch\f0 f\hich\af0\dbch\af31505\loch\f0 
+ asserting breach of contract can anticipate that one possible defense would be fraud-in-the-inducement of that contract and that such a defense may be asserted as a counterclaim. Therefore the need for such discovery, Perfect Plastics, 758 F. Supp. at 10
+\hich\af0\dbch\af31505\loch\f0 8\hich\af0\dbch\af31505\loch\f0 2, and the assertion of a counterclaim, Bryant, 1991 WL 212092, at *2, both should be foreseeable to a plaintiff bringing this action. Given that,  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 [*9]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0   there is no indication that }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 
+\hich\af0\dbch\af31505\loch\f0 Edwards}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0  will be unduly prejudiced by this court granting StorageTek leave \hich\af0\dbch\af31505\loch\f0 to file the amended answer.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\par }{\rtlch\fcs1 \ab\ai\af0 \ltrch\fcs0 \b\i\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Compulsory Counterclaim}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 
+ [HN5] A counterclaim is compulsory, and therefore is waived if not asserted, "if it arises out of the transaction or occurrence that is the subject matter of the opposing party's claim." Fed. R. Civ. P.\hich\af0\dbch\af31505\loch\f0 
+ 13(a). The operative question in this circuit is whether the counterclaim bears a logical relationship to an opposing party's claim, which in turn includes claims that involve: "(1) many of the same factual issues; (2) the same factual and legal issues; 
+\hich\af0\dbch\af31505\loch\f0 o\hich\af0\dbch\af31505\loch\f0 
+r (3) offshoots of the same basic controversy between the parties." Xerox Corp. v. SCM Corp., 576 F.2d 1057, 1059 (3d Cir. 1978). Under the third, and perhaps the first, prong of this standard, the proposed counterclaims are compulsory and would be barred
+\hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0 to StorageTek if leave to raise them in the instant case is denied. See id. at 1059; Perfect Plastics, 758 F. Supp. at 1082.
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwards}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 
+ asserts that the claim and proposed counterclaim arise from different transactions or occurrences, that the breach of contr\hich\af0\dbch\af31505\loch\f0 act claims are based on StorageTek's failure to pay him earned }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 [*10]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 
+  wages, while the counterclaims are based on the question of whether or not he worked earning the wages. This argument adopts too narrow a construction of "offshoots of the same basic con\hich\af0\dbch\af31505\loch\f0 
+troversy." The parties allegedly agreed to a five-year employment contract and }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwards}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\hich\af0\dbch\af31505\loch\f0  seeks, among other damages, five years of his base salary of $ 75,000. (Am. Compl. P 34). StorageTek wants to argue that, through his misrepresentations and omissions, }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 E\hich\af0\dbch\af31505\loch\f0 dwards}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 
+ committed fraud in order to induce them to enter into the contract. (Countercl. PP 18-20). The basic controversy is the employment relationship between }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwards}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0  and StorageTek and that contract that resulted from that relationship. The claim of a bre\hich\af0\dbch\af31505\loch\f0 
+ach of that contract and the defense and counterclaim of fraud in entering that contract arise from the same basic controversy, that employment relationship. The counterclaims are compulsory and the argument for permitting StorageTek to amend therefore is
+\hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0 "especially compelling." Perfect Plastics, 758 F. Supp. at 1082 (quoting Spartan Grain & Mill Co. v. Ayers, 517 F.2d 214, 220 (5th Cir. 1975)).
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0  
+\par }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Undue Delay}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 This court finds no evidence of undue delay by StorageTek in seeking to }{\rtlch\fcs1 \ab\af0 
+\ltrch\fcs0 \b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 [*11]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0   bring its countercl\hich\af0\dbch\af31505\loch\f0 
+aims. StorageTek bases these counterclaims on the documents produced by Digital under court order in December and StorageTek moved this court for leave to amend within six weeks of obtaining those documents. StorageTek also sought the consent of opposing 
+\hich\af0\dbch\af31505\loch\f0 c\hich\af0\dbch\af31505\loch\f0 ounsel prior to seeking leave from this court. }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwards's}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0  separation from Digital was governed by a confidentiality provision, which prevented StorageTek from obtaining these documents and information in any other manner any earlier than December. Moreover,
+\hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwards}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 
+ strenuously objected to production of the Digital documents and the information contained therein. }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwards}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\hich\af0\dbch\af31505\loch\f0  thus cannot argue that StorageTek should have sought the documents at an earlier point in time; he presumably would have opposed release of \hich\af0\dbch\af31505\loch\f0 
+the documents regardless of when StorageTek sought production.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\par }{\rtlch\fcs1 \ab\ai\af0 \ltrch\fcs0 \b\i\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Meritorious Counterclaim}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 
+ [HN6] This court may deny leave to amend where the counterclaim is not meritorious and amendment therefore would be futile. Heyl & Patterson, 663 F.2d at 425. This re\hich\af0\dbch\af31505\loch\f0 
+quires the court to review the merits of the proposed pleading, applying the standards of Fed. R. Civ. P. 12(b)(6) and construing the allegations of the }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 [*12]}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0   counterclaim in the light most favorable to the defendant/counterclaimant.  Fort Washington Reso\hich\af0\dbch\af31505\loch\f0 urces, 153 F.R.D. at 566. }{\rtlch\fcs1 
+\ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwards}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 
+ argues that the counterclaims are defective in two respects. The court rejects both arguments and holds that the counterclaims are meritorious for Rule 13(f) purposes.
+\par \hich\af0\dbch\af31505\loch\f0 First, }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwards}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 
+ argues that the counterclaims are barre\hich\af0\dbch\af31505\loch\f0 \hich\f0 d by the two-year Pennsylvania Statute of Limitations on actions for fraud and negligent misrepresentation. 42 Pa. Cons. Stat. \'a7\loch\f0 
+ 5524(7) ("Any other action or proceeding to recover damages for injury to person or property which is founded on negligent, in\hich\af0\dbch\af31505\loch\f0 t\hich\af0\dbch\af31505\loch\f0 
+entional or otherwise tortious conduct . . . including deceit or fraud."). On its face, the counterclaim refers to events occurring in February 1995, meaning the statute of limitations lapsed in February 1997; }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwards}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0  argues that the counterclaims are time\hich\af0\dbch\af31505\loch\f0 -barred.
+\par \hich\af0\dbch\af31505\loch\f0 
+ [HN7] Pennsylvania recognizes an exception to the statute of limitations that "'delays the running of the statute until the plaintiff knew, or through the exercise of reasonable diligence should have known, of the injury and its cause.'" Beauty T
+\hich\af0\dbch\af31505\loch\f0 ime, Inc. v. VU Skin Systems, Inc., 118 F.3d 140, 144 (3d Cir. 1997) (quoting }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 [*13]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\hich\af0\dbch\af31505\loch\f0   Urland v. Merrell-Dow Pharmaceuticals, 822 F.2d 1268, 1271 (3d Cir. 1987)). As already discussed, supra, StorageTek did not learn the factual basis for its fraud claims un\hich\af0\dbch\af31505\loch\f0 
+til the Digital documents were produced in December 1998. Because those documents and the information therein were governed by a confidentiality agreement, no amount of due diligence would have revealed the relevant details about }{\rtlch\fcs1 \ab\af0 
+\ltrch\fcs0 \b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwards's}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0  employment at Di\hich\af0\dbch\af31505\loch\f0 
+gital any earlier. The terms of the settlement agreement between }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwards}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 
+ and Digital prohibited Digital from providing any such information. There was no way that StorageTek could have learned any of the information contained in the Digital documents in 19\hich\af0\dbch\af31505\loch\f0 
+95 or any time prior to production in December. Therefore, the discovery rule applies, the two-year statute of limitations did not begin to run until December 1998, and these claims are timely. }{\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 
+\f0\fs16\super\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 1}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\par 
+\par }\pard \ltrpar\ql \li600\ri0\widctlpar\wrapdefault\faauto\rin0\lin600\itap0 {\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 1 In addition, the counterclaim is not as untimely as }{\rtlch\fcs1 \ab\af0\afs16 
+\ltrch\fcs0 \b\f0\fs16\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwa\hich\af0\dbch\af31505\loch\f0 rds}{\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 
+ claims. Although Rule 13(f) is silent as to whether an amended pleading relates back to the date of the original pleading for statute of limitations purposes,  [HN8] Rule 15(c)(2) states than an amended pleading relates back if "the claim or defense as
+\hich\af0\dbch\af31505\loch\f0 
+serted in the amended pleading arose out of the conduct, transaction, or occurrence set forth or attempted to be set forth in the original pleading." Courts and commentators have construed the two rules together so that once the standard of Rule 13(f) is 
+\hich\af0\dbch\af31505\loch\f0 s\hich\af0\dbch\af31505\loch\f0 \hich\f0 
+atisfied, the general provisions of Rule 15 control, including the provision for relation back, the addition of counterclaims. See Perfect Plastics, 758 F. Supp. at 1083; 6 Wright & Miller, Federal Practice and Procedure, \'a7\loch\f0 
+ 1430 at 228 (2d ed. 1990). Beca\hich\af0\dbch\af31505\loch\f0 u\hich\af0\dbch\af31505\loch\f0 
+se the amended answer and counterclaim relates back to the date of the original answer, filed in September 1997, StorageTek only is a few months beyond the running of the limitations period, not the full two years that }{\rtlch\fcs1 \ab\af0\afs16 
+\ltrch\fcs0 \b\f0\fs16\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwards}{\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\insrsid4133640 \hich\af0\dbch\af31505\loch\f0  claims.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 [*14]}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0   Second, }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwa\hich\af0\dbch\af31505\loch\f0 rds}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 
+ argues that the proposed counterclaim does not meet the heightened pleading requirements for fraud established by the rules of civil procedure.  [HN9] The rules require that in all claims for fraud or mistake, "the circumstances constituting fraud or m
+\hich\af0\dbch\af31505\loch\f0 
+istake shall be stated with particularity." Fed. R. Civ. P. 9(b). The rules require a pleader to allege "(1) a specific false representation of material fact; (2) knowledge by the person who made it of its falsity; (3) ignorance of its falsity by the pers
+\hich\af0\dbch\af31505\loch\f0 o\hich\af0\dbch\af31505\loch\f0 
+n to whom it was made; (4) the intention that it should be acted upon; and (5) that the [pleader] acted upon it to his damage." Shapiro v. UJB Fin. Corp., 964 F.2d 272, 284 (3d Cir.), cert. denied, 506 U.S. 934, 121 L. Ed. 2d 278, 113 S. Ct. 365 (1992). H
+\hich\af0\dbch\af31505\loch\f0 o\hich\af0\dbch\af31505\loch\f0 
+wever, the Third Circuit has made clear regarding Rule 9(b) that "focusing exclusively on its particularity language is too narrow an approach and fails to take account of the general simplicity and flexibility contemplated by the rules." Seville Indus. M
+\hich\af0\dbch\af31505\loch\f0 a\hich\af0\dbch\af31505\loch\f0 ch. Corp. v. Southmost Mach. Corp., 742 F.2d 786, 791 (3d Cir. 1984) (internal quotation marks omitted), cert. denied, 469 U.S. 1211, 84 L. Ed. 2d 327,  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 [*15]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0   105 S. Ct. 1179 (1985); Killian v. McCulloch, 850 F. Supp. 1239, 1253-54 (E.D. Pa. 1994). There 
+\hich\af0\dbch\af31505\loch\f0 simply must be some precision and some measure of substantiation in the pleading to satisfy the rule.  Killian, 850 F. Supp. at 1254.
+\par \hich\af0\dbch\af31505\loch\f0 While not a model of specificity, the proposed counterclaim is sufficient under the standards of Rule 9(b). StorageTek all\hich\af0\dbch\af31505\loch\f0 eges three occasions in which }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwards}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 
+ falsely stated that his performance at Digital had not been criticized and that he voluntarily terminated his employment--to a recruiter acting on StorageTek's behalf, to someone at StorageTek, and on his employment ap\hich\af0\dbch\af31505\loch\f0 
+plication--statements that StorageTek claims were false. (Countercl. PP 7-8, 13-15). StorageTek avers that }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Edwards}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\hich\af0\dbch\af31505\loch\f0 
+ knew his statements were false (Countercl. PP 9, 15), that he intended for StorageTek to rely on them (Countercl. PP 10, 16), and that StorageTek did rely on them to its detriment. (Countercl. PP 12, 17). This is sufficiently precise for purposes of Fed.
+\hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0 R. Civ. P. 9(b).
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 Conclusion}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 
+For the foregoing reasons, the motion to amend the answer and add the requested counterclaims is granted.
+\par \hich\af0\dbch\af31505\loch\f0 An appropriate order follows.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 ORDER}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 AND NOW, this 1st day }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid4133640 
+\hich\af0\dbch\af31505\loch\f0 [*16]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid4133640 \hich\af0\dbch\af31505\loch\f0 
+  of March 1999, upon consideration of Defendant's Motion for Leave to Amend its Answer and Affirmative Defenses to Plaintiff's Amended Complaint and to Assert Counterclaims, it hereby is ORDERED that the motion is GRANTED. The clerk of court is directed 
+\hich\af0\dbch\af31505\loch\f0 t\hich\af0\dbch\af31505\loch\f0 o docket the Amended Answer, Affirmative Defenses, and Counterclaims as filed.
+\par \hich\af0\dbch\af31505\loch\f0 BY THE COURT:
+\par \hich\af0\dbch\af31505\loch\f0 JAMES T. GILES C.J.  
+\par \sect }\sectd \ltrsect\sbknone\linex0\sectdefaultcl\sftnbj {\headerr \ltrpar \pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\loch\af5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31507\afs24 \ltrch\fcs0 \fs24\insrsid4133640 
+\par }}\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid4133640 
+\par }{\*\themedata 504b030414000600080000002100e9de0fbfff0000001c020000130000005b436f6e74656e745f54797065735d2e786d6cac91cb4ec3301045f748fc83e52d4a
+9cb2400825e982c78ec7a27cc0c8992416c9d8b2a755fbf74cd25442a820166c2cd933f79e3be372bd1f07b5c3989ca74aaff2422b24eb1b475da5df374fd9ad
+5689811a183c61a50f98f4babebc2837878049899a52a57be670674cb23d8e90721f90a4d2fa3802cb35762680fd800ecd7551dc18eb899138e3c943d7e503b6
+b01d583deee5f99824e290b4ba3f364eac4a430883b3c092d4eca8f946c916422ecab927f52ea42b89a1cd59c254f919b0e85e6535d135a8de20f20b8c12c3b0
+0c895fcf6720192de6bf3b9e89ecdbd6596cbcdd8eb28e7c365ecc4ec1ff1460f53fe813d3cc7f5b7f020000ffff0300504b030414000600080000002100a5d6
+a7e7c0000000360100000b0000005f72656c732f2e72656c73848fcf6ac3300c87ef85bd83d17d51d2c31825762fa590432fa37d00e1287f68221bdb1bebdb4f
+c7060abb0884a4eff7a93dfeae8bf9e194e720169aaa06c3e2433fcb68e1763dbf7f82c985a4a725085b787086a37bdbb55fbc50d1a33ccd311ba548b6309512
+0f88d94fbc52ae4264d1c910d24a45db3462247fa791715fd71f989e19e0364cd3f51652d73760ae8fa8c9ffb3c330cc9e4fc17faf2ce545046e37944c69e462
+a1a82fe353bd90a865aad41ed0b5b8f9d6fd010000ffff0300504b0304140006000800000021006b799616830000008a0000001c0000007468656d652f746865
+6d652f7468656d654d616e616765722e786d6c0ccc4d0ac3201040e17da17790d93763bb284562b2cbaebbf600439c1a41c7a0d29fdbd7e5e38337cedf14d59b
+4b0d592c9c070d8a65cd2e88b7f07c2ca71ba8da481cc52c6ce1c715e6e97818c9b48d13df49c873517d23d59085adb5dd20d6b52bd521ef2cdd5eb9246a3d8b
+4757e8d3f729e245eb2b260a0238fd010000ffff0300504b030414000600080000002100aa5225dfc60600008b1a0000160000007468656d652f7468656d652f
+7468656d65312e786d6cec595d8bdb46147d2ff43f08bd3bfe92fcb1c41b6cd9ceb6d94d42eca4e4716c8fadc98e344633de8d0981923c160aa569e943037deb
+43691b48a02fe9afd936a54d217fa17746b63c638fbb9b2585a5640d8b343af7ce997bafce1d4997afdc8fa87384134e58dc708b970aae83e3211b9178d2706f
+f7bbb99aeb7081e211a22cc60d778eb97b65f7c30f2ea31d11e2083b601ff31dd4704321a63bf93c1fc230e297d814c7706dcc920809384d26f951828ec16f44
+f3a542a1928f10895d274611b8bd311e932176fad2a5bbbb74dea1701a0b2e078634e949d7d8b050d8d1615122f89c0734718e106db830cf881df7f17de13a14
+7101171a6e41fdb9f9ddcb79b4b330a2628bad66d7557f0bbb85c1e8b0a4e64c26836c52cff3bd4a33f3af00546ce23ad54ea553c9fc29001a0e61a52917dda7
+dfaab7dafe02ab81d2438bef76b55d2e1a78cd7f798373d3973f03af40a97f6f03dfed06104503af4029dedfc07b5eb51478065e81527c65035f2d34db5ed5c0
+2b5048497cb8812ef89572b05c6d061933ba6785d77daf5b2d2d9caf50500d5975c929c62c16db6a2d42f758d2058004522448ec88f9148fd110aa3840940c12
+e2ec93490885374531e3305c2815ba8532fc973f4f1da988a01d8c346bc90b98f08d21c9c7e1c3844c45c3fd18bcba1ae4cdcb1fdfbc7cee9c3c7a71f2e89793
+c78f4f1efd9c3a32acf6503cd1ad5e7fffc5df4f3f75fe7afeddeb275fd9f15cc7fffed367bffdfaa51d082b5d85e0d5d7cffe78f1ecd5379ffff9c3130bbc99
+a0810eef930873e73a3e766eb10816a6426032c783e4ed2cfa2122ba45339e701423398bc57f478406fafa1c5164c1b5b019c13b09488c0d787576cf20dc0b93
+9920168fd7c2c8001e30465b2cb146e19a9c4b0b737f164fec9327331d770ba123dbdc018a8dfc766653d05662731984d8a07993a258a0098eb170e4357688b1
+6575770931e27a408609e36c2c9cbbc46921620d499f0c8c6a5a19ed9108f232b711847c1bb139b8e3b418b5adba8d8f4c24dc15885ac8f73135c27815cd048a
+6c2efb28a27ac0f791086d247bf364a8e33a5c40a6279832a733c29cdb6c6e24b05e2de9d7405eec693fa0f3c84426821cda7cee23c674649b1d06218aa6366c
+8fc4a18efd881f428922e7261336f80133ef10790e7940f1d674df21d848f7e96a701b9455a7b42a107965965872791533a37e7b733a4658490d08bfa1e71189
+4f15f73559f7ff5b5907217df5ed53cbaa2eaaa0371362bda3f6d6647c1b6e5dbc03968cc8c5d7ee369ac53731dc2e9b0decbd74bf976ef77f2fdddbeee7772f
+d82b8d06f9965bc574abae36eed1d67dfb9850da13738af7b9daba73e84ca32e0c4a3bf5cc8ab3e7b8690887f24e86090cdc2441cac64998f88488b017a229ec
+ef8bae7432e10bd713ee4c19876dbf1ab6fa96783a8b0ed8287d5c2d16e5a3692a1e1c89d578c1cfc6e15143a4e84a75f50896b9576c27ea51794940dabe0d09
+6d329344d942a2ba1c9441520fe610340b09b5b277c2a26e615193ee97a9da6001d4b2acc0d6c9810d57c3f53d30012378a242148f649ed2542fb3ab92f92e33
+bd2d984605c03e625901ab4cd725d7adcb93ab4b4bed0c99364868e566925091513d8c87688417d52947cf42e36d735d5fa5d4a02743a1e683d25ad1a8d6fe8d
+c579730d76ebda40635d2968ec1c37dc4ad9879219a269c31dc3633f1c4653a81d2eb7bc884ee0ddd95024e90d7f1e6599265cb4110fd3802bd149d520220227
+0e2551c395cbcfd24063a5218a5bb104827061c9d541562e1a3948ba99643c1ee3a1d0d3ae8dc848a7a7a0f0a95658af2af3f383a5259b41ba7be1e8d819d059
+720b4189f9d5a20ce0887078fb534ca33922f03a3313b255fdad35a685eceaef13550da5e3884e43b4e828ba98a77025e5191d7596c5403b5bac1902aa8564d1
+080713d960f5a01add34eb1a2987ad5df7742319394d34573dd35015d935ed2a66ccb06c036bb13c5f93d7582d430c9aa677f854bad725b7bed4bab57d42d625
+20e059fc2c5df70c0d41a3b69acca026196fcab0d4ecc5a8d93b960b3c85da599a84a6fa95a5dbb5b8653dc23a1d0c9eabf383dd7ad5c2d078b9af549156df3d
+f44f136c700fc4a30d2f81675470954af8f09020d810f5d49e24950db845ee8bc5ad0147ce2c210df741c16f7a41c90f72859adfc97965af90abf9cd72aee9fb
+e562c72f16daadd243682c228c8a7efacda50bafa2e87cf1e5458d6f7c7d89966fdb2e0d599467eaeb4a5e11575f5f8aa5ed5f5f1c02a2f3a052ead6cbf55625
+572f37bb39afddaae5ea41a5956b57826abbdb0efc5abdfbd0758e14d86b9603afd2a9e52ac520c8799582a45fabe7aa5ea9d4f4aacd5ac76b3e5c6c6360e5a9
+7c2c6201e155bc76ff010000ffff0300504b0304140006000800000021000dd1909fb60000001b010000270000007468656d652f7468656d652f5f72656c732f
+7468656d654d616e616765722e786d6c2e72656c73848f4d0ac2301484f78277086f6fd3ba109126dd88d0add40384e4350d363f2451eced0dae2c082e8761be
+9969bb979dc9136332de3168aa1a083ae995719ac16db8ec8e4052164e89d93b64b060828e6f37ed1567914b284d262452282e3198720e274a939cd08a54f980
+ae38a38f56e422a3a641c8bbd048f7757da0f19b017cc524bd62107bd5001996509affb3fd381a89672f1f165dfe514173d9850528a2c6cce0239baa4c04ca5b
+babac4df000000ffff0300504b01022d0014000600080000002100e9de0fbfff0000001c0200001300000000000000000000000000000000005b436f6e74656e
+745f54797065735d2e786d6c504b01022d0014000600080000002100a5d6a7e7c0000000360100000b00000000000000000000000000300100005f72656c732f
+2e72656c73504b01022d00140006000800000021006b799616830000008a0000001c00000000000000000000000000190200007468656d652f7468656d652f74
+68656d654d616e616765722e786d6c504b01022d0014000600080000002100aa5225dfc60600008b1a00001600000000000000000000000000d6020000746865
+6d652f7468656d652f7468656d65312e786d6c504b01022d00140006000800000021000dd1909fb60000001b0100002700000000000000000000000000d00900007468656d652f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73504b050600000000050005005d010000cb0a00000000}
+{\*\colorschememapping 3c3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d225554462d3822207374616e64616c6f6e653d22796573223f3e0d0a3c613a636c724d
+617020786d6c6e733a613d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f64726177696e676d6c2f323030362f6d6169
+6e22206267313d226c743122207478313d22646b3122206267323d226c743222207478323d22646b322220616363656e74313d22616363656e74312220616363
+656e74323d22616363656e74322220616363656e74333d22616363656e74332220616363656e74343d22616363656e74342220616363656e74353d22616363656e74352220616363656e74363d22616363656e74362220686c696e6b3d22686c696e6b2220666f6c486c696e6b3d22666f6c486c696e6b222f3e}
+{\*\latentstyles\lsdstimax371\lsdlockeddef0\lsdsemihiddendef0\lsdunhideuseddef0\lsdqformatdef0\lsdprioritydef99{\lsdlockedexcept \lsdqformat1 \lsdpriority0 \lsdlocked0 Normal;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 1;
+\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 2;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 3;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 4;
+\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 5;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 6;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 7;
+\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 8;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 9;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 1;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 5;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 6;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 7;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 8;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 9;
+\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 1;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 2;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 4;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 5;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 6;
+\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 7;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 8;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 9;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Normal Indent;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 footnote text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 annotation text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 header;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 footer;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index heading;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority35 \lsdlocked0 caption;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 table of figures;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 envelope address;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 envelope return;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 footnote reference;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 annotation reference;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 line number;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 page number;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 endnote reference;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 endnote text;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 table of authorities;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 macro;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 toa heading;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number 5;\lsdqformat1 \lsdpriority10 \lsdlocked0 Title;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Closing;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Signature;\lsdsemihidden1 \lsdunhideused1 \lsdpriority1 \lsdlocked0 Default Paragraph Font;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text Indent;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue 4;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Message Header;\lsdqformat1 \lsdpriority11 \lsdlocked0 Subtitle;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Salutation;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Date;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text First Indent;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text First Indent 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Note Heading;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text Indent 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text Indent 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Block Text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Hyperlink;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 FollowedHyperlink;\lsdqformat1 \lsdpriority22 \lsdlocked0 Strong;
+\lsdqformat1 \lsdpriority20 \lsdlocked0 Emphasis;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Document Map;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Plain Text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 E-mail Signature;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Top of Form;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Bottom of Form;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Normal (Web);\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Acronym;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Address;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Cite;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Code;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Definition;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Keyboard;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Preformatted;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Sample;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Typewriter;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Variable;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Normal Table;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 annotation subject;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 No List;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Outline List 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Outline List 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Outline List 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Simple 1;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Simple 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Simple 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Classic 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Classic 2;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Classic 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Classic 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Colorful 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Colorful 2;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Colorful 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Columns 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Columns 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Columns 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Columns 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Columns 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 2;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 6;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 7;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 8;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 2;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 6;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 7;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 8;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table 3D effects 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table 3D effects 2;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table 3D effects 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Contemporary;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Elegant;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Professional;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Subtle 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Subtle 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Web 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Web 2;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Web 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Balloon Text;\lsdpriority39 \lsdlocked0 Table Grid;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Theme;\lsdsemihidden1 \lsdlocked0 Placeholder Text;
+\lsdqformat1 \lsdpriority1 \lsdlocked0 No Spacing;\lsdpriority60 \lsdlocked0 Light Shading;\lsdpriority61 \lsdlocked0 Light List;\lsdpriority62 \lsdlocked0 Light Grid;\lsdpriority63 \lsdlocked0 Medium Shading 1;\lsdpriority64 \lsdlocked0 Medium Shading 2;
+\lsdpriority65 \lsdlocked0 Medium List 1;\lsdpriority66 \lsdlocked0 Medium List 2;\lsdpriority67 \lsdlocked0 Medium Grid 1;\lsdpriority68 \lsdlocked0 Medium Grid 2;\lsdpriority69 \lsdlocked0 Medium Grid 3;\lsdpriority70 \lsdlocked0 Dark List;
+\lsdpriority71 \lsdlocked0 Colorful Shading;\lsdpriority72 \lsdlocked0 Colorful List;\lsdpriority73 \lsdlocked0 Colorful Grid;\lsdpriority60 \lsdlocked0 Light Shading Accent 1;\lsdpriority61 \lsdlocked0 Light List Accent 1;
+\lsdpriority62 \lsdlocked0 Light Grid Accent 1;\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 1;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 1;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 1;\lsdsemihidden1 \lsdlocked0 Revision;
+\lsdqformat1 \lsdpriority34 \lsdlocked0 List Paragraph;\lsdqformat1 \lsdpriority29 \lsdlocked0 Quote;\lsdqformat1 \lsdpriority30 \lsdlocked0 Intense Quote;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 1;\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 1;
+\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 1;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 1;\lsdpriority70 \lsdlocked0 Dark List Accent 1;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 1;\lsdpriority72 \lsdlocked0 Colorful List Accent 1;
+\lsdpriority73 \lsdlocked0 Colorful Grid Accent 1;\lsdpriority60 \lsdlocked0 Light Shading Accent 2;\lsdpriority61 \lsdlocked0 Light List Accent 2;\lsdpriority62 \lsdlocked0 Light Grid Accent 2;\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 2;
+\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 2;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 2;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 2;\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 2;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 2;
+\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 2;\lsdpriority70 \lsdlocked0 Dark List Accent 2;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 2;\lsdpriority72 \lsdlocked0 Colorful List Accent 2;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 2;
+\lsdpriority60 \lsdlocked0 Light Shading Accent 3;\lsdpriority61 \lsdlocked0 Light List Accent 3;\lsdpriority62 \lsdlocked0 Light Grid Accent 3;\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 3;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 3;
+\lsdpriority65 \lsdlocked0 Medium List 1 Accent 3;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 3;\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 3;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 3;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 3;
+\lsdpriority70 \lsdlocked0 Dark List Accent 3;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 3;\lsdpriority72 \lsdlocked0 Colorful List Accent 3;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 3;\lsdpriority60 \lsdlocked0 Light Shading Accent 4;
+\lsdpriority61 \lsdlocked0 Light List Accent 4;\lsdpriority62 \lsdlocked0 Light Grid Accent 4;\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 4;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 4;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 4;
+\lsdpriority66 \lsdlocked0 Medium List 2 Accent 4;\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 4;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 4;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 4;\lsdpriority70 \lsdlocked0 Dark List Accent 4;
+\lsdpriority71 \lsdlocked0 Colorful Shading Accent 4;\lsdpriority72 \lsdlocked0 Colorful List Accent 4;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 4;\lsdpriority60 \lsdlocked0 Light Shading Accent 5;\lsdpriority61 \lsdlocked0 Light List Accent 5;
+\lsdpriority62 \lsdlocked0 Light Grid Accent 5;\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 5;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 5;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 5;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 5;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 5;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 5;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 5;\lsdpriority70 \lsdlocked0 Dark List Accent 5;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 5;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 5;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 5;\lsdpriority60 \lsdlocked0 Light Shading Accent 6;\lsdpriority61 \lsdlocked0 Light List Accent 6;\lsdpriority62 \lsdlocked0 Light Grid Accent 6;
+\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 6;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 6;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 6;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 6;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 6;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 6;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 6;\lsdpriority70 \lsdlocked0 Dark List Accent 6;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 6;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 6;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 6;\lsdqformat1 \lsdpriority19 \lsdlocked0 Subtle Emphasis;\lsdqformat1 \lsdpriority21 \lsdlocked0 Intense Emphasis;
+\lsdqformat1 \lsdpriority31 \lsdlocked0 Subtle Reference;\lsdqformat1 \lsdpriority32 \lsdlocked0 Intense Reference;\lsdqformat1 \lsdpriority33 \lsdlocked0 Book Title;\lsdsemihidden1 \lsdunhideused1 \lsdpriority37 \lsdlocked0 Bibliography;
+\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority39 \lsdlocked0 TOC Heading;\lsdpriority41 \lsdlocked0 Plain Table 1;\lsdpriority42 \lsdlocked0 Plain Table 2;\lsdpriority43 \lsdlocked0 Plain Table 3;\lsdpriority44 \lsdlocked0 Plain Table 4;
+\lsdpriority45 \lsdlocked0 Plain Table 5;\lsdpriority40 \lsdlocked0 Grid Table Light;\lsdpriority46 \lsdlocked0 Grid Table 1 Light;\lsdpriority47 \lsdlocked0 Grid Table 2;\lsdpriority48 \lsdlocked0 Grid Table 3;\lsdpriority49 \lsdlocked0 Grid Table 4;
+\lsdpriority50 \lsdlocked0 Grid Table 5 Dark;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 1;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 1;
+\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 1;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 1;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 1;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 1;
+\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 1;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 2;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 2;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 2;
+\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 2;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 2;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 2;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 2;
+\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 3;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 3;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 3;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 3;
+\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 3;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 3;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 3;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 4;
+\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 4;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 4;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 4;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 4;
+\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 4;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 4;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 5;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 5;
+\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 5;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 5;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 5;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 5;
+\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 5;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 6;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 6;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 6;
+\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 6;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 6;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 6;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 6;
+\lsdpriority46 \lsdlocked0 List Table 1 Light;\lsdpriority47 \lsdlocked0 List Table 2;\lsdpriority48 \lsdlocked0 List Table 3;\lsdpriority49 \lsdlocked0 List Table 4;\lsdpriority50 \lsdlocked0 List Table 5 Dark;
+\lsdpriority51 \lsdlocked0 List Table 6 Colorful;\lsdpriority52 \lsdlocked0 List Table 7 Colorful;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 1;\lsdpriority47 \lsdlocked0 List Table 2 Accent 1;\lsdpriority48 \lsdlocked0 List Table 3 Accent 1;
+\lsdpriority49 \lsdlocked0 List Table 4 Accent 1;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 1;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 1;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 1;
+\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 2;\lsdpriority47 \lsdlocked0 List Table 2 Accent 2;\lsdpriority48 \lsdlocked0 List Table 3 Accent 2;\lsdpriority49 \lsdlocked0 List Table 4 Accent 2;
+\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 2;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 2;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 2;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 3;
+\lsdpriority47 \lsdlocked0 List Table 2 Accent 3;\lsdpriority48 \lsdlocked0 List Table 3 Accent 3;\lsdpriority49 \lsdlocked0 List Table 4 Accent 3;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 3;
+\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 3;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 3;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 4;\lsdpriority47 \lsdlocked0 List Table 2 Accent 4;
+\lsdpriority48 \lsdlocked0 List Table 3 Accent 4;\lsdpriority49 \lsdlocked0 List Table 4 Accent 4;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 4;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 4;
+\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 4;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 5;\lsdpriority47 \lsdlocked0 List Table 2 Accent 5;\lsdpriority48 \lsdlocked0 List Table 3 Accent 5;
+\lsdpriority49 \lsdlocked0 List Table 4 Accent 5;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 5;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 5;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 5;
+\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 6;\lsdpriority47 \lsdlocked0 List Table 2 Accent 6;\lsdpriority48 \lsdlocked0 List Table 3 Accent 6;\lsdpriority49 \lsdlocked0 List Table 4 Accent 6;
+\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 6;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 6;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 6;}}{\*\datastore 010500000200000018000000
+4d73786d6c322e534158584d4c5265616465722e362e3000000000000000000000060000
+d0cf11e0a1b11ae1000000000000000000000000000000003e000300feff090006000000000000000000000001000000010000000000000000100000feffffff00000000feffffff0000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffdfffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e50000000000000000000000007099
+81a0a6d1d201feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000105000000000000}}
