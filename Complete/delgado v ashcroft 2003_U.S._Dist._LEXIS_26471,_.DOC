@@ -1,0 +1,680 @@
+{\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff0\deff0\stshfdbch31505\stshfloch31506\stshfhich31506\stshfbi0\deflang1033\deflangfe1033\themelang1033\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f5\fbidi \fmodern\fcharset0\fprq1{\*\panose 02070409020205020404}Courier;}
+{\f34\fbidi \froman\fcharset0\fprq2{\*\panose 02040503050406030204}Cambria Math;}{\flomajor\f31500\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\fdbmajor\f31501\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fhimajor\f31502\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0302020204030204}Calibri Light;}
+{\fbimajor\f31503\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\flominor\f31504\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\fdbminor\f31505\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fhiminor\f31506\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}
+{\fbiminor\f31507\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f41\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\f42\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\f44\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\f45\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\f46\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f47\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\f48\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\f49\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f381\fbidi \froman\fcharset238\fprq2 Cambria Math CE;}{\f382\fbidi \froman\fcharset204\fprq2 Cambria Math Cyr;}
+{\f384\fbidi \froman\fcharset161\fprq2 Cambria Math Greek;}{\f385\fbidi \froman\fcharset162\fprq2 Cambria Math Tur;}{\f388\fbidi \froman\fcharset186\fprq2 Cambria Math Baltic;}{\f389\fbidi \froman\fcharset163\fprq2 Cambria Math (Vietnamese);}
+{\flomajor\f31508\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\flomajor\f31509\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\flomajor\f31511\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
+{\flomajor\f31512\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\flomajor\f31513\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\flomajor\f31514\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\flomajor\f31515\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\flomajor\f31516\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fdbmajor\f31518\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\fdbmajor\f31519\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fdbmajor\f31521\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fdbmajor\f31522\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}
+{\fdbmajor\f31523\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fdbmajor\f31524\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fdbmajor\f31525\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\fdbmajor\f31526\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fhimajor\f31528\fbidi \fswiss\fcharset238\fprq2 Calibri Light CE;}{\fhimajor\f31529\fbidi \fswiss\fcharset204\fprq2 Calibri Light Cyr;}
+{\fhimajor\f31531\fbidi \fswiss\fcharset161\fprq2 Calibri Light Greek;}{\fhimajor\f31532\fbidi \fswiss\fcharset162\fprq2 Calibri Light Tur;}{\fhimajor\f31535\fbidi \fswiss\fcharset186\fprq2 Calibri Light Baltic;}
+{\fhimajor\f31536\fbidi \fswiss\fcharset163\fprq2 Calibri Light (Vietnamese);}{\fbimajor\f31538\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fbimajor\f31539\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\fbimajor\f31541\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fbimajor\f31542\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fbimajor\f31543\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\fbimajor\f31544\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fbimajor\f31545\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fbimajor\f31546\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\flominor\f31548\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\flominor\f31549\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\flominor\f31551\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
+{\flominor\f31552\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\flominor\f31553\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\flominor\f31554\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\flominor\f31555\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\flominor\f31556\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fdbminor\f31558\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\fdbminor\f31559\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fdbminor\f31561\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fdbminor\f31562\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}
+{\fdbminor\f31563\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fdbminor\f31564\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fdbminor\f31565\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\fdbminor\f31566\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fhiminor\f31568\fbidi \fswiss\fcharset238\fprq2 Calibri CE;}{\fhiminor\f31569\fbidi \fswiss\fcharset204\fprq2 Calibri Cyr;}
+{\fhiminor\f31571\fbidi \fswiss\fcharset161\fprq2 Calibri Greek;}{\fhiminor\f31572\fbidi \fswiss\fcharset162\fprq2 Calibri Tur;}{\fhiminor\f31575\fbidi \fswiss\fcharset186\fprq2 Calibri Baltic;}
+{\fhiminor\f31576\fbidi \fswiss\fcharset163\fprq2 Calibri (Vietnamese);}{\fbiminor\f31578\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fbiminor\f31579\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\fbiminor\f31581\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fbiminor\f31582\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fbiminor\f31583\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\fbiminor\f31584\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fbiminor\f31585\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fbiminor\f31586\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}}
+{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;
+\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\red204\green0\blue51;}{\*\defchp \fs22\loch\af31506\hich\af31506\dbch\af31505 }{\*\defpap \ql \li0\ri0\sa160\sl259\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 }\noqfpromote {\stylesheet{\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\loch\f5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext0 \sqformat \spriority0 Normal;}{\*\cs10 \additive \ssemihidden \sunhideused \spriority1 Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tblind0\tblindtype3\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv \ql \li0\ri0\sa160\sl259\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \fs22\lang1033\langfe1033\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext11 \ssemihidden \sunhideused 
+Normal Table;}}{\*\rsidtbl \rsid2229082\rsid2893513\rsid3892797\rsid4087077\rsid5468536\rsid5507626\rsid5992908\rsid6108535\rsid6377129\rsid7807205\rsid8286611\rsid8995499\rsid9380360\rsid9576627\rsid9844299\rsid10510254\rsid12263530\rsid12417657
+\rsid13636024\rsid14748701}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\operator Hildebrand, Richard}{\creatim\yr2017\mo5\dy20\hr16\min21}
+{\revtim\yr2017\mo5\dy29\hr11\min47}{\version14}{\edmins43}{\nofpages9}{\nofwords6546}{\nofchars37315}{\nofcharsws43774}{\vern91}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}
+\paperw12240\paperh15840\margl1296\margr1296\margt1728\margb1296\gutter0\ltrsect 
+\widowctrl\ftnbj\aenddoc\trackmoves0\trackformatting1\donotembedsysfont0\relyonvml0\donotembedlingdata1\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0\hyphauto1\horzdoc\dghspace120\dgvspace120
+\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale140\rsidroot8995499 \fet0{\*\wgrffmtfilter 2450}\ilfomacatclnup0{\*\ftnsep \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 
+\af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid8286611 \chftnsep 
+\par }}{\*\ftnsepc \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid8286611 \chftnsepc 
+\par }}{\*\aftnsep \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid8286611 \chftnsep 
+\par }}{\*\aftnsepc \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid8286611 \chftnsepc 
+\par }}\ltrpar \sectd \ltrsect\pgnrestart\linex0\sectdefaultcl\sftnbj {\headerr \ltrpar \pard\plain \ltrpar\qr \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\loch\af5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 Page \chpgn 
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 
+\ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af5 \ltrch\fcs0 \insrsid10510254 \sect }\sectd \ltrsect\sbknone\linex0\sectdefaultcl\sftnbj {\headerr \ltrpar \pard\plain \ltrpar
+\qr \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\hich\af0\dbch\af31505\loch\f0 Page \chpgn 
+\par }\pard \ltrpar\qc \li0\ri0\widctlpar\wrapdefault\hyphpar0\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 2003 U.S. Dist. LEXIS 26471, *
+\par }}\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid10510254 {\*\bkmkstart DOC_ID_0}{\*\bkmkstart DOC_ID_0_0}{\*\bkmkend DOC_ID_0}{\*\bkmkend DOC_ID_0_0}
+\par 
+\par }\pard \ltrpar\qc \li1200\ri1200\widctlpar\wrapdefault\faauto\rin1200\lin1200\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\highlight7\insrsid10510254\charrsid6377129 \hich\af0\dbch\af31505\loch\f0 ADAM }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf17\highlight7\insrsid10510254\charrsid6377129 \hich\af0\dbch\af31505\loch\f0 DELGADO,}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\highlight7\insrsid10510254\charrsid6377129 \hich\af0\dbch\af31505\loch\f0 
+ Plaintiff, v. JOHN ASHCROFT, Attorney General of the United States, Defendant.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 
+\par }\pard \ltrpar\qc \li1200\ri1200\widctlpar\wrapdefault\faauto\rin1200\lin1200\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 Civil Action No. 99-2311 (JR) 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 
+\par }\pard \ltrpar\qc \li1200\ri1200\widctlpar\wrapdefault\faauto\rin1200\lin1200\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\highlight7\insrsid10510254\charrsid6377129 \hich\af0\dbch\af31505\loch\f0 UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA}
+{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 
+\par }\pard \ltrpar\qc \li1200\ri1200\widctlpar\wrapdefault\faauto\rin1200\lin1200\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 2003 U.S. Dist. }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf17\highlight7\insrsid10510254\charrsid5992908 \hich\af0\dbch\af31505\loch\f0 LEXIS 26471}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 
+\par 
+\par }\pard \ltrpar\qc \li1200\ri1200\widctlpar\wrapdefault\faauto\rin1200\lin1200\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\highlight7\insrsid10510254\charrsid9380360 \hich\af0\dbch\af31505\loch\f0 May 29, 2003, Decided}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0   
+\par \hich\af0\dbch\af31505\loch\f0 May 29, 2003, Filed 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 
+\par \hich\af0\dbch\af31505\loch\f0 SUBSEQUENT HISTORY: }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 Summary judgment granted, in part, summary judgment denied, in part by, Claim dismissed by }{\rtlch\fcs1 \ab\af0 
+\ltrch\fcs0 \b\f0\cf17\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 Delgado}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  v. Ashcroft, 368 F. Supp. 2d 3, 2004 U.S. Dist. }{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\highlight7\insrsid10510254\charrsid3892797 \hich\af0\dbch\af31505\loch\f0 LEXIS 27675}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  (D.D.C., Aug. 30, 2004)
+\par 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 CASE SUMMARY:}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254\charrsid8995499 \hich\af0\dbch\af31505\loch\f0 PROCEDURAL POS\hich\af0\dbch\af31505\loch\f0 TURE: }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254\charrsid8995499 \hich\af0\dbch\af31505\loch\f0 
+Plaintiff candidates filed an action against defendant, the Attorney General of the United States, challenging the suitability criteria used by the Federal Bureau of Investigation (FBI). }{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\highlight7\insrsid10510254\charrsid5992908 \hich\af0\dbch\af31505\loch\f0 The candidates claimed that the suitability criteria created a \hich\af0\dbch\af31505\loch\f0 disparate impact in violation of Title VII of the Civil Rights Act of 1964}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254\charrsid8995499 \hich\af0\dbch\af31505\loch\f0 \hich\f0 , 42 U.S.C.S. \'a7\loch\f0  2000e-2 et seq. (Title VII). The court issued findings of fact and conclusions of law.
+\par 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\highlight7\insrsid10510254\charrsid4087077 \hich\af0\dbch\af31505\loch\f0 OVERVIEW: }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid10510254\charrsid4087077 \hich\af0\dbch\af31505\loch\f0 
+The candidates, who were Hispanic or African American, had applied f\hich\af0\dbch\af31505\loch\f0 or positions with the FBI. The candidates filed an action alleging discrimination for disparate impact after the FBI chose to discontinue their applications
+}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254\charrsid8995499 \hich\af0\dbch\af31505\loch\f0 , and listed reasons such as lack of candor, unfit for employment, and "other." The court concluded \hich\af0\dbch\af31505\loch\f0 
+that the candidates established a prima facie case of unlawful disparate impact upon minorities based upon the criteria used for the FBI to determine suitability. Although the FBI issued adjudicative guidelines, prepared without input from industrial psyc
+\hich\af0\dbch\af31505\loch\f0 h\hich\af0\dbch\af31505\loch\f0 
+ologists, for agent suitability decisions, the guidelines were not used uniformly or applied in every situation. The FBI could not establish that its suitability determinations were based upon professionally acceptable methods that were predictive of or s
+\hich\af0\dbch\af31505\loch\f0 i\hich\af0\dbch\af31505\loch\f0 
+gnificantly correlated with important elements of work behavior relevant to the employment positions. The FBI did not sustain its burden of proving a business necessity when it did not show why its particular decision-making process was necessary for hiri
+\hich\af0\dbch\af31505\loch\f0 n\hich\af0\dbch\af31505\loch\f0 g qualified candidates. The system used was completely subjective and internally inconsistent.
+\par 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254\charrsid8995499 \hich\af0\dbch\af31505\loch\f0 OUTCOME: }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254\charrsid8995499 \hich\af0\dbch\af31505\loch\f0 
+The court issued findings of fact and conclusions of law concluding that the candidates had established a prima facie case of disparate impact discrimi\hich\af0\dbch\af31505\loch\f0 
+nation and that the FBI had not proffered evidence to rebut the presumption.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 CORE TERMS: }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+disparity, discontinuation, special agents, disparate impact, discontinued, statistical, prima facie case, suitability, candor, guidelines, adverse impact, shortfall,\hich\af0\dbch\af31505\loch\f0 
+ interview, security clearance, subjective, statistically, adjudicative, conditional, background check, assigned, hire, appointment, polygraph, employment practice, citations omitted, decision-making, subjectivity, industrial, derogatory, candidate
+\par 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 COUNSE\hich\af0\dbch\af31505\loch\f0 L: }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 [*1]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+  For Plaintiff: Richard T. Tomar, Karp, Frosh, Lapidus, Wigodsky, & Norwood, P.A., Rockville, MD; Stephen G. Seliger, Patrick D. Dolan, Seliger, Elkin & Dolan, Ltd., Chicago, IL.
+\par 
+\par \hich\af0\dbch\af31505\loch\f0 For Defendant: Jane M. Lyons, David J. Ball, Jr., Assistant U.S. At\hich\af0\dbch\af31505\loch\f0 torney, Washington, DC.  
+\par 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\highlight7\insrsid10510254\charrsid2893513 \hich\af0\dbch\af31505\loch\f0 JUDGES: }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid10510254\charrsid2893513 \hich\af0\dbch\af31505\loch\f0 
+JAMES ROBERTSON, United States District Judge.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0   
+\par 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 OPINION BY: }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 JAMES ROBERTSON
+\par 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\highlight7\insrsid10510254\charrsid5507626 \hich\af0\dbch\af31505\loch\f0 OPINION}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid10510254 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 FINDINGS OF FACT AND CONCLUSIONS OF LAW}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 Findings of Fact}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 1. The process of selecting special agents of the Federal\hich\af0\dbch\af31505\loch\f0 
+ Bureau of Investigation is a highly structured one that, up to a point, has been carefully validated by experts in industrial organizational psychology. It begins (see Plaintiffs' Exhibit ("P. Ex.") 1, p. 13) with an application that describes the applic
+\hich\af0\dbch\af31505\loch\f0 a\hich\af0\dbch\af31505\loch\f0 
+nt's minimal qualifications and is followed by a battery of "Phase One" tests to measure abilities necessary for the job (id. at p. 23), cognitive abilities (id. at p. 25) and other critical skills (id. at p. 27). The applicant who successfully completes 
+\hich\af0\dbch\af31505\loch\f0 P\hich\af0\dbch\af31505\loch\f0 
+hase One testing completes a "Long Form 140." The "Long Form 140" requires applicants to certify that all of the statements contained in the form are truthful, accurate, and complete under penalty }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 
+\hich\af0\dbch\af31505\loch\f0 [*2]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0   of perjury. A national review board then evaluates ca\hich\af0\dbch\af31505\loch\f0 
+ndidates, ranking them most competitive, competitive and least competitive. Then (depending on the needs of the FBI) a certain number are admitted to the Phase Two testing process. Phase Two consists of a structured interview (id. at p. 30) and a written 
+\hich\af0\dbch\af31505\loch\f0 e\hich\af0\dbch\af31505\loch\f0 
+xercise. The structured interview is tape recorded and is graded according to "behaviorally-anchored reading scales" or bench-marked. Applicants who have gone through this process are given a "cut score," with the grades of the interview comprising 75 per
+\hich\af0\dbch\af31505\loch\f0 c\hich\af0\dbch\af31505\loch\f0 ent, and the written exercise 25 percent, of the weight. An applicant whose cut score is acceptable is given a conditional letter of appointment, after which he }{\rtlch\fcs1 \af0\afs16 
+\ltrch\fcs0 \f0\fs16\super\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 1}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  must undergo a polygraph examination, a drug test, a medical examination, a "personnel securi
+\hich\af0\dbch\af31505\loch\f0 ty interview," }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid10510254\charrsid12417657 \hich\af0\dbch\af31505\loch\f0 and a background investigation}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\hich\af0\dbch\af31505\loch\f0 . If an applicant is deemed not "suitable" after this process, the application is "discontinued," and the conditional letter of employment is rescinded. If, on the other hand, all goes well during this process, 
+\hich\af0\dbch\af31505\loch\f0 and the applicant subsequently obtains a security clearance from the National Security Office, he is offered a place in }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 [*3]}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0   the FBI training academy.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par 
+\par }\pard \ltrpar\ql \li600\ri0\widctlpar\wrapdefault\faauto\rin0\lin600\itap0 {\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 1 }{\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 
+\f0\fs16\highlight7\insrsid10510254\charrsid6108535 \hich\af0\dbch\af31505\loch\f0 The plaintiffs are all male}{\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+, and the masculine pronoun will be used throughout these findings for th\hich\af0\dbch\af31505\loch\f0 e sake of simplicity.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+2. John Souchet, who holds a Bachelor of Arts from Northeast Illinois University and a Master of Public Administration from Illinois Institute of Technology, and who had worked as a police officer for the City of Chicago, completed P
+\hich\af0\dbch\af31505\loch\f0 
+hase One of this process in 1996 and filled out a Long Form 140. He was given a conditional appointment letter on January 8, 1997. He passed the personal security interview, the polygraph, the drug test, and the medical examination, but his application wa
+\hich\af0\dbch\af31505\loch\f0 s\hich\af0\dbch\af31505\loch\f0 
+ discontinued and his conditional appointment letter was rescinded. The FBI's reason for discontinuing his application was lack of candor: he had failed to list on his Form 140 part time employment he had had some six years earlier, when he was in college
+.\hich\af0\dbch\af31505\loch\f0  The employment was at a Chicago law firm, where Souchet worked 12-13 hours per week helping to organize discovery documents. This }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 [*4]}
+{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0   employment came to the attention of the FBI when its background check turned up an earlier background check done by the\hich\af0\dbch\af31505\loch\f0 
+ Office of Personnel Management, when Souchet was a candidate for employment with INS. The OPM report recited Souchet's statement (at the time) that he had not been fired from the law firm job but had instead quit after being told that he would be fired. 
+\hich\af0\dbch\af31505\loch\f0 T\hich\af0\dbch\af31505\loch\f0 
+he OPM report also recited the result of a check with the law firm, which had no employment record that was adverse to Souchet. Nevertheless, concluding that Souchet had failed to reveal material information about his background on the Form 140, the FBI d
+\hich\af0\dbch\af31505\loch\f0 i\hich\af0\dbch\af31505\loch\f0 scontinued Souchet's application. }{\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\super\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 2}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par 
+\par }\pard \ltrpar\ql \li600\ri0\widctlpar\wrapdefault\faauto\rin0\lin600\itap0 {\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+2 Souchet's testimony and the testimony of the other plaintiffs was received as part of plaintiffs' disparate impact case. Findings in the disparate impact case based on their testimony will not preclude any issues of \hich\af0\dbch\af31505\loch\f0 
+fact in any subsequent disparate treatment trial involving these parties.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 3. Gustavo Martinez applied for a special agent position in 1994,  }{\rtlch\fcs1 \ab\af0 
+\ltrch\fcs0 \b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 [*5]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+  having obtained a Bachelor of Arts Degree from St. Xavier College in 1992 and having significant criminal ju\hich\af0\dbch\af31505\loch\f0 
+stice qualifications. On his first application, he passed the written test but not the structured interview. He applied again in June 1998, this time successfully navigating Phases One and Two, and he was given a conditional appointment letter on June 26,
+\hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0 
+1998, P. Ex. 15. Martinez was discontinued for lack of candor. In his case, the FBI action was related to his outstanding debts. He had mentioned to several FBI employees during interviews or routine processing leading up to his background investigation t
+\hich\af0\dbch\af31505\loch\f0 h\hich\af0\dbch\af31505\loch\f0 at his credit was "so-so" and that he had several accounts overdue but was bringing them }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid10510254\charrsid7807205 
+\hich\af0\dbch\af31505\loch\f0 current. At his personal security interview, he told Cynthia Schlesinger that he owed about $ 280 for a CPA review course, about $ 200 to Cellular One as a penalty for\hich\af0\dbch\af31505\loch\f0 
+ early discontinuation of cellular telephone service, and another $ 40 fee assessed by Harris Bank, but that he had paid those accounts off.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+ The FBI's background check determined that he had indeed paid them off, but not until after the personal security i\hich\af0\dbch\af31505\loch\f0 nterview. Martinez's explanation that this was "pure oversight" was }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 [*6]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0   not accepted by the FBI, and he was discontinued.
+\par \hich\af0\dbch\af31505\loch\f0 4. Adam }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 Delgado}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+ first applied to the FBI in 1990, after military service with the United States Air Force and having earned a Bachel\hich\af0\dbch\af31505\loch\f0 
+or's Degree in Political Science at the University of Illinois at Champaign-Urbana. He was not hired at that time, because his score was not competitive. He applied again in 1994 and passed all the necessary tests, but his application was discontinued aft
+\hich\af0\dbch\af31505\loch\f0 e\hich\af0\dbch\af31505\loch\f0 r FBI headquarters received information from Chicago's FBI Field Office that two special agents and a staffing assistant who had encountered }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf17\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 Delgado}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  in the application process had found his behavior arrogant and condescending. The FBI's coded reason for th
+\hich\af0\dbch\af31505\loch\f0 e discontinuation was "other."
+\par \hich\af0\dbch\af31505\loch\f0 
+5. Lawrence Stewart, a member of the Chicago Police Department since 1993, with a Bachelor of Arts in History and a Master's Degree in Public Administration, applied to the FBI in September 1997 and was given a conditional le
+\hich\af0\dbch\af31505\loch\f0 
+tter of appointment in January 1998. He was discontinued for lack of candor because, at the threshold of his polygraph examination, he disclosed a shoplifting incident that had occurred when he was in the Army. The polygraph examination disclosed no }{
+\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 [*7]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0   \hich\af0\dbch\af31505\loch\f0 
+deception in his recounting of the facts, but the background investigation unearthed a military record of the incident that was at odds with the statements Stewart had given to the polygraph examiner in some respects. Stewart had also failed to disclose t
+\hich\af0\dbch\af31505\loch\f0 h\hich\af0\dbch\af31505\loch\f0 is incident in his Long Form 140 application. See P. Ex. 28.
+\par \hich\af0\dbch\af31505\loch\f0 6. Darren Glover, a police officer for Franklin Park, Illinois, was discontinued after the FBI found a pattern of violence or intimidating behavior in his history -- "a couple of fights in colleg
+\hich\af0\dbch\af31505\loch\f0 e" and a claim of domestic violence made (and later withdrawn) by his girlfriend -- that Glover had not disclosed in his Long Form 140 application. }{\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\super\insrsid10510254 
+\hich\af0\dbch\af31505\loch\f0 3}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par 
+\par }\pard \ltrpar\ql \li600\ri0\widctlpar\wrapdefault\faauto\rin0\lin600\itap0 {\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 3 }{\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 
+\f0\fs16\highlight7\insrsid10510254\charrsid12263530 \hich\af0\dbch\af31505\loch\f0 The FBI argued strenuously that since four plaintiffs did not disclose information that the FBI subseq\hich\af0\dbch\af31505\loch\f0 
+uently discovered in its background check, all plaintiffs except }{\rtlch\fcs1 \ab\af0\afs16 \ltrch\fcs0 \b\f0\fs16\cf17\highlight7\insrsid10510254\charrsid12263530 \hich\af0\dbch\af31505\loch\f0 Delgado}{\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 
+\f0\fs16\highlight7\insrsid10510254\charrsid12263530 \hich\af0\dbch\af31505\loch\f0  cannot prevail in this case because their }{\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\highlight7\insrsid10510254\charrsid14748701 \hich\af0\dbch\af31505\loch\f0 
+"misrepresentations" made them unfit for employment}{\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 . Notwithstanding the factual differences between the "misrepresentations" here and those 
+\hich\af0\dbch\af31505\loch\f0 
+in the case relied upon by the FBI, see Williams v. Boorstin, 213 U.S. App. D.C. 345, 663 F.2d 109, 114 (D.C. Cir. 1980) (a disparate treatment case where plaintiff was not found to be qualified for his position in part because he had misled employer with
+\hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0 
+an "egregious" "record of continuous deceit"), there is evidence in this record that undercuts the assertion that "misrepresentations" automatically rendered these plaintiffs "unfit for employment": Steven Susson was offered a position as an FBI Special A
+\hich\af0\dbch\af31505\loch\f0 g\hich\af0\dbch\af31505\loch\f0 ent, even though during the application process he failed to disclose employment information that was ultimately uncovered by the FBI's background check. See P. Ex. 46.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 [*8]}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0   7. Souchet, Martinez and }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 Delgado}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  are all Hispanic. Stewart and Glover are Afric\hich\af0\dbch\af31505\loch\f0 
+an-American. Thomas DiPrete, an expert statistician called by the plaintiffs, analyzed the "discontinuation rate" provided by the FBI in its responses to plaintiffs' first set of interrogatories (P. Ex. 11) using logistic regression analysis. He calculate
+\hich\af0\dbch\af31505\loch\f0 d\hich\af0\dbch\af31505\loch\f0 
+ the probability that the disparities between the discontinuation rates of Hispanics and whites, and the discontinuation rates of African-Americans and whites, could be caused by chance alone. For Hispanic applicants, he described that chance as five stan
+\hich\af0\dbch\af31505\loch\f0 d\hich\af0\dbch\af31505\loch\f0 
+ard deviation units, or about one in one million. For African-Americans, he calculated six standard deviation units, or a less than a one-in-one-million chance that the disparity was caused by chance alone. The shortfall between the number of Hispanics ac
+\hich\af0\dbch\af31505\loch\f0 t\hich\af0\dbch\af31505\loch\f0 
+ually given special agent positions and the number that would have been given special agent positions absent the disparity was 20 over the five year period of his study. The shortfall for African-Americans was 25 over the same period.
+\par \hich\af0\dbch\af31505\loch\f0 8. It developed at tr\hich\af0\dbch\af31505\loch\f0 ial that the data upon which Dr. DiPrete performed his calculations, and the data provided by the }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 
+\hich\af0\dbch\af31505\loch\f0 [*9]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+  FBI in its response to interrogatories, P. Ex. 11, had been extracted by the FBI from computer records by requests for data relating only to special age\hich\af0\dbch\af31505\loch\f0 
+nt applicants discontinued for "derogatory information." The FBI assigned "Code 58" to that category. Of the five plaintiffs, only }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 Delgado}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  was assigned Code 58. Stewart was assigned Code 33, "derogatory military record," Martinez, Code 37, "credit report,"\hich\af0\dbch\af31505\loch\f0 
+ Glover and Souchet, Code 67, "other." On the eve of trial, the FBI produced a printout (Defendant's Exhibit ("D. Ex.") 6) covering all of those categories, }{\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\super\insrsid10510254 
+\hich\af0\dbch\af31505\loch\f0 4}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  as well as Code 35, "employment history," and Code 36, "court records." }{\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\super\insrsid10510254 
+\hich\af0\dbch\af31505\loch\f0 5}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  The government's expert\hich\af0\dbch\af31505\loch\f0 
+, Dr. Bernard R. Siskin, did not dispute Dr. DiPrete's findings of statistically significant disparity between the discontinuation rates of whites and of Hispanics and African-Americans within Code 58, nor did he dispute Dr. DiPrete's shortfall findings o
+\hich\af0\dbch\af31505\loch\f0 f\hich\af0\dbch\af31505\loch\f0 
+ 20 Hispanic hires and 25 African-American hires within that Code. The data for the discontinuation codes assigned in the cases of Stewart, Martinez, Glover and Souchet, however, yielded different and varying results. Code 33, "derogatory military record,
+\hich\af0\dbch\af31505\loch\f0 "\hich\af0\dbch\af31505\loch\f0  had a statistically significant }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 [*10]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\hich\af0\dbch\af31505\loch\f0   disparity for African-Americans, a shortfall of three African-American special agent hires (over the five year period), and a selection rate of 98.6 percent. }{\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 
+\f0\fs16\super\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 6}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  See October 21, 2002 Trial Transcript ("10/21 Tr.") at 1\hich\af0\dbch\af31505\loch\f0 
+39. Code 37, the "credit rating" code assigned to Martinez, reflected a statistically significant disparity as to both Hispanics and African-Americans, shortfalls of five Hispanics and 33 African-Americans, but selection rates of 98.4 percent for Hispanic
+\hich\af0\dbch\af31505\loch\f0 s\hich\af0\dbch\af31505\loch\f0 
+ and 86.8 percent for African-Americans. 10/21 Tr. at 135-36. Code 67, the "other" category assigned to the cases of Glover and Souchet, showed a statistically significant disparity only with respect to African-Americans, shortfalls of seven African-Ameri
+\hich\af0\dbch\af31505\loch\f0 c\hich\af0\dbch\af31505\loch\f0 ans and fewer than one Hispanic, and selection rates of 99.8 percent for Hispanics and 96.9 for African-Americans. 10/21 Tr. at 133.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par 
+\par }\pard \ltrpar\ql \li600\ri0\widctlpar\wrapdefault\faauto\rin0\lin600\itap0 {\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+4 Plaintiffs objected to D. Ex. 6 because it had not been produced in discovery. I decided to hear Dr. Siskin's testimony\hich\af0\dbch\af31505\loch\f0 
+ on this exhibit and his statistical analysis of the information it contained, but to discount both the exhibit and the testimony if it proved to be unfairly prejudicial to plaintiffs. It has not turned out that way.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 [*11]}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  
+\par 
+\par }\pard \ltrpar\ql \li600\ri0\widctlpar\wrapdefault\faauto\rin0\lin600\itap0 {\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+5 Neither Code 35 nor Code 36 was assigned to any of the plaintiffs. No explanation was proffered as to why these two codes were included in the analysis.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par }\pard \ltrpar\ql \li600\ri0\widctlpar\wrapdefault\faauto\rin0\lin600\itap0 {\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+6 Selection rate is a reference to the EEOC's four-fifths rule (or "80 percent rule") discussed at C\hich\af0\dbch\af31505\loch\f0 onclusion of Law 4, infra.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+9. For the six codes included in the FBI printout, D. Ex. 6, the overall shortfall for the five year period in question was 45 Hispanics and 83 African-Americans, 10/21 Tr. at 143. The overall selection rate was 88.01 percent fo
+\hich\af0\dbch\af31505\loch\f0 
+r Hispanics and 74.8 percent for African-Americans, 10/21 Tr. at 137. Analysis of discontinuations under the six codes taken together showed a statistically significant disparity, as compared to whites, for both Hispanic and African-American applicants. 1
+0\hich\af0\dbch\af31505\loch\f0 /21 Tr. at 137.
+\par \hich\af0\dbch\af31505\loch\f0 
+10. The FBI's assignment of discontinuation reasons, and of codes for the reasons, was a hit-or-miss proposition. Special Agent applications were all processed in FBI headquarters by the Bureau Applicant Employment Unit (BAEU), within the A
+\hich\af0\dbch\af31505\loch\f0 pplicant Processing Section, within the Administrative Services Division. During }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 [*12]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\hich\af0\dbch\af31505\loch\f0   the period covered by the applications of Stewart, Martinez, Glover, Souchet and }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 Delgado,}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  Patrick Maloy was Unit Chief of BAEU. Reporting to him were several program ma\hich\af0\dbch\af31505\loch\f0 
+nagers. One of them (the only one who dealt with the applications of any of the five plaintiffs) was Therese Rodrique. Rodrique's decisions to hire or to discontinue special agent applicants were subject to review and reversal by Maloy, but as a practical
+\hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0 
+matter she was given that authority, and she exercised it. Her decisions were distilled into handwritten notes that set forth her reasons for discontinuation. For Martinez, the reason was "lack of candor with regard to credit history," P. Ex. 21. For Souc
+\hich\af0\dbch\af31505\loch\f0 h\hich\af0\dbch\af31505\loch\f0 et, it was "lack of candor" related to his part-time law firm work and statements he made on his Form 140, P. Ex. 25. }{\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\super\insrsid10510254 
+\hich\af0\dbch\af31505\loch\f0 7}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  For Stewart, the notation was "incident involving shoplifting and lack of candor/forthrightness regarding this matter in connection with
+\hich\af0\dbch\af31505\loch\f0  his processing with the FBI," P. Ex. 41. Rodrique made no notation of the reason for }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 Delgado's}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  discontinuation. The only reasons that appear of record are that, during the application process, }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 Delgado}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  struck two special agents as arrogant, egotistical, sn\hich\af0\dbch\af31505\loch\f0 ide, and }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 
+\hich\af0\dbch\af31505\loch\f0 [*13]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+  condescending, P. Ex. 50. For Glover, Rodrique's discontinuation reason reads "applicant indicated on his PD-140 that he has never been arrested or charged with any violation. Applicant was arrested on 3/28/87 for disorderly conduct/fightin
+\hich\af0\dbch\af31505\loch\f0 g, on 3/25/84 for criminal mischief and assault, and on 3/24/84 for trespassing," P. Ex. 77.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par 
+\par }\pard \ltrpar\ql \li600\ri0\widctlpar\wrapdefault\faauto\rin0\lin600\itap0 {\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+7 Rodrique's handwritten note in the case of Souchet does not appear of record, but the testimony established that her note was repeated virtually verbatim in th\hich\af0\dbch\af31505\loch\f0 
+e file copy of the letter sent to the applicant rescinding the conditional offer of appointment.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+11. The FBI issued "adjudicative guidelines" for agent suitability decisions, P. Ex. 4, in an effort to establish consistency and regulate workflow; these gui\hich\af0\dbch\af31505\loch\f0 
+delines were prepared by Rodrique. She wrote them based on her own observations and without guidance from industrial psychologists. She did not base her own discontinuation decisions entirely on the adjudicative guidelines, however. Instead, she evaluated
+\hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0 applicants according }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 [*14]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\hich\af0\dbch\af31505\loch\f0 
+  to a number of what she called "dimensions," including cooperativeness, conscientiousness, emotional maturity, integrity/honesty, initiative, and judgment. These "dimensions," which she insisted were official FBI policy, turned 
+\hich\af0\dbch\af31505\loch\f0 
+out upon closer inspection to be criteria applied in the Probationary Agents Program (PAP), D. Ex. 18 -- dimensions of agents who had been commissioned as special agents and who were being evaluated after their one-or two-year probationary periods.
+\par \hich\af0\dbch\af31505\loch\f0 12. Pat\hich\af0\dbch\af31505\loch\f0 
+rick Maloy, a senior FBI agent, was unit chief of the Applicant Employment Unit from the summer of 1995 until February 2001. Maloy confirmed the testimony of Elizabeth Kolmstetter, who had been chief of the FBI's Personnel Assessment and Research Unit, th
+\hich\af0\dbch\af31505\loch\f0 a\hich\af0\dbch\af31505\loch\f0 
+t there was never any validation of the suitability decision process. Maloy was involved in the preparation of the adjudicative guidelines, to the extent that he had "ongoing discussions" with Rodrique about suitability issues, but he had no discussions w
+\hich\af0\dbch\af31505\loch\f0 i\hich\af0\dbch\af31505\loch\f0 th industrial psychologists about the guidelines after they were prepared. }{\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\super\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 8}{\rtlch\fcs1 
+\af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par 
+\par }\pard \ltrpar\ql \li600\ri0\widctlpar\wrapdefault\faauto\rin0\lin600\itap0 {\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+8 Maloy, indeed, had his own set of criteria, although it is unclear for what purposes they were used. He associated them with the mnemonic acronym "CarlaBFad": character, assoc\hich\af0\dbch\af31505\loch\f0 
+iations, reputation, loyalty, abilities, biases, finances, alcohol and drugs. 10/18 Tr. at 190.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 [*15]}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0   13. Case files were reviewed by case specialists before they reached Rodrique. Thus, Tanina Austin wrote the initial memorandum regarding the case of M
+\hich\af0\dbch\af31505\loch\f0 
+artinez, who was ultimately discontinued by Rodrique's "lack of candor" decision. Austin did not find that Martinez lacked candor, P. Ex. 20 and October 16, 2002 Trial Transcript ("10/16 Tr.") at 266. Cynthia Schlesinger, who conducted Martinez' personal 
+\hich\af0\dbch\af31505\loch\f0 s\hich\af0\dbch\af31505\loch\f0 
+ecurity interview, thought that Martinez was telling the truth, P. Ex. 22. Austin relied on no particular set of guidelines, and did not rely on the adjudicative guidelines Rodrique had issued, 10/16 Tr. at 279. She made her recommendations on a case-by-c
+\hich\af0\dbch\af31505\loch\f0 a\hich\af0\dbch\af31505\loch\f0 se basis.
+\par \hich\af0\dbch\af31505\loch\f0 
+14. Gail Jones was the applicant case specialist who worked on Stewart's case. She initially wanted a re-interview of Stewart concerning the shoplifting incident he had revealed just before his polygraph test, P. Ex. 37, but, after she reviewed t
+\hich\af0\dbch\af31505\loch\f0 
+he military records of his arrest, she decided that those records were enough and did not ask for a re-interview, P. Ex. 39. She felt comfortable concluding on the basis of the documents that Stewart had lied, P. Ex. 40, and Rodrique agreed with her, P. E
+\hich\af0\dbch\af31505\loch\f0 x\hich\af0\dbch\af31505\loch\f0 . 41.
+\par \hich\af0\dbch\af31505\loch\f0 15. Between the }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 [*16]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+  applicant case specialists and the program manager were two supervising applicant case specialists, Gail Carter and Tamara Maria Carpenter. Their testimony clouds the issue of what, if any, standards were employed to review and
+\hich\af0\dbch\af31505\loch\f0 
+ evaluate the records of special agent applicants. Carter identified a group of policy memoranda, P. Ex. 16, and the adjudicative guidelines that she thought Therese Rodrique had created to provide some uniformity, P. Ex. 3, as the materials that guided h
+\hich\af0\dbch\af31505\loch\f0 e\hich\af0\dbch\af31505\loch\f0 
+r decision making, and she said that, when weighing the statements of individuals against official records, she thought the official records carried more weight. Carpenter, who decided that Glover's file demonstrated a "pattern of inappropriate behavior,"
+\hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0 
+P. Ex. 76, said that in Glover's case she "looked at the whole entire case. . . . and made a judgment call." October 18, 2002 Trial Transcript ("10/18 Tr.") at 24. She acknowledged that one of the incidents attributed to Glover had been determined to be "
+\hich\af0\dbch\af31505\loch\f0 u\hich\af0\dbch\af31505\loch\f0 
+nfounded," id. at 29, but, she said, that "doesn't mean that it did not happen," id. at 40, and she "still felt there was something there for her to make that allegation." Id. at 29. Carpenter }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 
+\hich\af0\dbch\af31505\loch\f0 [*17]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0   did not, at the time, think that Glover lacked candor. S\hich\af0\dbch\af31505\loch\f0 ee id. at 34.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 Conclusions of Law}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 \hich\f0 
+1. Jurisdiction. As a preliminary matter, defendant argues that the Court does not have jurisdiction to hear this case. Defendant bases its argument on 42 U.S.C. \'a7\loch\f0  2000e-2(g), which provides that a failure to hire an appli
+\hich\af0\dbch\af31505\loch\f0 
+cant for a position is not an unlawful employment practice if the occupancy of the position is subject to a requirement imposed in the interest of national security, and the applicant does not fulfill that requirement. In support of its argument, defendan
+\hich\af0\dbch\af31505\loch\f0 t\hich\af0\dbch\af31505\loch\f0 
+ cites Molerio v. FBI, 242 U.S. App. D.C. 137, 749 F.2d 815 (D.C. Cir. 1984), where the Court of Appeals, in affirming summary judgment for defendant on a Title VII claim that the FBI's security clearance process had a disparate impact on persons of Cuban
+\hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0 \hich\f0 ancestry, stated that "42 U.S.C. \'a7\loch\f0 
+ 2000e-2(g) specifically acknowledges the general validity of national security clearance requirements, and we hold as a matter of law that the mere fact that such requirements impose special disabilities on the basis of \hich\af0\dbch\af31505\loch\f0 c
+\hich\af0\dbch\af31505\loch\f0 onnection with particular foreign countries is not alone }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 [*18]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\hich\af0\dbch\af31505\loch\f0   evidence of discrimination." 749 F.2d at 823; see also Ryan v. Reno, 335 U.S. App. D.C. 12, 168 F.3d 520, 524 (D.C. Cir. 1999) ("An adverse employment action based on denial or revocation of a
+\hich\af0\dbch\af31505\loch\f0  security clearance is not actionable under Title VII").
+\par \hich\af0\dbch\af31505\loch\f0 \hich\f0 Molerio, Ryan, and the exemption provided for by 42 U.S.C. \'a7\loch\f0  2000e-2(g), are not implicated in this case. None of the plaintiffs was discontinued as a result of a failure to obtain security clearance
+\hich\af0\dbch\af31505\loch\f0 
+. This was made abundantly clear by Maloy, who testified that neither he nor anyone else in the FBI's applicant employment unit had anything to do with making national security decisions concerning applicants. 10/18 Tr. at 78.
+\par \hich\af0\dbch\af31505\loch\f0 Defendant presses this point,\hich\af0\dbch\af31505\loch\f0 
+ arguing that since the results of the background investigation are used to make both suitability determinations and to confer security clearances, this case is fundamentally indistinguishable from Molerio and Ryan. The argument is unpersuasive, in light 
+\hich\af0\dbch\af31505\loch\f0 o\hich\af0\dbch\af31505\loch\f0 f Maloy's testimony that the process that leads to suitability determinations is distinct from the process of deciding to grant a security clearance. If the suitability determination actually 
+}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 [*19]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0   did perform all of the functions of a security clearance,
+\hich\af0\dbch\af31505\loch\f0  the subsequent security clearance process would be completely meaningless. Defendant's jurisdictional argument is rejected.
+\par \hich\af0\dbch\af31505\loch\f0 2. Disparate impact defined/burden of proof.  [HN1] If a facially neutral employment practice has an adverse effect on a protected \hich\af0\dbch\af31505\loch\f0 
+group of people, it may be unlawful regardless of whether or not the employer's intent was discriminatory. See, e.g., Watson v. Fort Worth Bank & Trust, 487 U.S. 977, 986-87, 101 L. Ed. 2d 827, 108 S. Ct. 2777 (1988). A }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 
+\i\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 prima facie}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  case of unlawful dispara\hich\af0\dbch\af31505\loch\f0 \hich\f0 
+te impact is established by identifying the challenged employment practice, showing its disparate impact on a protected group, and demonstrating a causal link between the employment practice and the disparate impact. See 42 U.S.C. \'a7\'a7\loch\f0 
+ 2000e-2(k)(1)(A)(i), \hich\af0\dbch\af31505\loch\f0 2\hich\af0\dbch\af31505\loch\f0 000e-2(k)(1)(B)(i); Wards Cove Packing Co. v. Atonio, 490 U.S. 642, 656-57, 104 L. Ed. 2d 733, 109 S. Ct. 2115 (1989). Once a }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 
+\i\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 prima facie}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+ case has been established, the burden of persuasion shifts to the employer to demonstrate that the challenged practice\hich\af0\dbch\af31505\loch\f0 
+ is job related for the position in question and that the practice is consistent with business necessity. See }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 [*20]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\hich\af0\dbch\af31505\loch\f0 \hich\f0   42 U.S.C. \'a7\'a7\loch\f0  2000e-2(k)(1)(A)(i). }{\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\super\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 9}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\hich\af0\dbch\af31505\loch\f0  If the employer succeeds in that demonstration, the plaintiff may yet ultimately prevail by proffering \hich\af0\dbch\af31505\loch\f0 \hich\f0 
+evidence of an effective alternative test that would have less of an adverse impact. See 42 U.S.C. \'a7\'a7\loch\f0  2000e-2(k)(1)(A)(ii); Wards Cove, 490 U.S. at 660.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par 
+\par }\pard \ltrpar\ql \li600\ri0\widctlpar\wrapdefault\faauto\rin0\lin600\itap0 {\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+9 This shift in the burden of persuasion was effected by the Civil Rights Act of 1991. See Rudder v. \hich\af0\dbch\af31505\loch\f0 District of Columbia, 890 F.Supp. 23, 40 n.12 (D.D.C. 1995).
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 3. Statistical proof.  [HN2] Statistical analysis may be used to establish a }{\rtlch\fcs1 
+\ai\af0 \ltrch\fcs0 \i\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 prima facie}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  case\hich\af0\dbch\af31505\loch\f0 
+ of discrimination, see Frazier v. Consol. Rail Corp., 271 U.S. App. D.C. 220, 851 F.2d 1447, 1450 (D.C. Cir. 1988), by showing, for example, that a perceived disparity in rates of selection is great enough to support an inference of discrimination. See P
+\hich\af0\dbch\af31505\loch\f0 a\hich\af0\dbch\af31505\loch\f0 lmer v. Shultz, 259 U.S. App. D.C. 246, 815 F.2d 84, 91-92 (D.C. Cir. 1987); Watson, 487 U.S. at 994 (O'Connor, J., concurring)  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 
+\hich\af0\dbch\af31505\loch\f0 [*21]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0   ("The plaintiff's statistical evidence must be sufficiently substantial to prove that the practice in question has cause
+\hich\af0\dbch\af31505\loch\f0 
+d the exclusion of job or promotion applicants because of their membership in a protected group"). An appropriate statistical analysis measures the probability that an observed disparity is due to chance. Generally in Title VII litigation, a difference of
+\hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0 
+1.96 standard deviations or greater in the rates of selection of two groups -- representing a 5 percent or less chance that the disparity is a product of random occurrence -- may be considered statistically significant, and thus can establish a }{
+\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 prima facie}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+ case of discrimination. See Frazier, 851 F.2d at 1452; Palmer, 815 F.2d at 96; Segar v. Smith, 238 U.S. App. D.C. 103, 738 F.2d 1249, 1282-83 (D.C. Cir. 1984), cert. denied, Meese v. Segar, 471 U.S. 1115, 86 L. Ed. 2d 258, 105 S. Ct. 2357 (1985); see als
+\hich\af0\dbch\af31505\loch\f0 o\hich\af0\dbch\af31505\loch\f0  Hazelwood School Dist. v. United States, 433 U.S. 299, 309 n.14, 53 L. Ed. 2d 768, 97 S. Ct. 2736 (1977).
+\par \hich\af0\dbch\af31505\loch\f0 4. Plaintiffs' }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 prima facie}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+ case. Here, the challenged employment practice is the FBI's process for making suitability determinations. The suitability\hich\af0\dbch\af31505\loch\f0  determination process is unquestionably subjective, }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 [*22]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+  and, while subjective decision-making is not discriminatory per se, it is subject to disparate impact analysis, see Watson, 487 U.S. at 991. The testimony of Dr. DiPrete, alone or in combination w\hich\af0\dbch\af31505\loch\f0 
+ith the testimony of defendant's expert Dr. Siskin, was sufficient to establish a }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 prima facie}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\hich\af0\dbch\af31505\loch\f0  case of disparate impact. See Findings of Fact 7-9.
+\par \hich\af0\dbch\af31505\loch\f0 The differing statistical disparities for Codes 58, 33, 37, and 67 -- not to mention Codes 35 and 36, which Dr\hich\af0\dbch\af31505\loch\f0 . Siskin analyzed -- do not defeat this }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 
+\i\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 prima facie}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  case, nor do they require parsing the }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid10510254 
+\hich\af0\dbch\af31505\loch\f0 prima facie}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+ case into subcategories code by code or minority by minority. Neither the FBI's selection of codes nor its assignment of a particular code to a particular\hich\af0\dbch\af31505\loch\f0 
+ case is entitled to any deference: the testimony clearly establishes that both code selection and code assignment were essentially arbitrary. See Findings of Fact 10, 13, 15.
+\par \hich\af0\dbch\af31505\loch\f0 Defendant's reliance on what it calls the "80 percent" rule, more commonly refer\hich\af0\dbch\af31505\loch\f0 \hich\f0 
+red to as the "four-fifths rule," is misplaced. The EEOC has prescribed the four-fifths rule as a guide for determining the presence of adverse impact, see 29 C.F.R. \'a7\loch\f0  1607.4(D) (2002) }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 
+\hich\af0\dbch\af31505\loch\f0 [*23]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0   :
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par }\pard \ltrpar\ql \li600\ri600\widctlpar\wrapdefault\faauto\rin600\lin600\itap0 {\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 A selection rate for any race, sex, [or] ethnic group which i
+\hich\af0\dbch\af31505\loch\f0 
+s less than four-fifths(4/5)(or eighty percent) of the rate for the group with the highest rate will generally be regarded . . . as evidence of adverse impact, while a greater than four-fifths rate will generally not be regarded . . . as evidence of adver
+\hich\af0\dbch\af31505\loch\f0 s\hich\af0\dbch\af31505\loch\f0 e impact. }{\rtlch\fcs1 \ai\af0\afs16 \ltrch\fcs0 \i\f0\fs16\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+Smaller differences in selection rate may nevertheless constitute adverse impact, where they are significant in both statistical and practical terms}{\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 . . . .}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par \hich\af0\dbch\af31505\loch\f0 Id. (emphasis supplied). The "four-fifths rule" deals with "selection rate," which i\hich\af0\dbch\af31505\loch\f0 
+s a measure of what some (including Dr. Siskin) consider the "practical significance" of statistical analysis. Application of this "rule" in this case code by code would defeat plaintiffs' }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid10510254 
+\hich\af0\dbch\af31505\loch\f0 prima facie}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  case as to Codes 58, 33, 37 and 67, for both African-Am\hich\af0\dbch\af31505\loch\f0 ericans and Hispanics. }{\rtlch\fcs1 
+\af0\afs16 \ltrch\fcs0 \f0\fs16\super\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 10}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+ Application of the "rule" across the board (i.e. to all six codes combined) would defeat the }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 prima facie}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\hich\af0\dbch\af31505\loch\f0  case for Hispanics, whose selection rate was 88.1 percent, but not for African-Americans, whose selection rate was 74.8 perce\hich\af0\dbch\af31505\loch\f0 nt.
+\par 
+\par 
+\par }\pard \ltrpar\ql \li600\ri0\widctlpar\wrapdefault\faauto\rin0\lin600\itap0 {\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+10 Dr. DiPrete agreed with Dr. Siskin that the "pass rates" for both African-Americans and Hispanics as to Code 58 were over 80%, thus satisfying the "80 percent rule." 10/16 Tr. at 178-79.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 [*24]}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0   I have concluded, however, that the "four-fifths ru\hich\af0\dbch\af31505\loch\f0 
+le" is not applicable here -- or, at least, that it will not be applied to supersede plaintiffs' showing of statistical significance. The facts of a leading case applying the "rule" show why. In Waisome v. Port Auth. of N.Y. and N.J., 948 F.2d 1370 (2d Ci
+\hich\af0\dbch\af31505\loch\f0 r\hich\af0\dbch\af31505\loch\f0 . 1991), a statistically significant disparity was held insufficient to establish a }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 prima facie}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  case of disparate impact when the pass rate of African-American applicants was more than four-fifths that of white applicants, and when the shortfall of African
+\hich\af0\dbch\af31505\loch\f0 
+-American applicants in one year was two. 948 F.2d at 1376. The Waisome decision supports application of the "four-fifths rule" when the hiring or promotion shortfall is de minimis. The shortfall established by this record -- 45 Hispanics and 83 African-A
+\hich\af0\dbch\af31505\loch\f0 m\hich\af0\dbch\af31505\loch\f0 ericans out of the 552 total applicants discontinued under these six codes in a five year span -- is hardly de minimis. }{\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\super\insrsid10510254 
+\hich\af0\dbch\af31505\loch\f0 11}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par 
+\par }\pard \ltrpar\ql \li600\ri0\widctlpar\wrapdefault\faauto\rin0\lin600\itap0 {\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+11 Dr. Siskin also discussed another statistic "which can aid a decisionmaker," 10/21 Tr. at 115, in deciding the practical signifi\hich\af0\dbch\af31505\loch\f0 
+cance of a disparity: representation. Representation measures how much the percentage of a given minority as part of the pool of people hired would change if the challenged process were not utilized. See id. at 117. Dr. Siskin testified that if no applica
+\hich\af0\dbch\af31505\loch\f0 n\hich\af0\dbch\af31505\loch\f0 
+t had been discontinued under Code 58, the percentage of overall hires would have gone from 6.9% to 7.24% for Hispanics, and from 4.9% to 5.34% for African-Americans. See id. at 121-22. Defendant suggests that this representation statistic shows that the 
+\hich\af0\dbch\af31505\loch\f0 p\hich\af0\dbch\af31505\loch\f0 
+ractical significance of discontinuation under Code 58 was de minimis. Again, however, it is the entire decision-making process that is under attack here. Discontinuation under any one code might only result in a minimal shift in representation, but the s
+\hich\af0\dbch\af31505\loch\f0 h\hich\af0\dbch\af31505\loch\f0 
+ift might well prove substantial if discontinuation under all of the codes is considered in its entirety. Dr. Siskin did not testify how the representation would differ if one considered together all six of the codes that he analyzed.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 [*25]}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0   Furthermore,\hich\af0\dbch\af31505\loch\f0 
+ as courts in this Circuit have recognized, the reliability of the "four-fifths rule" has been criticized. See Frazier, 851 F.2d at 1451 ("The four-fifths rule has also been used with caution by some courts, but has been criticized as unreliable and overl
+\hich\af0\dbch\af31505\loch\f0 y\hich\af0\dbch\af31505\loch\f0 
+ simplistic") (internal citations omitted); Reynolds v. Sheet Metal Workers Local 102, 498 F. Supp. 952, 966 (D.D.C. 1980) ("The four-fifths rule' has recently been criticized as a rather arbitrary standard. . . .") (internal citation omitted); see also W
+\hich\af0\dbch\af31505\loch\f0 a\hich\af0\dbch\af31505\loch\f0 
+tson, 487 U.S. at 995 n.3 ("[The four-fifths rule] has been criticized on technical grounds and it has not provided more than a rule of thumb for the courts") (internal citations omitted). Some commentators and courts go even farther, stating that "where 
+\hich\af0\dbch\af31505\loch\f0 t\hich\af0\dbch\af31505\loch\f0 
+he four-fifths rule indicates lack of adverse impact but the disparity is statistically significant, the plaintiff should be able to establish adverse impact on the evidence of statistical significance." Ramona L. Paetzold & Steven L. Willborn, The Statis
+\hich\af0\dbch\af31505\loch\f0 t\hich\af0\dbch\af31505\loch\f0 \hich\f0 ics of Discrimination \'a7\loch\f0  5.07 (2002); Bew v. City of Chicago, 979 F.Supp. 693, 697 (N.D. Ill. 1997) }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 
+\hich\af0\dbch\af31505\loch\f0 [*26]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+  (same); see also Groves v. Ala. State Bd. of Educ., 776 F. Supp. 1518, 1528 (M.D. Ala. 1991) (finding disparate impact by relying on statistical analy\hich\af0\dbch\af31505\loch\f0 \hich\f0 
+sis even though selection rate passed four-fifths rule). Indeed, the EEOC regulation itself acknowledges that adverse impact may be present in a given case even if the four-fifths rule is passed. See 29 C.F.R. \'a7\loch\f0 
+ 1607.4(D); Groves, 776 F.Supp. at 1528.
+\par \hich\af0\dbch\af31505\loch\f0 View\hich\af0\dbch\af31505\loch\f0 
+ing the shortfall numbers in conjunction with the evidence of statistical significance, and also considering the suspect reliability of the "four-fifths rule," I find that defendant's evidence regarding the "four-fifths rule" does not overcome plaintiffs'
+\hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0 showing that the FBI's discontinuation procedure had a disparate impact on Hispanic and African-American applicants.
+\par \hich\af0\dbch\af31505\loch\f0 A final defense objection to plaintiffs' statistics was that Dr. DiPrete's analysis did not account for societal differences among applican\hich\af0\dbch\af31505\loch\f0 
+ts of different races; that is, that the perceived disparity could reflect (for example) the generally higher arrest rates for Hispanics and African-Americans in society as a whole, which are "factors completely outside }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 [*27]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0   the FBI." 10/16 Tr. at 189. E\hich\af0\dbch\af31505\loch\f0 
+ven if it is permissible to consider societal differences among African-Americans, Hispanics and whites when evaluating a }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 prima facie}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  case, }{\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\super\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 12}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+ any such differences are less likely to have come into play here than in a case where the applicants were taken a\hich\af0\dbch\af31505\loch\f0 
+t random from the general population. Dr. DiPrete explained that in his opinion, since the background investigation follows four levels of screening, differences in sociological background would, to some degree, be filtered out by the time a case reached 
+\hich\af0\dbch\af31505\loch\f0 t\hich\af0\dbch\af31505\loch\f0 
+he background check stage. In other words, the population of individuals of all races given conditional letters of employment is much more homogeneous, in terms of societal background factors such as arrest history, than the population as a whole. See 10/
+\hich\af0\dbch\af31505\loch\f0 1\hich\af0\dbch\af31505\loch\f0 
+6 Tr. at 195. The Seventh Circuit Court of Appeals, in Allen v. Seidman, 881 F.2d 375 (7th Cir. 1989) (Posner, J.), took a similar view of plaintiffs' showing that an evaluation test had a disparate impact on African-Americans, because the mandatory year 
+\hich\af0\dbch\af31505\loch\f0 o\hich\af0\dbch\af31505\loch\f0 f experience as a bank examiner prior to taking the test gave
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par }\pard \ltrpar\ql \li600\ri600\widctlpar\wrapdefault\faauto\rin600\lin600\itap0 {\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 reason to believe that the pool taking the test will }{\rtlch\fcs1 \ab\af0\afs16 
+\ltrch\fcs0 \b\f0\fs16\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 [*28]}{\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+  be reasonably homogeneous despite possible differences (not, by the way, proved in this case) in original entry qualifications, and t\hich\af0\dbch\af31505\loch\f0 
+his makes the very large disparity between blacks and whites in performance on the test suggestive of racial bias. . . . The Corporation's attack on the plaintiffs' statistical case amounts to a contention that unless a plaintiff eliminates all alternativ
+\hich\af0\dbch\af31505\loch\f0 e\hich\af0\dbch\af31505\loch\f0 
+ hypotheses he must lose. That would raise the threshold of proof too high.  [HN3] All the plaintiff is required to present is enough evidence to warrant a finding that, more likely than not, the challenged test, criterion, or practice had a disparate imp
+\hich\af0\dbch\af31505\loch\f0 a\hich\af0\dbch\af31505\loch\f0 
+ct. In a case like this, where the pool taking the challenged test is reasonably homogeneous in terms of qualifications and the racial disparity in results is very large, a simple statistical comparison will support a finding that the test had a disparate
+\hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0 impact.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par 
+\par 
+\par 
+\par }\pard \ltrpar\ql \li600\ri0\widctlpar\wrapdefault\faauto\rin0\lin600\itap0 {\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+12 See Bouman v. Block, 940 F.2d 1211, 1227-28 (9th Cir. 1991) (court considered evidence that statistical disparity between men and women correlated with "other factors" as part of defendant's rebuttal case, not plaintiff's }{\rtlch\fcs1 \ai\af0\afs16 
+\ltrch\fcs0 \i\f0\fs16\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 prima facie}{\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  case).
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 [*29]}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0   Allen, 881 F.2d at 379-80 (internal citation omitted) (emphasis supplied).
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+Furthermore, defendant here, much like defendant in Allen, failed to establish what societal background factors could have influenced the suitability determinations, and\hich\af0\dbch\af31505\loch\f0 
+ that any such factors are more prevalent in Hispanics and African-Americans. Indeed, taking as examples }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 Delgado,}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  discontinued under Code 58 ("Derogatory Background") for his allegedly arrogant attitude, and Souchet, discontinued under Code 67 ("Other") fo\hich\af0\dbch\af31505\loch\f0 
+r failing to list previous employment on his Form 140, it is difficult to imagine what "background factors" may have generally affected the process.
+\par \hich\af0\dbch\af31505\loch\f0 5. Defendant's Showing of Business Necessity.  [HN4] In order to rebut a }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 prima facie}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\hich\af0\dbch\af31505\loch\f0  case of disparate impa\hich\af0\dbch\af31505\loch\f0 
+ct, an employer must show that the challenged practice is related to the position and consistent with business necessity. The FBI would have to "show[], by professionally acceptable methods, [that its process is] predictive of or significantly correlated 
+\hich\af0\dbch\af31505\loch\f0 w\hich\af0\dbch\af31505\loch\f0 
+ith important elements of work behavior which comprise or are relevant to the job or jobs for which candidates are being evaluated." Albemarle Paper Co. v. Moody, 422 U.S. 405, 431, 45 L. Ed. 2d 280, 95 S. Ct. 2362 (1975) }{\rtlch\fcs1 \ab\af0 
+\ltrch\fcs0 \b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 [*30]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0   (internal quotation omitted\hich\af0\dbch\af31505\loch\f0 ).
+\par \hich\af0\dbch\af31505\loch\f0 
+Defendant attempted to meet that burden with testimony that such attributes as candor, ability to deal with others, and judgment are invaluable and integral to the position of FBI Special Agent. 10/18 Tr. at 157; 10/21 Tr. at 22. It is obvious without t
+\hich\af0\dbch\af31505\loch\f0 
+he need for a validation study that FBI agents should possess such characteristics. The proposition that a thorough background check is warranted before an applicant is unconditionally offered a position as an FBI agent is undisputed. It is the decisionma
+\hich\af0\dbch\af31505\loch\f0 k\hich\af0\dbch\af31505\loch\f0 
+ing process, however, and not the goals of that process, that is challenged here. See Crawford v. W. Elec. Co., 745 F.2d 1373, 1385-86 (11th Cir. 1984) (while legitimate business reasons may have warranted subjective system, defendant did not show that pa
+\hich\af0\dbch\af31505\loch\f0 r\hich\af0\dbch\af31505\loch\f0 
+ticular mechanics of its system were justified by business necessity).  [HN5] Defendant's burden at this stage was to show that its decisionmaking process -- and the subjectivity inherent in that process -- is job related and consistent with business nece
+\hich\af0\dbch\af31505\loch\f0 s\hich\af0\dbch\af31505\loch\f0 sity. See Mozee v. Am. Commercial Marine Serv. Co., 940 F.2d 1036, 1050 (7th Cir. 1991) ("In order to sustain a subjective }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 
+\hich\af0\dbch\af31505\loch\f0 [*31]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0   practice through a business necessity defense . . . an employer would have to argue that the subjectivity of the step is job-r
+\hich\af0\dbch\af31505\loch\f0 
+elated -- in other words, that something about the position requires the selector to make a subjective evaluation of the applicant's abilities") (internal citations omitted); Banks v. City of Albany, 953 F.Supp. 28, 36 (N.D.N.Y. 1997) (defendant failed to
+\hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0 
+establish business necessity because did not show that subjective decisionmaking was required to achieve the goal of finding most qualified candidates); Cook v. Billington, 1992 U.S. Dist. LEXIS 12519, No. 82-0400, 1992 WL 276936 at *5 (D.D.C. Aug. 14, 19
+\hich\af0\dbch\af31505\loch\f0 9\hich\af0\dbch\af31505\loch\f0 2) (defendant failed to establish business justification when it offered nothing "concrete to link its subjective decision-making practices to a legitimate employment goal").
+\par \hich\af0\dbch\af31505\loch\f0 Defendant failed to sustain its burden. Indeed, it never really attempted to show\hich\af0\dbch\af31505\loch\f0 
+ why its particular decision-making process was necessary for hiring people who possessed the qualities that the FBI sought. The evidence showed a completely subjective and internally inconsistent process, with people at different levels establishing thei
+\hich\af0\dbch\af31505\loch\f0 r\hich\af0\dbch\af31505\loch\f0  own idiosyncratic sets of criteria and reaching }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 [*32]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\hich\af0\dbch\af31505\loch\f0   inconsistent results. Different individuals could look at the same case file and have a completely different opinion as to whether that particular candidate lacked candor or not; this happened with Gl
+\hich\af0\dbch\af31505\loch\f0 
+over, whom Rodrique decided to discontinue for lack of candor, although Carpenter, who had reviewed the same case file, did not, at the time, believe that Glover lacked candor. 10/18 Tr. at 34. Similarly, Rodrique believed that Martinez lacked candor alth
+\hich\af0\dbch\af31505\loch\f0 o\hich\af0\dbch\af31505\loch\f0 
+ugh both Tanina Austin, the applicant case specialist who wrote the derogatory memorandum on Martinez, and Cynthia Slessinger, the Special Agent who interviewed Martinez, did not. See 10/16 Tr. at 266, 275; P. Ex. 22.
+\par \hich\af0\dbch\af31505\loch\f0 There was a similar inconsistency amon\hich\af0\dbch\af31505\loch\f0 
+g defendant's employees concerning what standards to use as guidance in making suitability decisions. Rodrique -- who is not an industrial psychologist -- created the Adjudicative Guidelines for this purpose. She used them, see 10/21 Tr. at 27, as did Car
+\hich\af0\dbch\af31505\loch\f0 p\hich\af0\dbch\af31505\loch\f0 
+enter, see 10/18 Tr. at 46, but not everyone did. Austin used the Guide for Setting Leads, D. Ex. 5, and not the Adjudicative Guidelines, 10/16 Tr. at 277, 279, even though Carpenter stated that the Guide for Setting Leads }{\rtlch\fcs1 \ab\af0 
+\ltrch\fcs0 \b\f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 [*33]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0   does not relate to judging\hich\af0\dbch\af31505\loch\f0  suitability. See 10/18 Tr. at 64.
+\par \hich\af0\dbch\af31505\loch\f0 Neither the Adjudicative Guidelines nor defendant's suitability determination process overall have ever been subjected to a validity test, although validity tests can be performed on such suitability determinations, accor
+\hich\af0\dbch\af31505\loch\f0 
+ding to the testimony of plaintiffs' industrial psychologist Dr. Sheldon Zedeck. See 10/21 Tr. at 51. The FBI's failure to conduct a validity study may not be completely dispositive of the case. Cf. Uniform Guidelines on Employee Selection Procedures, 29 
+\hich\af0\dbch\af31505\loch\f0 C\hich\af0\dbch\af31505\loch\f0 \hich\f0 .F.R. \'a7\loch\f0 
+ 1607.6(B)(1) (2002) (validity studies need not be performed "where informal or unscored procedures are used. When an informal or unscored selection procedure which has an adverse impact is utilized, the user should eliminate the adverse impact, or
+\hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0 
+modify the procedure to one which is a formal, scored or quantified measure or combination of measures and then validate the procedure in accord with these guidelines, or otherwise justify continued use of the procedure in accord with Federal law") (empha
+\hich\af0\dbch\af31505\loch\f0 s\hich\af0\dbch\af31505\loch\f0 is supplied). Nonetheless, the burden was on defendant to establish job-relatedness, and the absence of a validation }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid10510254 
+\hich\af0\dbch\af31505\loch\f0 [*34]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0   study does not help defendant's cause. Cf., e.g., Rudder, 890 F.Supp. at 40-43 (defendant established job relatedness through extens
+\hich\af0\dbch\af31505\loch\f0 ive validation study). }{\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\super\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 13}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par 
+\par }\pard \ltrpar\ql \li600\ri0\widctlpar\wrapdefault\faauto\rin0\lin600\itap0 {\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 
+13 Since defendant failed to show that its subjective suitability decision-making process was job-related, plaintiff did not need to submit evidence of an effective alternative process.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 The Court is sensitive to the fact that s\hich\af0\dbch\af31505\loch\f0 
+ubjectivity will always play a role in the discontinuation decisions of the FBI. But, to paraphrase Judge Posner in Allen, while subjectivity cannot be entirely banished, it is difficult to believe that the FBI cannot do better than the process described 
+\hich\af0\dbch\af31505\loch\f0 a\hich\af0\dbch\af31505\loch\f0 t trial. 881 F.2d at 381. That process, with its inherent subjectivity and inconsistency, resulted in an adverse impact on Hispanics and African-Americans. Defendant failed to justify it.
+
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0  
+\par \hich\af0\dbch\af31505\loch\f0 May 29, 2003
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid10510254 \hich\af0\dbch\af31505\loch\f0 JAMES ROBERTSON
+\par \hich\af0\dbch\af31505\loch\f0 United States District Judge 
+\par \sect }\sectd \ltrsect\sbknone\linex0\sectdefaultcl\sftnbj {\headerr \ltrpar \pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\loch\af5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\insrsid10510254 
+\par }}\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid10510254 
+\par }{\*\themedata 504b030414000600080000002100e9de0fbfff0000001c020000130000005b436f6e74656e745f54797065735d2e786d6cac91cb4ec3301045f748fc83e52d4a
+9cb2400825e982c78ec7a27cc0c8992416c9d8b2a755fbf74cd25442a820166c2cd933f79e3be372bd1f07b5c3989ca74aaff2422b24eb1b475da5df374fd9ad
+5689811a183c61a50f98f4babebc2837878049899a52a57be670674cb23d8e90721f90a4d2fa3802cb35762680fd800ecd7551dc18eb899138e3c943d7e503b6
+b01d583deee5f99824e290b4ba3f364eac4a430883b3c092d4eca8f946c916422ecab927f52ea42b89a1cd59c254f919b0e85e6535d135a8de20f20b8c12c3b0
+0c895fcf6720192de6bf3b9e89ecdbd6596cbcdd8eb28e7c365ecc4ec1ff1460f53fe813d3cc7f5b7f020000ffff0300504b030414000600080000002100a5d6
+a7e7c0000000360100000b0000005f72656c732f2e72656c73848fcf6ac3300c87ef85bd83d17d51d2c31825762fa590432fa37d00e1287f68221bdb1bebdb4f
+c7060abb0884a4eff7a93dfeae8bf9e194e720169aaa06c3e2433fcb68e1763dbf7f82c985a4a725085b787086a37bdbb55fbc50d1a33ccd311ba548b6309512
+0f88d94fbc52ae4264d1c910d24a45db3462247fa791715fd71f989e19e0364cd3f51652d73760ae8fa8c9ffb3c330cc9e4fc17faf2ce545046e37944c69e462
+a1a82fe353bd90a865aad41ed0b5b8f9d6fd010000ffff0300504b0304140006000800000021006b799616830000008a0000001c0000007468656d652f746865
+6d652f7468656d654d616e616765722e786d6c0ccc4d0ac3201040e17da17790d93763bb284562b2cbaebbf600439c1a41c7a0d29fdbd7e5e38337cedf14d59b
+4b0d592c9c070d8a65cd2e88b7f07c2ca71ba8da481cc52c6ce1c715e6e97818c9b48d13df49c873517d23d59085adb5dd20d6b52bd521ef2cdd5eb9246a3d8b
+4757e8d3f729e245eb2b260a0238fd010000ffff0300504b030414000600080000002100aa5225dfc60600008b1a0000160000007468656d652f7468656d652f
+7468656d65312e786d6cec595d8bdb46147d2ff43f08bd3bfe92fcb1c41b6cd9ceb6d94d42eca4e4716c8fadc98e344633de8d0981923c160aa569e943037deb
+43691b48a02fe9afd936a54d217fa17746b63c638fbb9b2585a5640d8b343af7ce997bafce1d4997afdc8fa87384134e58dc708b970aae83e3211b9178d2706f
+f7bbb99aeb7081e211a22cc60d778eb97b65f7c30f2ea31d11e2083b601ff31dd4704321a63bf93c1fc230e297d814c7706dcc920809384d26f951828ec16f44
+f3a542a1928f10895d274611b8bd311e932176fad2a5bbbb74dea1701a0b2e078634e949d7d8b050d8d1615122f89c0734718e106db830cf881df7f17de13a14
+7101171a6e41fdb9f9ddcb79b4b330a2628bad66d7557f0bbb85c1e8b0a4e64c26836c52cff3bd4a33f3af00546ce23ad54ea553c9fc29001a0e61a52917dda7
+dfaab7dafe02ab81d2438bef76b55d2e1a78cd7f798373d3973f03af40a97f6f03dfed06104503af4029dedfc07b5eb51478065e81527c65035f2d34db5ed5c0
+2b5048497cb8812ef89572b05c6d061933ba6785d77daf5b2d2d9caf50500d5975c929c62c16db6a2d42f758d2058004522448ec88f9148fd110aa3840940c12
+e2ec93490885374531e3305c2815ba8532fc973f4f1da988a01d8c346bc90b98f08d21c9c7e1c3844c45c3fd18bcba1ae4cdcb1fdfbc7cee9c3c7a71f2e89793
+c78f4f1efd9c3a32acf6503cd1ad5e7fffc5df4f3f75fe7afeddeb275fd9f15cc7fffed367bffdfaa51d082b5d85e0d5d7cffe78f1ecd5379ffff9c3130bbc99
+a0810eef930873e73a3e766eb10816a6426032c783e4ed2cfa2122ba45339e701423398bc57f478406fafa1c5164c1b5b019c13b09488c0d787576cf20dc0b93
+9920168fd7c2c8001e30465b2cb146e19a9c4b0b737f164fec9327331d770ba123dbdc018a8dfc766653d05662731984d8a07993a258a0098eb170e4357688b1
+6575770931e27a408609e36c2c9cbbc46921620d499f0c8c6a5a19ed9108f232b711847c1bb139b8e3b418b5adba8d8f4c24dc15885ac8f73135c27815cd048a
+6c2efb28a27ac0f791086d247bf364a8e33a5c40a6279832a733c29cdb6c6e24b05e2de9d7405eec693fa0f3c84426821cda7cee23c674649b1d06218aa6366c
+8fc4a18efd881f428922e7261336f80133ef10790e7940f1d674df21d848f7e96a701b9455a7b42a107965965872791533a37e7b733a4658490d08bfa1e71189
+4f15f73559f7ff5b5907217df5ed53cbaa2eaaa0371362bda3f6d6647c1b6e5dbc03968cc8c5d7ee369ac53731dc2e9b0decbd74bf976ef77f2fdddbeee7772f
+d82b8d06f9965bc574abae36eed1d67dfb9850da13738af7b9daba73e84ca32e0c4a3bf5cc8ab3e7b8690887f24e86090cdc2441cac64998f88488b017a229ec
+ef8bae7432e10bd713ee4c19876dbf1ab6fa96783a8b0ed8287d5c2d16e5a3692a1e1c89d578c1cfc6e15143a4e84a75f50896b9576c27ea51794940dabe0d09
+6d329344d942a2ba1c9441520fe610340b09b5b277c2a26e615193ee97a9da6001d4b2acc0d6c9810d57c3f53d30012378a242148f649ed2542fb3ab92f92e33
+bd2d984605c03e625901ab4cd725d7adcb93ab4b4bed0c99364868e566925091513d8c87688417d52947cf42e36d735d5fa5d4a02743a1e683d25ad1a8d6fe8d
+c579730d76ebda40635d2968ec1c37dc4ad9879219a269c31dc3633f1c4653a81d2eb7bc884ee0ddd95024e90d7f1e6599265cb4110fd3802bd149d520220227
+0e2551c395cbcfd24063a5218a5bb104827061c9d541562e1a3948ba99643c1ee3a1d0d3ae8dc848a7a7a0f0a95658af2af3f383a5259b41ba7be1e8d819d059
+720b4189f9d5a20ce0887078fb534ca33922f03a3313b255fdad35a685eceaef13550da5e3884e43b4e828ba98a77025e5191d7596c5403b5bac1902aa8564d1
+080713d960f5a01add34eb1a2987ad5df7742319394d34573dd35015d935ed2a66ccb06c036bb13c5f93d7582d430c9aa677f854bad725b7bed4bab57d42d625
+20e059fc2c5df70c0d41a3b69acca026196fcab0d4ecc5a8d93b960b3c85da599a84a6fa95a5dbb5b8653dc23a1d0c9eabf383dd7ad5c2d078b9af549156df3d
+f44f136c700fc4a30d2f81675470954af8f09020d810f5d49e24950db845ee8bc5ad0147ce2c210df741c16f7a41c90f72859adfc97965af90abf9cd72aee9fb
+e562c72f16daadd243682c228c8a7efacda50bafa2e87cf1e5458d6f7c7d89966fdb2e0d599467eaeb4a5e11575f5f8aa5ed5f5f1c02a2f3a052ead6cbf55625
+572f37bb39afddaae5ea41a5956b57826abbdb0efc5abdfbd0758e14d86b9603afd2a9e52ac520c8799582a45fabe7aa5ea9d4f4aacd5ac76b3e5c6c6360e5a9
+7c2c6201e155bc76ff010000ffff0300504b0304140006000800000021000dd1909fb60000001b010000270000007468656d652f7468656d652f5f72656c732f
+7468656d654d616e616765722e786d6c2e72656c73848f4d0ac2301484f78277086f6fd3ba109126dd88d0add40384e4350d363f2451eced0dae2c082e8761be
+9969bb979dc9136332de3168aa1a083ae995719ac16db8ec8e4052164e89d93b64b060828e6f37ed1567914b284d262452282e3198720e274a939cd08a54f980
+ae38a38f56e422a3a641c8bbd048f7757da0f19b017cc524bd62107bd5001996509affb3fd381a89672f1f165dfe514173d9850528a2c6cce0239baa4c04ca5b
+babac4df000000ffff0300504b01022d0014000600080000002100e9de0fbfff0000001c0200001300000000000000000000000000000000005b436f6e74656e
+745f54797065735d2e786d6c504b01022d0014000600080000002100a5d6a7e7c0000000360100000b00000000000000000000000000300100005f72656c732f
+2e72656c73504b01022d00140006000800000021006b799616830000008a0000001c00000000000000000000000000190200007468656d652f7468656d652f74
+68656d654d616e616765722e786d6c504b01022d0014000600080000002100aa5225dfc60600008b1a00001600000000000000000000000000d6020000746865
+6d652f7468656d652f7468656d65312e786d6c504b01022d00140006000800000021000dd1909fb60000001b0100002700000000000000000000000000d00900007468656d652f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73504b050600000000050005005d010000cb0a00000000}
+{\*\colorschememapping 3c3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d225554462d3822207374616e64616c6f6e653d22796573223f3e0d0a3c613a636c724d
+617020786d6c6e733a613d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f64726177696e676d6c2f323030362f6d6169
+6e22206267313d226c743122207478313d22646b3122206267323d226c743222207478323d22646b322220616363656e74313d22616363656e74312220616363
+656e74323d22616363656e74322220616363656e74333d22616363656e74332220616363656e74343d22616363656e74342220616363656e74353d22616363656e74352220616363656e74363d22616363656e74362220686c696e6b3d22686c696e6b2220666f6c486c696e6b3d22666f6c486c696e6b222f3e}
+{\*\latentstyles\lsdstimax371\lsdlockeddef0\lsdsemihiddendef0\lsdunhideuseddef0\lsdqformatdef0\lsdprioritydef99{\lsdlockedexcept \lsdqformat1 \lsdpriority0 \lsdlocked0 Normal;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 1;
+\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 2;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 3;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 4;
+\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 5;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 6;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 7;
+\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 8;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 9;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 1;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 5;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 6;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 7;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 8;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 9;
+\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 1;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 2;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 4;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 5;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 6;
+\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 7;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 8;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 9;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Normal Indent;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 footnote text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 annotation text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 header;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 footer;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index heading;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority35 \lsdlocked0 caption;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 table of figures;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 envelope address;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 envelope return;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 footnote reference;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 annotation reference;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 line number;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 page number;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 endnote reference;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 endnote text;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 table of authorities;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 macro;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 toa heading;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number 5;\lsdqformat1 \lsdpriority10 \lsdlocked0 Title;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Closing;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Signature;\lsdsemihidden1 \lsdunhideused1 \lsdpriority1 \lsdlocked0 Default Paragraph Font;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text Indent;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue 4;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Message Header;\lsdqformat1 \lsdpriority11 \lsdlocked0 Subtitle;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Salutation;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Date;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text First Indent;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text First Indent 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Note Heading;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text Indent 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text Indent 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Block Text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Hyperlink;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 FollowedHyperlink;\lsdqformat1 \lsdpriority22 \lsdlocked0 Strong;
+\lsdqformat1 \lsdpriority20 \lsdlocked0 Emphasis;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Document Map;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Plain Text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 E-mail Signature;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Top of Form;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Bottom of Form;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Normal (Web);\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Acronym;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Address;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Cite;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Code;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Definition;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Keyboard;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Preformatted;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Sample;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Typewriter;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Variable;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 annotation subject;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 No List;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Outline List 1;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Outline List 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Outline List 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Balloon Text;\lsdpriority39 \lsdlocked0 Table Grid;
+\lsdsemihidden1 \lsdlocked0 Placeholder Text;\lsdqformat1 \lsdpriority1 \lsdlocked0 No Spacing;\lsdpriority60 \lsdlocked0 Light Shading;\lsdpriority61 \lsdlocked0 Light List;\lsdpriority62 \lsdlocked0 Light Grid;
+\lsdpriority63 \lsdlocked0 Medium Shading 1;\lsdpriority64 \lsdlocked0 Medium Shading 2;\lsdpriority65 \lsdlocked0 Medium List 1;\lsdpriority66 \lsdlocked0 Medium List 2;\lsdpriority67 \lsdlocked0 Medium Grid 1;\lsdpriority68 \lsdlocked0 Medium Grid 2;
+\lsdpriority69 \lsdlocked0 Medium Grid 3;\lsdpriority70 \lsdlocked0 Dark List;\lsdpriority71 \lsdlocked0 Colorful Shading;\lsdpriority72 \lsdlocked0 Colorful List;\lsdpriority73 \lsdlocked0 Colorful Grid;\lsdpriority60 \lsdlocked0 Light Shading Accent 1;
+\lsdpriority61 \lsdlocked0 Light List Accent 1;\lsdpriority62 \lsdlocked0 Light Grid Accent 1;\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 1;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 1;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 1;
+\lsdsemihidden1 \lsdlocked0 Revision;\lsdqformat1 \lsdpriority34 \lsdlocked0 List Paragraph;\lsdqformat1 \lsdpriority29 \lsdlocked0 Quote;\lsdqformat1 \lsdpriority30 \lsdlocked0 Intense Quote;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 1;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 1;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 1;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 1;\lsdpriority70 \lsdlocked0 Dark List Accent 1;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 1;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 1;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 1;\lsdpriority60 \lsdlocked0 Light Shading Accent 2;\lsdpriority61 \lsdlocked0 Light List Accent 2;\lsdpriority62 \lsdlocked0 Light Grid Accent 2;
+\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 2;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 2;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 2;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 2;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 2;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 2;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 2;\lsdpriority70 \lsdlocked0 Dark List Accent 2;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 2;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 2;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 2;\lsdpriority60 \lsdlocked0 Light Shading Accent 3;\lsdpriority61 \lsdlocked0 Light List Accent 3;\lsdpriority62 \lsdlocked0 Light Grid Accent 3;
+\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 3;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 3;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 3;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 3;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 3;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 3;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 3;\lsdpriority70 \lsdlocked0 Dark List Accent 3;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 3;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 3;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 3;\lsdpriority60 \lsdlocked0 Light Shading Accent 4;\lsdpriority61 \lsdlocked0 Light List Accent 4;\lsdpriority62 \lsdlocked0 Light Grid Accent 4;
+\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 4;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 4;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 4;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 4;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 4;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 4;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 4;\lsdpriority70 \lsdlocked0 Dark List Accent 4;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 4;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 4;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 4;\lsdpriority60 \lsdlocked0 Light Shading Accent 5;\lsdpriority61 \lsdlocked0 Light List Accent 5;\lsdpriority62 \lsdlocked0 Light Grid Accent 5;
+\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 5;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 5;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 5;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 5;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 5;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 5;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 5;\lsdpriority70 \lsdlocked0 Dark List Accent 5;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 5;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 5;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 5;\lsdpriority60 \lsdlocked0 Light Shading Accent 6;\lsdpriority61 \lsdlocked0 Light List Accent 6;\lsdpriority62 \lsdlocked0 Light Grid Accent 6;
+\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 6;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 6;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 6;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 6;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 6;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 6;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 6;\lsdpriority70 \lsdlocked0 Dark List Accent 6;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 6;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 6;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 6;\lsdqformat1 \lsdpriority19 \lsdlocked0 Subtle Emphasis;\lsdqformat1 \lsdpriority21 \lsdlocked0 Intense Emphasis;
+\lsdqformat1 \lsdpriority31 \lsdlocked0 Subtle Reference;\lsdqformat1 \lsdpriority32 \lsdlocked0 Intense Reference;\lsdqformat1 \lsdpriority33 \lsdlocked0 Book Title;\lsdsemihidden1 \lsdunhideused1 \lsdpriority37 \lsdlocked0 Bibliography;
+\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority39 \lsdlocked0 TOC Heading;\lsdpriority41 \lsdlocked0 Plain Table 1;\lsdpriority42 \lsdlocked0 Plain Table 2;\lsdpriority43 \lsdlocked0 Plain Table 3;\lsdpriority44 \lsdlocked0 Plain Table 4;
+\lsdpriority45 \lsdlocked0 Plain Table 5;\lsdpriority40 \lsdlocked0 Grid Table Light;\lsdpriority46 \lsdlocked0 Grid Table 1 Light;\lsdpriority47 \lsdlocked0 Grid Table 2;\lsdpriority48 \lsdlocked0 Grid Table 3;\lsdpriority49 \lsdlocked0 Grid Table 4;
+\lsdpriority50 \lsdlocked0 Grid Table 5 Dark;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 1;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 1;
+\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 1;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 1;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 1;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 1;
+\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 1;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 2;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 2;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 2;
+\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 2;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 2;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 2;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 2;
+\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 3;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 3;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 3;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 3;
+\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 3;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 3;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 3;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 4;
+\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 4;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 4;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 4;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 4;
+\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 4;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 4;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 5;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 5;
+\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 5;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 5;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 5;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 5;
+\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 5;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 6;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 6;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 6;
+\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 6;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 6;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 6;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 6;
+\lsdpriority46 \lsdlocked0 List Table 1 Light;\lsdpriority47 \lsdlocked0 List Table 2;\lsdpriority48 \lsdlocked0 List Table 3;\lsdpriority49 \lsdlocked0 List Table 4;\lsdpriority50 \lsdlocked0 List Table 5 Dark;
+\lsdpriority51 \lsdlocked0 List Table 6 Colorful;\lsdpriority52 \lsdlocked0 List Table 7 Colorful;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 1;\lsdpriority47 \lsdlocked0 List Table 2 Accent 1;\lsdpriority48 \lsdlocked0 List Table 3 Accent 1;
+\lsdpriority49 \lsdlocked0 List Table 4 Accent 1;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 1;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 1;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 1;
+\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 2;\lsdpriority47 \lsdlocked0 List Table 2 Accent 2;\lsdpriority48 \lsdlocked0 List Table 3 Accent 2;\lsdpriority49 \lsdlocked0 List Table 4 Accent 2;
+\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 2;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 2;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 2;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 3;
+\lsdpriority47 \lsdlocked0 List Table 2 Accent 3;\lsdpriority48 \lsdlocked0 List Table 3 Accent 3;\lsdpriority49 \lsdlocked0 List Table 4 Accent 3;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 3;
+\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 3;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 3;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 4;\lsdpriority47 \lsdlocked0 List Table 2 Accent 4;
+\lsdpriority48 \lsdlocked0 List Table 3 Accent 4;\lsdpriority49 \lsdlocked0 List Table 4 Accent 4;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 4;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 4;
+\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 4;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 5;\lsdpriority47 \lsdlocked0 List Table 2 Accent 5;\lsdpriority48 \lsdlocked0 List Table 3 Accent 5;
+\lsdpriority49 \lsdlocked0 List Table 4 Accent 5;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 5;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 5;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 5;
+\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 6;\lsdpriority47 \lsdlocked0 List Table 2 Accent 6;\lsdpriority48 \lsdlocked0 List Table 3 Accent 6;\lsdpriority49 \lsdlocked0 List Table 4 Accent 6;
+\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 6;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 6;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 6;}}{\*\datastore 010500000200000018000000
+4d73786d6c322e534158584d4c5265616465722e362e3000000000000000000000060000
+d0cf11e0a1b11ae1000000000000000000000000000000003e000300feff090006000000000000000000000001000000010000000000000000100000feffffff00000000feffffff0000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffdfffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e5000000000000000000000000f011
+4be692d8d201feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000105000000000000}}
