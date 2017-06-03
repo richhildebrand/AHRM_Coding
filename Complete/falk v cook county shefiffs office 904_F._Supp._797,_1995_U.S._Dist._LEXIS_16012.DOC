@@ -1,0 +1,633 @@
+{\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff0\deff0\stshfdbch31505\stshfloch31506\stshfhich31506\stshfbi0\deflang1033\deflangfe1033\themelang1033\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f5\fbidi \fmodern\fcharset0\fprq1{\*\panose 02070409020205020404}Courier;}
+{\f34\fbidi \froman\fcharset1\fprq2{\*\panose 02040503050406030204}Cambria Math;}{\flomajor\f31500\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\fdbmajor\f31501\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fhimajor\f31502\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0302020204030204}Calibri Light;}
+{\fbimajor\f31503\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\flominor\f31504\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\fdbminor\f31505\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fhiminor\f31506\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}
+{\fbiminor\f31507\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f41\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\f42\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\f44\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\f45\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\f46\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f47\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\f48\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\f49\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f381\fbidi \froman\fcharset238\fprq2 Cambria Math CE;}{\f382\fbidi \froman\fcharset204\fprq2 Cambria Math Cyr;}
+{\f384\fbidi \froman\fcharset161\fprq2 Cambria Math Greek;}{\f385\fbidi \froman\fcharset162\fprq2 Cambria Math Tur;}{\f388\fbidi \froman\fcharset186\fprq2 Cambria Math Baltic;}{\f389\fbidi \froman\fcharset163\fprq2 Cambria Math (Vietnamese);}
+{\flomajor\f31508\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\flomajor\f31509\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\flomajor\f31511\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
+{\flomajor\f31512\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\flomajor\f31513\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\flomajor\f31514\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\flomajor\f31515\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\flomajor\f31516\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fdbmajor\f31518\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\fdbmajor\f31519\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fdbmajor\f31521\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fdbmajor\f31522\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}
+{\fdbmajor\f31523\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fdbmajor\f31524\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fdbmajor\f31525\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\fdbmajor\f31526\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fhimajor\f31528\fbidi \fswiss\fcharset238\fprq2 Calibri Light CE;}{\fhimajor\f31529\fbidi \fswiss\fcharset204\fprq2 Calibri Light Cyr;}
+{\fhimajor\f31531\fbidi \fswiss\fcharset161\fprq2 Calibri Light Greek;}{\fhimajor\f31532\fbidi \fswiss\fcharset162\fprq2 Calibri Light Tur;}{\fhimajor\f31535\fbidi \fswiss\fcharset186\fprq2 Calibri Light Baltic;}
+{\fhimajor\f31536\fbidi \fswiss\fcharset163\fprq2 Calibri Light (Vietnamese);}{\fbimajor\f31538\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fbimajor\f31539\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\fbimajor\f31541\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fbimajor\f31542\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fbimajor\f31543\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\fbimajor\f31544\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fbimajor\f31545\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fbimajor\f31546\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\flominor\f31548\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\flominor\f31549\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\flominor\f31551\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
+{\flominor\f31552\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\flominor\f31553\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\flominor\f31554\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\flominor\f31555\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\flominor\f31556\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fdbminor\f31558\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\fdbminor\f31559\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fdbminor\f31561\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fdbminor\f31562\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}
+{\fdbminor\f31563\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fdbminor\f31564\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fdbminor\f31565\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\fdbminor\f31566\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fhiminor\f31568\fbidi \fswiss\fcharset238\fprq2 Calibri CE;}{\fhiminor\f31569\fbidi \fswiss\fcharset204\fprq2 Calibri Cyr;}
+{\fhiminor\f31571\fbidi \fswiss\fcharset161\fprq2 Calibri Greek;}{\fhiminor\f31572\fbidi \fswiss\fcharset162\fprq2 Calibri Tur;}{\fhiminor\f31575\fbidi \fswiss\fcharset186\fprq2 Calibri Baltic;}
+{\fhiminor\f31576\fbidi \fswiss\fcharset163\fprq2 Calibri (Vietnamese);}{\fbiminor\f31578\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fbiminor\f31579\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\fbiminor\f31581\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fbiminor\f31582\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fbiminor\f31583\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\fbiminor\f31584\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fbiminor\f31585\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fbiminor\f31586\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}}
+{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;
+\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\red204\green0\blue51;}{\*\defchp \fs22\loch\af31506\hich\af31506\dbch\af31505 }{\*\defpap \ql \li0\ri0\sa160\sl259\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 }\noqfpromote {\stylesheet{\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\loch\f5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext0 \sqformat \spriority0 Normal;}{\*\cs10 \additive \ssemihidden \sunhideused \spriority1 Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tblind0\tblindtype3\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv \ql \li0\ri0\sa160\sl259\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \fs22\lang1033\langfe1033\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext11 \ssemihidden \sunhideused 
+Normal Table;}}{\*\rsidtbl \rsid217187\rsid1600199\rsid3235939\rsid4152902\rsid5463788\rsid7277310\rsid7761685\rsid8858282\rsid11675926\rsid13899028\rsid13918750\rsid13977515\rsid16670696}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1
+\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\operator Hildebrand, Richard}{\creatim\yr2017\mo5\dy20\hr16\min18}{\revtim\yr2017\mo6\dy3\hr15\min15}{\version12}{\edmins21}{\nofpages9}{\nofwords5883}{\nofchars33537}
+{\nofcharsws39342}{\vern91}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}\paperw12240\paperh15840\margl1296\margr1296\margt1728\margb1296\gutter0\ltrsect 
+\widowctrl\ftnbj\aenddoc\trackmoves0\trackformatting1\donotembedsysfont0\relyonvml0\donotembedlingdata1\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0\hyphauto1\horzdoc\dghspace120\dgvspace120
+\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale150\rsidroot4152902 \fet0{\*\wgrffmtfilter 2450}\ilfomacatclnup0{\*\ftnsep \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 
+\af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid13899028 \chftnsep 
+\par }}{\*\ftnsepc \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid13899028 \chftnsepc 
+\par }}{\*\aftnsep \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid13899028 \chftnsep 
+\par }}{\*\aftnsepc \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 
+\ltrch\fcs0 \insrsid13899028 \chftnsepc 
+\par }}\ltrpar \sectd \ltrsect\pgnrestart\linex0\sectdefaultcl\sftnbj {\headerr \ltrpar \pard\plain \ltrpar\qr \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\loch\af5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Page \chpgn 
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 
+\ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af5 \ltrch\fcs0 \insrsid217187 \sect }\sectd \ltrsect\sbknone\linex0\sectdefaultcl\sftnbj {\headerr \ltrpar \pard\plain \ltrpar
+\qr \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0 Page \chpgn 
+\par }\pard \ltrpar\qc \li0\ri0\widctlpar\wrapdefault\hyphpar0\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 904 F. Supp. 797, *; 1995 U.S. Dist. LEXIS 16012, **
+\par }}\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid217187 {\*\bkmkstart DOC_ID_0}{\*\bkmkstart DOC_ID_0_0}{\*\bkmkend DOC_ID_0}{\*\bkmkend DOC_ID_0_0}
+\par }\pard \ltrpar\qc \li1200\ri1200\widctlpar\wrapdefault\faauto\rin1200\lin1200\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\highlight7\insrsid217187\charrsid3235939 \hich\af0\dbch\af31505\loch\f0 ALBERT J. }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf17\highlight7\insrsid217187\charrsid3235939 \hich\af0\dbch\af31505\loch\f0 FALK,}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\highlight7\insrsid217187\charrsid3235939 \hich\af0\dbch\af31505\loch\f0  Plaintiff, v. }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf17\highlight7\insrsid217187\charrsid3235939 \hich\af0\dbch\af31505\loch\f0 COOK}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\highlight7\insrsid217187\charrsid3235939 \hich\af0\dbch\af31505\loch\f0 
+ COUNTY SHERIFF'S OFFICE, MICHAEL SHEAHAN, ED CARIK, ROBERT GOLDSMITH, RICH WHITNEY, AND JOHN BYRNE, Defendants.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 
+\par }\pard \ltrpar\qc \li1200\ri1200\widctlpar\wrapdefault\faauto\rin1200\lin1200\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 93 C 3842
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 
+\par }\pard \ltrpar\qc \li1200\ri1200\widctlpar\wrapdefault\faauto\rin1200\lin1200\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\highlight7\insrsid217187\charrsid3235939 \hich\af0\dbch\af31505\loch\f0 
+UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF ILLINOIS}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 
+\par }\pard \ltrpar\qc \li1200\ri1200\widctlpar\wrapdefault\faauto\rin1200\lin1200\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 904 F. Supp. 797; 1995 U.S. Dist. }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf17\highlight7\insrsid217187\charrsid1600199 \hich\af0\dbch\af31505\loch\f0 LEXIS 16012}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 
+\par 
+\par }\pard \ltrpar\qc \li1200\ri1200\widctlpar\wrapdefault\faauto\rin1200\lin1200\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 October 26, }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\highlight7\insrsid217187\charrsid3235939 \hich\af0\dbch\af31505\loch\f0 1995, Decided}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0   
+\par \hich\af0\dbch\af31505\loch\f0 October 31, 1995, DOCKETED 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 
+\par \hich\af0\dbch\af31505\loch\f0 CASE SUMMARY:}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187\charrsid4152902 \hich\af0\dbch\af31505\loch\f0 PROCEDURAL POSTURE: }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187\charrsid4152902 \hich\af0\dbch\af31505\loch\f0 
+Defendants, sheriff's office and officials, filed a joint motion for summary judgment under Fed. R. Civ. P. 56 in plaintiff employee's action against the sheriff's office and the officials, alleging retaliation in violation of the employe's rights under t
+\hich\af0\dbch\af31505\loch\f0 h\hich\af0\dbch\af31505\loch\f0 \hich\f0 e First and Fourteenth Amendments pursuant to 42 U.S.C.S. \'a7\loch\f0 
+ 1983, conspiracy, and violation of the Illinois Whistle Blowers Act (Act), 5 Ill. Comp. Stat. 395/1, inter alia.
+\par 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187\charrsid4152902 \hich\af0\dbch\af31505\loch\f0 OVERVIEW: }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187\charrsid4152902 \hich\af0\dbch\af31505\loch\f0 
+The employee alleged that the sheriff's office and the officials violate\hich\af0\dbch\af31505\loch\f0 d }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid217187\charrsid11675926 \hich\af0\dbch\af31505\loch\f0 his right of protected speech}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187\charrsid4152902 \hich\af0\dbch\af31505\loch\f0 \hich\f0  pursuant to 42 U.S.C.S. \'a7\loch\f0 
+ 1983, engaged in a conspiracy to deprive him of his freedom of speech, and violated the Act. The sheriff's office and the officials sought summary judgment. The court granted the motion for summary \hich\af0\dbch\af31505\loch\f0 \hich\f0 
+judgment as to three of the officials and denied it as to the two remaining officials for the employee's claims for \'a7\loch\f0 
+ 1983 violations, violation of the state constitution, violation of the Act, and punitive damages. The court found that the Merit Board cl\hich\af0\dbch\af31505\loch\f0 e\hich\af0\dbch\af31505\loch\f0 arly acted in a judic}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid11675926 \hich\af0\dbch\af31505\loch\f0 ia\hich\af0\dbch\af31505\loch\f0 l capacity. The employee was }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187\charrsid4152902 \hich\af0\dbch\af31505\loch\f0 
+stopped from attempting to raise an issue of fact that he falsified his application forms or that he was terminated for just cause. The court found that the employee suffered allegedly in retaliation for\hich\af0\dbch\af31505\loch\f0 
+ having exercised his First Amendment right to freedom of speech. There was a genuine issue of fact whether the employee's speech was of public concern. The employee could not establish that two of the officials' actions were in retaliation for his speech
+.\hich\af0\dbch\af31505\loch\f0  The court found that the employee failed to state a claim under the Act against three of the officials.
+\par 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187\charrsid4152902 \hich\af0\dbch\af31505\loch\f0 OUTCOME: }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid217187\charrsid11675926 \hich\af0\dbch\af31505\loch\f0 
+The court granted the motion for summary judgment filed by the sheriff's office and the officials as to three officials and denied it as to t\hich\af0\dbch\af31505\loch\f0 \hich\f0 he two remaining officials for the employee's claims under 42 U.S.C.S. 
+\'a7\loch\f0  1983, the state constitution, the Act, and for punitive damages. The motion to dismiss filed by the two remaining officials was granted as to the employee's conspiracy claim, and the\hich\af0\dbch\af31505\loch\f0  
+\hich\af0\dbch\af31505\loch\f0 employee was granted leave to file an amended claim.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 CORE TERMS: }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+reassignment, retaliatory, employment application, retaliation, summary judgment, falsified, preclusive effect, federal conviction, issue of fact, conspiracy, firearm, genuine, matter of pub\hich\af0\dbch\af31505\loch\f0 
+lic concern, protected speech, fails to state, terminated, convicted, investigator, freedom of speech, proper authorities, judicial capacity, qualified immunity, disciplinary, transferred, termination, retaliated, press conference, deputy sheriff, officia
+\hich\af0\dbch\af31505\loch\f0 l\hich\af0\dbch\af31505\loch\f0  misconduct, application form
+\par 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 COUNSEL: }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0 [**1]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0   FOR ALBERT J }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid217187 \hich\af0\dbch\af31505\loch\f0 FALK,}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  plaintiff: Jeffrey Morris Jacobson, Marc D. Berlin, Jacobson, Berlin & Kotz, Chicago, IL.
+\par 
+\par \hich\af0\dbch\af31505\loch\f0 FOR }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid217187 \hich\af0\dbch\af31505\loch\f0 COOK}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  CO SHERIFF'S, defendant: Jeremy C. Schwartz, 
+}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Cook}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  County State's Attorney, Chicago, IL. F\hich\af0\dbch\af31505\loch\f0 
+OR MICHAEL SHEAHAN, ED CARIK, ROBERT GOLDSMITH, RICH WITNEY, JOHN BYRNE, defendants: Karen J. Dimond, Robbins, Schwartz, Nicholas, Lifton & Taylor, Ltd., Chicago, IL. Jeremy C. Schwartz, }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0 Cook}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  County State's Attorney, Chicago, IL.  
+\par 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\highlight7\insrsid217187\charrsid13918750 \hich\af0\dbch\af31505\loch\f0 JUDGES: }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid217187\charrsid13918750 \hich\af0\dbch\af31505\loch\f0 Robert W. Gettl
+\hich\af0\dbch\af31505\loch\f0 eman, United States District Judge}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  
+\par 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 OPINION BY: }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Robert W. Gettleman
+\par 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  OPINION
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  [*800] MEMORANDUM OPINION AND ORDER}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Plaintiff, Albert J. }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0 Falk,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  brings this five count action against defendants }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0 Cook}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  County Sheriff's Office (the "Sheriff's Office"), }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0 Cook}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  County Sheriff Michael Sheahan ("Sheahan"), }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Cook}
+{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+ County Chief Deputy Sheriff Ed Carik ("Carik"), Director of the Internal Affairs Division of the Sheriff's Office Robert Goldsmith (Goldsmith"), former Deputy Director of the Electronic Monitoring Unit (the\hich\af0\dbch\af31505\loch\f0 
+ "EMU") Rich Whitney ("Whitney"), and Director of the EMU John Byrne ("Byrne"), alleging that defendants: (1) retaliated against plaintiff in violation of his First Amendment right to freedom of speech as secured by the due process clause of the Fourteent
+\hich\af0\dbch\af31505\loch\f0 h\hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [**2]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 \hich\f0 
+  Amendment, brought pursuant to 42 U.S.C. \'a7\loch\f0 \hich\f0  1983 ("\'a7\loch\f0 \hich\f0  1983") (Count I); (2) conspired to deny plaintiff his First Amendment right of freedom of speech, brought pursuant to \'a7\loch\f0 
+ 1983 (Count II); (3) deprived plaintiff of his right of freedom of speech un\hich\af0\dbch\af31505\loch\f0 
+der the Illinois Constitution, Article 1, Section 4 (Count III); (4) retaliated against plaintiff for reporting allegations of abusive behavior by EMU officers, in violation of the  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0 [*801]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0   Illinois Whistle Blowers Act, 5 ILCS 395/1 (Count IV); and (5) sho\hich\af0\dbch\af31505\loch\f0 
+uld pay punitive damages for acting willfully, unlawfully, maliciously and in wanton disregard of the rights and feelings of plaintiff (Count V).
+\par \hich\af0\dbch\af31505\loch\f0 The federal claims in Counts I and II are brought against the defendants in their individual capacities only. }{\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\super\insrsid217187 \hich\af0\dbch\af31505\loch\f0 1}{\rtlch\fcs1 
+\af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+ The state law claims in Counts III through V are filed against defendants both in their individual and official capacities. Defendants have filed a joint motion for summary judgment under Fed.R.Civ.P. 56.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par 
+\par }\pard \ltrpar\ql \li600\ri0\widctlpar\wrapdefault\faauto\rin0\lin600\itap0 {\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+1 On August 10, 1993, this court granted the Sheriff's Office's motion and dismissed all claims against it for lack of jurisdiction.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  [**3] FACTS}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid217187\charrsid7277310 \hich\af0\dbch\af31505\loch\f0 
+Plaintiff applied for a deputy sheriff position in the Sheriff's Office on July 1, 1987}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 . The employment appl\hich\af0\dbch\af31505\loch\f0 
+ication form plaintiff filled out for the Sheriff's Office asked: (1) "have you ever been convicted," to which plaintiff answered "Yes"; and, (2) "If so, was a guilty verdict entered in the trial court and the finding," to which plaintiff answered "Yes-Pa
+\hich\af0\dbch\af31505\loch\f0 r\hich\af0\dbch\af31505\loch\f0 doned (papers submitted to County)." At that time, in fact, plaintiff had received a pardon from Governor James R. Thompson for his state law criminal convictions. }{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \f0\highlight7\insrsid217187\charrsid13977515 \hich\af0\dbch\af31505\loch\f0 Plaintiff failed, however, to mention that he was convicted of a federal crime in 1972 }{\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 
+\f0\fs16\super\highlight7\insrsid217187\charrsid13977515 \hich\af0\dbch\af31505\loch\f0 2}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid217187\charrsid13977515 \hich\af0\dbch\af31505\loch\f0  for\hich\af0\dbch\af31505\loch\f0 
+ which he has not been or sought to be pardoned.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par 
+\par }\pard \ltrpar\ql \li600\ri0\widctlpar\wrapdefault\faauto\rin0\lin600\itap0 {\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+2 Plaintiff had plead guilty to knowingly, willfully and unlawfully making false and fictitious statements to acquire a firearm, after having been previously convicted of a felony, and knowingly, wilfully \hich\af0\dbch\af31505\loch\f0 \hich\f0 
+and unlawfully receiving a firearm in interstate commerce after having been previously convicted of a felony, in violation of 18 U.S.C. \'a7\'a7\loch\f0  922(a)(6) and 1202(a)(1).
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [**4]}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0   On June 1, 1990, plaintiff applied and was chosen to work in the EMU of the Sherif\hich\af0\dbch\af31505\loch\f0 f's Office. Plaintiff filled }{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\highlight7\insrsid217187\charrsid8858282 \hich\af0\dbch\af31505\loch\f0 out an employment application on June 1, 1990, for this position, on which plaintiff did not respond at all to the question asking if he had ever been convicted of a crime}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 . In October 1991, plaintiff reported alleged abuses of \hich\af0\dbch\af31505\loch\f0 
+detainees in the EMU by EMU officers to Whitney, the department's deputy director. Whitney directed plaintiff to draft a General Order concerning proper disciplinary measures for deputies handling detainees in the EMU. Plaintiff submitted his draft Genera
+\hich\af0\dbch\af31505\loch\f0 l\hich\af0\dbch\af31505\loch\f0  Order to Whitney in November 1991.
+\par \hich\af0\dbch\af31505\loch\f0 Approximately two months later, in a memorandum dated January 22, 1992, plaintiff was transferred from the 3rd watch patrol unit to the 3rd watch work/school unit. This transfer was the first of six reassignments, spanni
+\hich\af0\dbch\af31505\loch\f0 
+ng from January 1992 to July 1992. These reassignments are all documented in office memoranda signed by Whitney. Plaintiff alleges that he was forced to accept the least desirable assignments and shifts within EMU and eventually was constructively }{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid217187\charrsid16670696 \hich\af0\dbch\af31505\loch\f0 forced t\hich\af0\dbch\af31505\loch\f0 o resign from EMU in July 1992}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+. On July 11, 1992, plaintiff requested a transfer from the EMU }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [**5]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+  to the department of court services. There are two memoranda signed by Carik and Whitney, documenting that as of July 14, }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid217187\charrsid5463788 \hich\af0\dbch\af31505\loch\f0 
+1992, plaintiff was transferred f\hich\af0\dbch\af31505\loch\f0 rom his position of investigator II in the EMU, grade 16, to the department of court services, merit deputy sheriff}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0 . Based on his change in rank, plaintiff suffered an approximate $ 7000 reduction in his annual pay.
+\par \hich\af0\dbch\af31505\loch\f0 In August 1992, plaintiff filed a formal\hich\af0\dbch\af31505\loch\f0 
+ complaint about alleged abuse in the EMU and met with Carik and Goldsmith. During this meeting plaintiff gave his superiors a list of names of people who claimed they had been severely abused while being processed in the EMU.
+\par \hich\af0\dbch\af31505\loch\f0 On February 4, 1993, Chicago \hich\af0\dbch\af31505\loch\f0 
+Police Officer Taylor filed a report in connection with a burglary investigation, alleging that plaintiff had harassed and intimidated witnesses to and victims of the burglary. This report was turned over to and investigated by the Internal Affairs Divisi
+\hich\af0\dbch\af31505\loch\f0 o\hich\af0\dbch\af31505\loch\f0 n of the Sheriff's Office ("IAD"). During this investigation IAD investigator Ron Pluta ("Pluta") }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid217187\charrsid13918750 
+\hich\af0\dbch\af31505\loch\f0 performed a background check into plaintiff's employment record, and discovered that plaintiff had omitted his federal criminal conviction on his employment a\hich\af0\dbch\af31505\loch\f0 pplications}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 , and had }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [**6]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+  omitted the fact that he had not been pardoned from his federal conviction. On March 31, 1993, Assistant State's Attorney Pat Quinn and  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [*802]}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0   Chief Investigator Joe Kelly questioned plaintiff about both the alleged witness ta\hich\af0\dbch\af31505\loch\f0 
+mpering, and about plaintiff's federal conviction. During that meeting, plaintiff told Quinn and Kelly that the conviction had been expunged.
+\par \hich\af0\dbch\af31505\loch\f0 During his investigation Pluta further discovered that in addition to omitting his federal conviction from his emp\hich\af0\dbch\af31505\loch\f0 
+loyment application, following his application to the Sheriff's Office, plaintiff applied for a Federal Firearms License and omitted his federal conviction from his application to the Bureau of Alcohol, Tobacco and Firearms (the "ATF"). Pluta contacted th
+\hich\af0\dbch\af31505\loch\f0 e\hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Cook}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+ County State's Attorney's Office with this information. Assistant State's Attorney Daniel J. Lynch then contacted officers at ATF and asked them to check plaintiff's firearm license application. }{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\highlight7\insrsid217187\charrsid13918750 \hich\af0\dbch\af31505\loch\f0 The ATF's investigation uncovered that plaintiff had mi\hich\af0\dbch\af31505\loch\f0 
+srepresented his background in the preparation for his license which was subsequently revoked.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par \hich\af0\dbch\af31505\loch\f0 Plaintiff was called to a meeting in IAD's office on May 13, 1993. Plaintiff was confronted with his alleged application }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [**7]}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0   misrepresentations and asked to m\hich\af0\dbch\af31505\loch\f0 
+ake a statement. Plaintiff sought and received a continuance until May 20, 1993, to retain legal counsel. On May 18, 1993, plaintiff held a press conference to report alleged abuse by officers in the EMU. On May 20, 1993, plaintiff returned to the IAD off
+\hich\af0\dbch\af31505\loch\f0 i\hich\af0\dbch\af31505\loch\f0 ce with two attorneys (plaintiff's attorneys of record in the instant case) and a certified shorthand reporter}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid217187\charrsid13918750 
+\hich\af0\dbch\af31505\loch\f0 . Plaintiff was given a copy of his Administrative Rights and a Notification of Allegations containing the allegations that he had falsified his e\hich\af0\dbch\af31505\loch\f0 
+mployment applications. During this meeting plaintiff made a recorded statement.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid217187\charrsid5463788 \hich\af0\dbch\af31505\loch\f0 Plaintiff was relieved of duty without pay on June 9, 1993}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+. A hearing was held before the Sheriff's Merit Board (the "Merit Board") on September 14, 1994, regarding plaintiff'\hich\af0\dbch\af31505\loch\f0 s alleged violations of the }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0 Cook}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+ County Sheriff's Department rules and the rule of the Sheriff's Merit Board. At this hearing plaintiff was represented by counsel and given an opportunity to answer the allegations and offer evidence in his behalf. After he\hich\af0\dbch\af31505\loch\f0 
+aring the parties' evidence, in an Order dated February 21, 1995, the Merit Board held that: (1) plaintiff falsified his employment application }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [**8]}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0   by concealing his federal conviction in violation of Rules and Regulations of the }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Cook}{\rtlch\fcs1 
+\af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  County Sheriff's C\hich\af0\dbch\af31505\loch\f0 ourt Services Department and }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Cook}{\rtlch\fcs1 
+\af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  County Sheriff's Merit Board Rules and Regulations; and (2) ordered that plaintiff be separated from employment, for cause, effective June 9, 1993.
+\par \hich\af0\dbch\af31505\loch\f0 Plaintiff filed the instant action on June 25, 1993, prior to his Merit Bo\hich\af0\dbch\af31505\loch\f0 
+ard hearing, alleging that plaintiff had been transferred, demoted, and terminated in retaliation for coming forward with allegations of abuse by EMU officers.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 DISCUSSION}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  [HN1] Under Fed.R.Civ.P. 56(c), a court should grant a summary judgement motion if 
+\hich\af0\dbch\af31505\loch\f0 
+"there is no genuine issue of material fact and... the moving party is entitled to judgment as a matter of law." The burden is on the moving party to identify portions of the pleadings, answers to interrogatories, and affidavits which demonstrate an absen
+\hich\af0\dbch\af31505\loch\f0 c\hich\af0\dbch\af31505\loch\f0 e of a genuine issue of material fact. }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Id.; Celotex Corp. v. Catrett,}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  477 U.S. 317, 323, 106 S. Ct. 2548, 2552, 91 L. Ed. 2d 265 (1986). The burden then shifts to the non-moving party to "set forth specific facts showing that there is a genuine issue for t
+\hich\af0\dbch\af31505\loch\f0 rial." Fed.R.Civ.P. 56(c). When reviewing a summary judgement motion,  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [**9]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0   the court must read the facts in a light most favorable to the non-moving party.  }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Anderson v. Liberty Lobby, Inc.,}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  477 U.S. 242, 255, 106 S. Ct. 2505, 2513, 91 L. Ed. 2d 202 (198\hich\af0\dbch\af31505\loch\f0 6).
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 FIRST AMENDMENT RETALIATION CLAIM}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+Defendants argue that plaintiff is not entitled to any recovery for alleged discrimination because he obtained his job under false pretenses. In support of this argument defendants cite }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0 Kawitt v. United States,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  842 F.\hich\af0\dbch\af31505\loch\f0 
+2d 951 (7th Cir. 1988), in which the court denied the plaintiff's Due Process claim because, }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\highlight7\insrsid217187\charrsid7761685 \hich\af0\dbch\af31505\loch\f0 
+"a job obtained by an admitted and material misrepresentation is not a property right upon which a constitutional suit can be founded."}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  842 F.2d at 953.  [HN2] Whi
+\hich\af0\dbch\af31505\loch\f0 le it is well  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [*803]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+  settled law that a plaintiff must have a property right in his or her job in order to maintain a constitutional due process claim, there is no such requirement to maintain a First Amendment retaliation claim.
+\par \hich\af0\dbch\af31505\loch\f0  [HN3] To recover on a F\hich\af0\dbch\af31505\loch\f0 
+irst Amendment retaliation claim, plaintiff must prove: "(1) that speech he engaged in was constitutionally protected under the circumstances; and (2) that defendants retaliated against him because of that speech." }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 
+\i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Gorman v. Robinson,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  977 F.2d 350, 354 (7t\hich\af0\dbch\af31505\loch\f0 h }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [**10]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0   Cir. 1992). Under }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+Mt. Healthy City School District Board of Education v. Doyle,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+ 429 U.S. 274, 287, 50 L. Ed. 2d 471, 97 S. Ct. 568 (1977), however, plaintiff cannot prevail in his retaliation claim "if the defendant[s] can show that the decision \hich\af0\dbch\af31505\loch\f0 
+to terminate the plaintiff would have been reasonable even in the absence of the protected conduct." }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Conner v. Reinhard,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0  847 F.2d 384, 393 (7th Cir. 1988). After plaintiff's initial burden of establishing that his conduct was constitutionally protected and\hich\af0\dbch\af31505\loch\f0 
+ that the conduct was a "substantial or motivating factor" in defendants' employment decision, the burden shifts to defendants to prove that plaintiff would have been discharged even if the protected conduct had not occurred. }{\rtlch\fcs1 \ai\af0 
+\ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Id.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par \hich\af0\dbch\af31505\loch\f0 Defendants argue that inde\hich\af0\dbch\af31505\loch\f0 
+pendent of plaintiff's alleged protected speech, plaintiff would have been terminated because he falsified his application forms, and that his termination was found to be for just cause by the Merit Board. Thus, defendants argue that under }{\rtlch\fcs1 
+\ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Mt. Healthy,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  pla\hich\af0\dbch\af31505\loch\f0 
+intiff cannot prevail on his claim that he was terminated in retaliation of his First Amendment rights. Plaintiff denies that he lied on his application, and argues that }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+[**11]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0   his denial raises a genuine issue of fact whether he lied on his employment ap\hich\af0\dbch\af31505\loch\f0 
+plications that precludes summary judgment. The issue of whether plaintiff falsified his employment applications was adjudicated before the Merit Board. Therefore, if the court finds that the Merit Board's determinations are given preclusive effect, plain
+\hich\af0\dbch\af31505\loch\f0 t\hich\af0\dbch\af31505\loch\f0 \hich\f0 iff's argument must fail because he failed to appeal the Merit Board's determination as provided by 55 ILCS 5/3-7012 ("\'a7\loch\f0 
+ 3-7012"), and cannot appeal the Merit Board's decision in this court.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 FACT PRECLUSION}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 In }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+University of Tennessee v. Elliott,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+ 478 U.S. 788, 799, 92 L. Ed. 2d 635, 106 S. Ct. 3220 (1986), the Supreme Court stated:  [HN4] "When a State agency acting in a judicial capacity . . . resolves disputed issues of fact properly before it which the parties have had an adequate opportunity 
+\hich\af0\dbch\af31505\loch\f0 t\hich\af0\dbch\af31505\loch\f0 o litigate, federal courts must give the agency's fact finding the same preclusive effect to which it would be entitled in the State's courts." }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 
+\i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 See also, Wilson v. City of Chicago,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  900 F. Supp. 1015, 1995 U.S. Dist. LEXIS 14493, 1995 WL 581352 * 9 (N.D.Ill
+\hich\af0\dbch\af31505\loch\f0 . 1995). Thus, to determine if this court can give any preclusive effect to the Board's decision, it must first }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [**12]}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0   determine: (1) whether the Board acted in a judicial capacity;\hich\af0\dbch\af31505\loch\f0 
+ (2) whether the Officers had an adequate opportunity to litigate the issues before the Board; and (3) whether the Board's decision would be given preclusive effect by the Illinois courts. In addition, if those three factors are met, the court must then d
+\hich\af0\dbch\af31505\loch\f0 e\hich\af0\dbch\af31505\loch\f0 termine whether this particular Board decision should be given preclusive effect. See }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+Ray v. Indiana & Michigan Electric Co.,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  758 F.2d 1148, 1150 (7th Cir. 1985).
+\par \hich\af0\dbch\af31505\loch\f0 In the instant case, the Board clearly acted in a judicial capacity.  [HN5] Administrative ag\hich\af0\dbch\af31505\loch\f0 
+encies act in judicial capacity and their determinations are entitled to preclusive effect when the procedures entail the essential elements of an adjudication. Those elements include: (1) adequate notice; (2) the right of the parties to present evidence 
+\hich\af0\dbch\af31505\loch\f0 o\hich\af0\dbch\af31505\loch\f0 
+n their own behalf, and to rebut evidence presented by the opposition; (3) a formulation of issues of law and fact; (4) a final decision; and (5) the procedural elements necessary to determine conclusively the issues in question. }{\rtlch\fcs1 \ai\af0 
+\ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Crot v. Byrne,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  646 F. Supp\hich\af0\dbch\af31505\loch\f0 
+. 1245, 1255 (N.D. Ill. 1986), aff'd 957 F.2d 394 (7th Cir. 1992).
+\par \hich\af0\dbch\af31505\loch\f0 All of these factors have been met in the instant }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [**13]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+  case. Plaintiff was given notice in a letter dated June 4, 1993, and an accompanying copy of the complaint against plaintiff by the\hich\af0\dbch\af31505\loch\f0 
+ Sheriff's Office that IAD was investigating whether plaintiff falsified his employment application by failing to include his federal  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [*804]}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0   conviction, and was ordered to report to the IAD's office on June 9, 1993, to conduct a hearing to determine whet\hich\af0\dbch\af31505\loch\f0 \hich\f0 
+her further disciplinary actions would be taken against plaintiff. Plaintiff was represented by counsel of his choice and given an opportunity under \'a7\loch\f0 
+ 3-7012 to be heard and to present evidence in his defense. The Sheriff's Merit Board issued findings set\hich\af0\dbch\af31505\loch\f0 t\hich\af0\dbch\af31505\loch\f0 
+ing forth its factual and legal conclusions in a final decision. Finally, the decision of the Sheriff's Merit Board completes all administrative action, and is conclusive absent a timely suit for judicial review. These procedures clearly constitute an adm
+\hich\af0\dbch\af31505\loch\f0 i\hich\af0\dbch\af31505\loch\f0 nistrative adjudication, and this court has no doubt that plaintiff received a full and fair hearing. }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+See, Crot,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  646 F. Supp. at 1256.
+\par \hich\af0\dbch\af31505\loch\f0 Having found that the Merit Board resolved the issues of fact properly before it and that plaintiff had an adequate oppor\hich\af0\dbch\af31505\loch\f0 tunity to litigate, this court must determine to }{\rtlch\fcs1 \ab\af0 
+\ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [**14]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+  what extent Illinois courts would give preclusive effect to the Merit Board's determinations.  [HN6] Illinois courts give preclusive effect to decisions of administrative agencies. }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0 See Crot; Wilson,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0 900 F. Supp. 1015, 1995 U.S. Dist. LEXIS 14493, 1995 WL 581352 *9; }{\rtlch\fcs1 \ai\af0 
+\ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Gunia v. }{\rtlch\fcs1 \ab\ai\af0 \ltrch\fcs0 \b\i\f0\cf17\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Cook}{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0  County Sheriff's Merit Board,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+ 211 Ill. App. 3d 761, 156 Ill. Dec. 177, 570 N.E.2d 653 (1st Dist. 1991). Accordingly, the court finds that the Merit Board's ruling that plainti\hich\af0\dbch\af31505\loch\f0 
+ff was terminated for just cause because plaintiff, (a) has a federal conviction, (b) falsified his employment applications, and (c) violated the rules and regulations of the }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0 Cook}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  County Sheriff's Court Services Department and the }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0 Cook}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  County Sheriff's Mer\hich\af0\dbch\af31505\loch\f0 it Board Rules and Regulations, has preclusive effect in this matter. }{\rtlch\fcs1 
+\ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 See, Homola v. McNamara,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+ 59 F.3d 647, 651 (7th Cir. 1995), ("the collateral bar doctrine prevents the loser from migrating to another tribunal in search of a decision he likes better"). \hich\af0\dbch\af31505\loch\f0 
+Accordingly, the court finds that plaintiff is estopped from attempting to raise an issue of fact that he falsified his application forms, or that he was terminated for just cause.
+\par \hich\af0\dbch\af31505\loch\f0 This is not, however, the end of this court's inquiry. As plaintiff correct\hich\af0\dbch\af31505\loch\f0 ly argues, his amended }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [**15]}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+  complaint alleges that there were various retaliatory actions taken against plaintiff starting shortly after his first discussion with Whitney in October, 1991. The merit of these employment decisions was not raised or litiga
+\hich\af0\dbch\af31505\loch\f0 \hich\f0 ted before the Merit Board in its February 1995 hearing. Accordingly, the court finds that plaintiff can maintain a claim under \'a7\loch\f0 
+ 1983 based on the shift reassignments and transfers that he suffered allegedly in retaliation for plaintiff having exercised \hich\af0\dbch\af31505\loch\f0 h\hich\af0\dbch\af31505\loch\f0 is First Amendment right to freedom of speech. }{\rtlch\fcs1 
+\ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Caldwell v. City of Elwood, Indiana,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+ 959 F.2d 670, 672(7th Cir. 1992)  [HN7] ("discharge is not the only retaliatory act for (constitutionally protected] speech that is actionable under section 1983"); }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+Auriemm\hich\af0\dbch\af31505\loch\f0 a v. Rice,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+ 910 F.2d 1449, 1459 (7th Cir. 1990). As noted above, plaintiff was subjected to six reassignments over the course of six months, after which he alleges that he effectively resigned and asked for a transfer. Plaintiff suffered a $ 7000 reduction 
+\hich\af0\dbch\af31505\loch\f0 in pay for his transfer to court services from the EMU. All of these events took place prior to defendants becoming aware that plaintiff had falsified his application.
+\par \hich\af0\dbch\af31505\loch\f0 Accordingly, although plaintiff is }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [**16]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+  estopped from claiming retaliatory discharge \hich\af0\dbch\af31505\loch\f0 
+based on the Sheriff's Merit Board's decision, plaintiff's retaliatory transfer/re-assignment claim stands. The fact that defendants later found that plaintiff had falsified his employment application will, however, limit any damages to which plaintiff ma
+\hich\af0\dbch\af31505\loch\f0 y\hich\af0\dbch\af31505\loch\f0  be entitled for his loss of wages from the time the first alleged retaliatory reassignment was made until the date his false application came to light. }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 
+\i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 See, Kristufek v. Hussmann,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  985 F.2d 364, 371(7th Cir. 1993); }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0 McKennon v. Nashville Banner Publishing C\hich\af0\dbch\af31505\loch\f0 o,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  513 U.S. 352, }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0    }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 , 115 S. Ct. 879, 886, 130 L. Ed. 2d 852 (1995).
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 CONSTITUTIONALLY PROTECTED SPEECH}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+Defendants next argue that plaintiff's First Amendment claim must fail because his speech was not constitutionally protected because: (1) plaintiff's sp\hich\af0\dbch\af31505\loch\f0 
+eech was not a matter of public concern; (2) plaintiff's speech interfered with the efficient running of the Sheriff's Office; and, (3) plaintiff fails to connect defendants to the alleged acts of retaliation.  [HN8] "A public employee has a First Amendme
+\hich\af0\dbch\af31505\loch\f0 n\hich\af0\dbch\af31505\loch\f0 t right to comment on matters of  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [*805]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0   public concern even when he communicates privately with his employer.  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [**17]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0   }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Caldwell,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+ 959 F.2d at 672. "Whether an employee's speech addresses a matter of public concern must be determined by the content, form, \hich\af0\dbch\af31505\loch\f0 and context of a given statement, as revealed by the record as a whole." }{\rtlch\fcs1 \ai\af0 
+\ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Connick v. Myers,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+ 461 U.S. 138, 147-148, 75 L. Ed. 2d 708, 103 S. Ct. 1684 (1983). An employee's speech is not afforded First Amendment protection "... when a public employee speaks n\hich\af0\dbch\af31505\loch\f0 
+ot as a citizen upon public concern, but instead as an employee, upon matters only of personal interest, absent the most unusual circumstances." }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Id.}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \f0\insrsid217187 
+\par \hich\af0\dbch\af31505\loch\f0 Defendants address only plaintiff's speech during his press conference on May 18, 1993, arguing that plaint\hich\af0\dbch\af31505\loch\f0 
+iff's motivation is suspect because of all of his employment problems. Further, defendants argue that it is unclear what plaintiff said during his press conference, and thus plaintiff does not sufficiently describe alleged speech that is a matter of publi
+\hich\af0\dbch\af31505\loch\f0 c\hich\af0\dbch\af31505\loch\f0 
+ concern. Defendants fail to address, however, plaintiff's speech back in November 1991, when plaintiff spoke to Whitney about alleged EMU abuses and was subsequently bounced around with multiple reassignments. }{\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 
+\f0\fs16\super\insrsid217187 \hich\af0\dbch\af31505\loch\f0 3}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par 
+\par }\pard \ltrpar\ql \li600\ri0\widctlpar\wrapdefault\faauto\rin0\lin600\itap0 {\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\insrsid217187 \hich\af0\dbch\af31505\loch\f0 3 The court will not address plaintiff's \hich\af0\dbch\af31505\loch\f0 
+speech during his press conference because this incident occurred subsequent to defendants uncovering plaintiff's application falsification which, as discussed above, precludes any further damages.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [**18]}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0   There is no dispute that in November 1991, plain\hich\af0\dbch\af31505\loch\f0 
+tiff reported alleged abuse in the EMU, and later filed a formal complaint about alleged abuse in the EMU in August 1992. Plaintiff spoke to his superiors before any of his employment problems began. The subject matter of plaintiff's allegations, based on
+\hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0 the limited evidence before the court, appears to be a matter that would constitute protected speech under the First Amendment. }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0 O'Brien v. Town of Caledonia,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  748 F.2d 403, 407-408 (7th Cir. 1984)  [HN9] (complaints about alleged official misconduct to prop
+\hich\af0\dbch\af31505\loch\f0 
+er authorities constituted protected activities under the First Amendment). Because neither of the parties has submitted detailed evidence of the exact content of plaintiff's speech, there is, at the very least, a genuine issue of fact whether plaintiff's
+\hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0 speech is of public concern.
+\par \hich\af0\dbch\af31505\loch\f0 
+Defendants next argue that plaintiff's speech is not protected because it interfered with the efficient running of the Sheriff's Office.  [HN10] Defendants could justifiably retaliate against plaintiff's speech if his statement
+\hich\af0\dbch\af31505\loch\f0 s were "so disruptive that they substantially impeded the performance of [his] duties or interfered with the functioning of the office."  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+[**19]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0   }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Conner,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0  847 F.2d at 389. To make this determination the court must consider: "(1) the effect of the plaintiff'\hich\af0\dbch\af31505\loch\f0 
+s conduct on discipline and harmony among co-workers; (2) the need for confidentiality; (3) whether the conduct impeded the employee in competently performing [his] daily duties; and (4) the need to encourage a close and personal relationship involving lo
+\hich\af0\dbch\af31505\loch\f0 y\hich\af0\dbch\af31505\loch\f0 alty and confidence between the employee and her superiors." Id.
+\par \hich\af0\dbch\af31505\loch\f0 In July 1992, plaintiff placed calls to various EMU employees, former employees and inmate trustee workers seeking information from worker records that plaintiff alleged would show EMU abuse.\hich\af0\dbch\af31505\loch\f0 
+ These calls were documented by their recipients in EMU memoranda. In one such report, EMU investigator William Macklin ("Macklin") reported that when he asked plaintiff what he wanted the information for plaintiff replied: "f}{\rtlch\fcs1 \ai\af0 
+\ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0    }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  Chief Mustari, get Chief L\hich\af0\dbch\af31505\loch\f0 
+oggins for tormenting prisoners and especially get the Furer [sic]." Macklin notes that "furer" was in reference to defendant director Whitney. On July 28, 1992, Whitney, having been made aware of plaintiff's calls, requested his superior, Carik, to inves
+\hich\af0\dbch\af31505\loch\f0 t\hich\af0\dbch\af31505\loch\f0 igate plaintiff's actions and whether these actions }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [**20]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0   were violations of the Sheriff's Office's General orders and Rules of Ethics.
+\par \hich\af0\dbch\af31505\loch\f0 Defendants argue that plaintiff's calls to empl\hich\af0\dbch\af31505\loch\f0 
+oyees and inmate trustees in July 1992, were highly disruptive and created conflict. There is no evidence before the court, however, that plaintiff's speech or actions between November 1991, and July 1992 had any effect on the discipline or harmony of his
+\hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0 workplace. Therefore, defendants have failed to show that the reassignments  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [*806]}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0   and transfers that occurred prior to plaintiff's phone calls were justified because of disruptive behavior or inter-office conflicts.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 CAUSATION}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Defendants next argue that\hich\af0\dbch\af31505\loch\f0 \hich\f0 
+ plaintiff fails to connect the individual defendants to the alleged retaliatory employment actions. Plaintiff sues defendants in their individual capacities for purposes of his \'a7\loch\f0 
+ 1983 claims. As noted in the facts above, after speaking to Whitney, plaint\hich\af0\dbch\af31505\loch\f0 i\hich\af0\dbch\af31505\loch\f0 
+ff was reassigned numerous times to allegedly inferior shifts.  [HN11] To prevail in his First Amendment retaliatory claim plaintiff must establish a causal ink between his exercise of protected speech and disciplinary actions taken by defendants that wer
+\hich\af0\dbch\af31505\loch\f0 e\hich\af0\dbch\af31505\loch\f0  allegedly in violation of plaintiff's rights.  }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Caldwell v.}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0   }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [**21]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0   }{\rtlch\fcs1 \ai\af0 
+\ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  City of Elwood,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+ 959 F.2d at 672. "Section 1983 creates a cause of action based upon personal liability and predicated upon fault; thus, liability does not attach unless the individual de\hich\af0\dbch\af31505\loch\f0 
+fendant caused or participated in a constitutional depravation.  }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Sheik-Abdi v. McClellan,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+\hich\f0  37 F.3d 1240, 1248 (7th Cir. 1994). It is well-settled law that a plaintiff cannot base a \'a7\loch\f0  1983 claim on the theory of }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+respondeat superior. DelRaine v. Williford,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  32\hich\af0\dbch\af31505\loch\f0  F.3d 1024, 1047 (7th Cir. 1994); see also, }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0 Patton v. Przybylski,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+ 822 F.2d 697, 701 (7th Cir. 1987) (involvement of head of department must be pled with greater specificity in civil rights case).
+\par \hich\af0\dbch\af31505\loch\f0 As discussed above, plaintiff is entitled to pursue his clai\hich\af0\dbch\af31505\loch\f0 
+m that he was retaliated against for his statements to Whitney from November 1991 through March 1993. During this time, plaintiff alleges that Whitney, with Byrne's approval, ordered multiple reassignments to less desirable shifts and assignments within t
+\hich\af0\dbch\af31505\loch\f0 h\hich\af0\dbch\af31505\loch\f0 
+e EMU. Attached to plaintiff's response are copies of the inter-office memoranda that were sent to plaintiff notifying him of his reassignments. All of the memoranda are signed by Whitney, and the majority of them state that a copy }{\rtlch\fcs1 \ab\af0 
+\ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [**22]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0   should be sent t\hich\af0\dbch\af31505\loch\f0 
+o Byrne, Whitney's superior. Accordingly, viewing this evidence in a light most favorable to plaintiff, the court finds that there is sufficient evidence that Whitney and Byrne were involved in plaintiff's reassignments.
+\par \hich\af0\dbch\af31505\loch\f0 The next set of retaliatory actions\hich\af0\dbch\af31505\loch\f0 
+ alleged in the amended complaint involve Goldsmith and Carik. Plaintiff alleges that subsequent to plaintiff's meeting with Goldsmith and Carik, those parties "conspired" to initiate an internal affairs investigation against plaintiff, and on March 31, 1
+\hich\af0\dbch\af31505\loch\f0 9\hich\af0\dbch\af31505\loch\f0 
+93, plaintiff was detained when he went into the Bridgeview Court House, forced to turn over his badge and gun, and taken to an office for interrogation on allegations of intimidating witnesses. Plaintiff alleges that the witness intimidation charges were
+\hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0 
+"trumped up" by defendants. Plaintiff further alleges that in April 1993, Goldsmith and Carik transferred plaintiff to an assignment that allegedly is considered "punishment" to other employees in the Sheriff's Office. As discussed above, plaintiff's reta
+\hich\af0\dbch\af31505\loch\f0 l\hich\af0\dbch\af31505\loch\f0 iation claim against Goldsmith and Carik must fail if the defendants can show that the decision to investigate plaintiff and transfer him was reasonable in the }{\rtlch\fcs1 \ab\af0 
+\ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [**23]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0   absence of the Protected conduct. }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0 Mt. Healthy City School District,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  429 U.S. at 287.
+\par \hich\af0\dbch\af31505\loch\f0 Def\hich\af0\dbch\af31505\loch\f0 
+endants deny that the IAD investigation of plaintiff for alleged witness intimidation was "trumped up," and attach both Officer Taylor's police report and the IAD Supplementary Report and Summary of Investigation. Plaintiff does not deny the facts alleged
+\hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0 
+in Officer Taylor's report. Defendants also submit an affidavit from Pluta, the IAD investigator who investigated the witness tampering allegations filed against plaintiff and wrote the investigation report. In his affidavit, Pluta states that the investi
+\hich\af0\dbch\af31505\loch\f0 g\hich\af0\dbch\af31505\loch\f0 
+ation ensued based on Chicago Police Officer Taylor's report. Pluta denies that there was any conspiracy to investigate or persecute plaintiff, that the witness tampering charges were determined by IAD to be meritorious, and the investigation was turned o
+\hich\af0\dbch\af31505\loch\f0 v\hich\af0\dbch\af31505\loch\f0 er to the }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf17\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Cook}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+ County Assistant State's Attorney's office.
+\par \hich\af0\dbch\af31505\loch\f0 Plaintiff fails to submit any evidence refuting Pluta's affidavit, or Taylor's police report. Further, plaintiff is not entitled to damages for actions that occurred subsequent to the time defendan
+\hich\af0\dbch\af31505\loch\f0 ts discovered  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [*807]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+  plaintiff's application falsification in the beginning of March 1993.  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [**24]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 \hich\f0 
+  Accordingly, the court finds that plaintiff fails to state a claim against Carik and Goldsmith under \'a7\loch\f0  1983. Further, because plaintiff cannot establish t\hich\af0\dbch\af31505\loch\f0 
+hat Carik's and Goldsmith's actions were in retaliation for plaintiff's speech, the court finds that plaintiff fails to state a claim under the Illinois Constitution, Article I, Section 4. }{\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\super\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0 4}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par 
+\par }\pard \ltrpar\ql \li600\ri0\widctlpar\wrapdefault\faauto\rin0\lin600\itap0 {\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\insrsid217187 \hich\af0\dbch\af31505\loch\f0 4 The Illinois Constitution Article 1\hich\af0\dbch\af31505\loch\f0 
+, Section 4 provides that "all persons may speak, write and publish freely, being responsible for the abuse of that liberty."
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+Addressing the allegations against Sheahan, in his amended complaint plaintiff alleges that Sheahan, through the State's Attorney\hich\af0\dbch\af31505\loch\f0 
+'s Office, contacted the Illinois State Police, causing Illinois to revoke plaintiff's firearms ownership identification card (a "FOID" card). Defendants assert that once plaintiff's federal criminal history was uncovered, it was Sheahan's duty to notify 
+\hich\af0\dbch\af31505\loch\f0 t\hich\af0\dbch\af31505\loch\f0 he proper authorities because it was illegal for plaintiff to have a FOID card. Based on the evidence before it, the court finds }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0 [**25]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0   that Sheahan's actions, notifying the authorities of plaintiff's criminal history after discovering that plaintiff had 
+\hich\af0\dbch\af31505\loch\f0 
+failed to admit his federal conviction on his employment application, was reasonable even in the absence of any protected conduct. The only other allegation against Sheahan is that he suspended plaintiff without pay. This decision, as discussed above, was
+\hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0 \hich\f0 reasonable based on plaintiff having falsified his employment application. The court finds, therefore, that plaintiff fails to state a claim under \'a7\loch\f0 
+ 1983 or the Illinois Constitution, Article I, Section 4, against Sheahan. Accordingly, the court grants de\hich\af0\dbch\af31505\loch\f0 f\hich\af0\dbch\af31505\loch\f0 
+endants Carik's, Goldsmith's, and Sheahan's motion for summary judgment on Count I and Count III of the amended complaint.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 QUALIFIED IMMUNITY}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 \hich\f0 Defendants argue that even if plaintiff states a valid \'a7\loch\f0 
+ 1983 claim, defendants are entitled to qualified immunit\hich\af0\dbch\af31505\loch\f0 
+y from damages because their alleged conduct did not violate clearly established rights.  [HN12] The doctrine of qualified immunity shields government officials from performing discretionary functions from liability for civil damages "insofar as their con
+\hich\af0\dbch\af31505\loch\f0 d\hich\af0\dbch\af31505\loch\f0 uct does not violate clearly established rights of which }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [**26]}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0   a reasonable person would have known." }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Harlow v. Fitzgerald,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0  457 U.S. 800, 818, 73 L. Ed. 2d 396, 102 S. Ct. 2727 (1982). As the court held in }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Gorman,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0  977 F.2d at 355, in a First Amendment co\hich\af0\dbch\af31505\loch\f0 
+ntext this argument must be viewed "with some skepticism because courts have long recognized that an employer may not retaliate against an employee for expressing his views about matters of public concern." }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 
+\i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 citing, Pickering,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  391 U.S. 563, 574, 88 S. Ct. 1\hich\af0\dbch\af31505\loch\f0 731, 20 L. Ed. 2d 811.
+\par \hich\af0\dbch\af31505\loch\f0 The court finds that there is sufficient case law from this circuit establishing that  [HN13] a plaintiff's speech about alleged official misconduct made to proper authorities is protected. See, }{\rtlch\fcs1 \ai\af0 
+\ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Conner,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  847 F.2d at 386-387 (city cler\hich\af0\dbch\af31505\loch\f0 \hich\f0 k stated a \'a7\loch\f0 
+ 1983 claim against former supervisor for retaliatory discharge based on speaking to authorities about alleged misuse of city funds); }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 O'Brien,}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  748 F.2d at 407-408 (complaints about alleged official misconduct to proper authorities constituted p\hich\af0\dbch\af31505\loch\f0 
+rotected activities under the First Amendment). Defendants argue that plaintiff's termination was initiated and conducted in accordance with proper statutory provisions. This does not, however, conclusively excuse the alleged retaliatory reassignments. Ac
+\hich\af0\dbch\af31505\loch\f0 c\hich\af0\dbch\af31505\loch\f0 ordingly,  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [**27]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+  the court denies defendants' argument that Whitney and Byrne are entitled to qualified immunity for their alleged retaliatory actions taken between November 1991 and July 1992.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 CONSPIRACY}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Defendants move for summary judgment on Count II\hich\af0\dbch\af31505\loch\f0 
+, asserting that plaintiff fails to set forth sufficient facts to state a conspiracy claim.  [HN14] "Civil conspiracy is an agreement of two or more people to commit an unlawful act, or to inflict a wrong against another, and an overt act that results in 
+\hich\af0\dbch\af31505\loch\f0 d\hich\af0\dbch\af31505\loch\f0 amages." }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Old Security Life Ins. Co. v. Continental Ill. Nat. Bank,}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  740 F.2d 1384, 1389 (7th Cir. 1984). In order to maintain a conspiracy claim plaintiff must allege "with some particularity facts sufficient to show an agreement between the parties to infl
+\hich\af0\dbch\af31505\loch\f0 ict the alleged wrong." }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Frymire v. Peat, Marwick, }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  }{
+\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [*808]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0   }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0 Mitchell & Co.,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  657 F. Supp. 889, 896 (N.D.Ill. 1987).
+\par \hich\af0\dbch\af31505\loch\f0 In his amended complaint plaintiff alleges that defendants had an agreement to try to discredit plaintiff with the purpose of concealing the t\hich\af0\dbch\af31505\loch\f0 \hich\f0 
+ruth about alleged abuse in the EMU, and to punish plaintiff for not observing a code of silence within the Sheriff's department. Because the court finds that plaintiff's only remaining \'a7\loch\f0  1983 claim }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [**28]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0   is for alleged retaliatory reassignments and his \hich\af0\dbch\af31505\loch\f0 
+transfer in 1991 through 1992, plaintiff must allege sufficient facts that a conspiratorial agreement was entered into by the remaining defendants prior to the 1991 reassignments or 1992 transfer. There are no such allegations in the amended complaint. Ac
+\hich\af0\dbch\af31505\loch\f0 c\hich\af0\dbch\af31505\loch\f0 
+ordingly, the court grants defendants' motion to dismiss Count II, plaintiff's conspiracy claim, with leave to file an amended Count II should plaintiff be able to do so consistent with his obligations under Fed.R.Civ.P. 11.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 ILLINOIS WHISTLE BLOWER PROTEC\hich\af0\dbch\af31505\loch\f0 TION ACT}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+Defendants move for summary judgment on plaintiff's state law claim brought under the Illinois Whistle Blower Protection Act (the "Act"), 5 ILCS 395/1(b), arguing that plaintiff fails to allege sufficient facts to support Count IV.  [HN15] The Act
+\hich\af0\dbch\af31505\loch\f0  provides in part:
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }\pard \ltrpar\ql \li600\ri600\widctlpar\wrapdefault\faauto\rin600\lin600\itap0 {\rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \f0\fs16\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+(b) No disciplinary action shall be taken against any employee for the disclosure of any alleged prohibited activity under investigation or for any retaliatory action taken against an employee, including but not limited to reprimand, su
+\hich\af0\dbch\af31505\loch\f0 spension, discharge, demotion or denial of promotion or transfer.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Defendant argues that plaintiff fails to state a claim }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [**29]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+  based on his suspension and termination because plaintiff's employment application falsification was proper grounds for dismis\hich\af0\dbch\af31505\loch\f0 
+sal. Defendants do not, however, address the alleged retaliatory reassignments plaintiff suffered after his conversation with Whitney.
+\par \hich\af0\dbch\af31505\loch\f0 Based on the evidence before it, as outlined more fully above, the court finds that the employment actions ordered by def\hich\af0\dbch\af31505\loch\f0 
+endants Carik, Goldsmith, and Sheahan were not in retaliation for plaintiff's speech. The court finds, therefore, that plaintiff fails to state a claim under the Act against defendants Carik, Goldsmith, and Sheahan, and grants these defendants summary jud
+\hich\af0\dbch\af31505\loch\f0 g\hich\af0\dbch\af31505\loch\f0 
+ment on Count IV of the amended complaint. The court further finds, however, that there remain genuine issues of fact whether Whitney reassigned plaintiff six times in six months in retaliation for his speech, and whether Byrne was instrumental in the rea
+\hich\af0\dbch\af31505\loch\f0 s\hich\af0\dbch\af31505\loch\f0 signments. Accordingly, the court denies defendants' Whitney and Byrne's motion for summary judgment on Count IV of the amended complaint.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 PUNITIVE DAMAGES}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+Count V of the amended complaint seeks punitive damages for all of defendants' alleged wrongful con\hich\af0\dbch\af31505\loch\f0 duct. Because this court finds that plaintiff }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0 [**30]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+  has failed to state a claim against Carik, Goldsmith and Sheahan the court grants these defendants summary judgment over all claims in the amended complaint, but denies summary judgment with respect to \hich\af0\dbch\af31505\loch\f0 
+Whitney and Byrne on Count V.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 ROOKER-FELDMAN DOCTRINE}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Defendants' final argument is that plaintiff's claims must fail due to }{\rtlch\fcs1 \ai\af0 
+\ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 res judicata}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  and the }{\rtlch\fcs1 \ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+Rooker-Feldman}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  doctrine.  [HN16] Under the Rooker-Feldman doctrine, federal district courts lack subject matter jurisdiction to review state court decisions. }{\rtlch\fcs1 
+\ai\af0 \ltrch\fcs0 \i\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 District of Columbia Court of Appeals v. Feldman,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 
+ 460 U.S. 462, 75 L. Ed. 2d 206, 103 S. Ct. 1303 (1983). While \hich\af0\dbch\af31505\loch\f0 
+plaintiff's termination was reviewed and upheld by the Merit Board, the Merit Board did not make any findings regarding the merits of plaintiff's reassignments in 1991-1992. Further, plaintiff asserts that the Merit Board would not entertain any arguments
+\hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0 
+concerning plaintiff's First Amendment claims. Accordingly, the court finds that it has proper subject matter jurisdiction over plaintiff's alleged retaliatory re-assignment claim against defendants Whitney and Byrne.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 CONCLUSION}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 For the reasons set forth above, defendants Sheahan's, Carik's, and Goldsmith's }{\rtlch\fcs1 
+\ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [**31]}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0    }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 [*809]}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0   motion for summary judgment is granted, with prejudice, and defendants Whitney's and Byrne's motions for summary judgment are denied as to Counts I, III, IV an
+\hich\af0\dbch\af31505\loch\f0 d V. Whitney and Byrne's motion to dismiss Count II is granted, and plaintiff is granted leave to file an amended Count II against them within 21 days hereof.
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 ENTER:}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0  October 26, 1995
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 Robert W. Gettleman}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\par }\pard \ltrpar\ql \li0\ri0\sb120\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid217187 \hich\af0\dbch\af31505\loch\f0 United States District Judge}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\insrsid217187 
+\hich\af0\dbch\af31505\loch\f0  
+\par \sect }\sectd \ltrsect\sbknone\linex0\sectdefaultcl\sftnbj {\headerr \ltrpar \pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\loch\af5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24\insrsid217187 
+\par }}\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af5\hich\af5\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid217187 
+\par }{\*\themedata 504b030414000600080000002100e9de0fbfff0000001c020000130000005b436f6e74656e745f54797065735d2e786d6cac91cb4ec3301045f748fc83e52d4a
+9cb2400825e982c78ec7a27cc0c8992416c9d8b2a755fbf74cd25442a820166c2cd933f79e3be372bd1f07b5c3989ca74aaff2422b24eb1b475da5df374fd9ad
+5689811a183c61a50f98f4babebc2837878049899a52a57be670674cb23d8e90721f90a4d2fa3802cb35762680fd800ecd7551dc18eb899138e3c943d7e503b6
+b01d583deee5f99824e290b4ba3f364eac4a430883b3c092d4eca8f946c916422ecab927f52ea42b89a1cd59c254f919b0e85e6535d135a8de20f20b8c12c3b0
+0c895fcf6720192de6bf3b9e89ecdbd6596cbcdd8eb28e7c365ecc4ec1ff1460f53fe813d3cc7f5b7f020000ffff0300504b030414000600080000002100a5d6
+a7e7c0000000360100000b0000005f72656c732f2e72656c73848fcf6ac3300c87ef85bd83d17d51d2c31825762fa590432fa37d00e1287f68221bdb1bebdb4f
+c7060abb0884a4eff7a93dfeae8bf9e194e720169aaa06c3e2433fcb68e1763dbf7f82c985a4a725085b787086a37bdbb55fbc50d1a33ccd311ba548b6309512
+0f88d94fbc52ae4264d1c910d24a45db3462247fa791715fd71f989e19e0364cd3f51652d73760ae8fa8c9ffb3c330cc9e4fc17faf2ce545046e37944c69e462
+a1a82fe353bd90a865aad41ed0b5b8f9d6fd010000ffff0300504b0304140006000800000021006b799616830000008a0000001c0000007468656d652f746865
+6d652f7468656d654d616e616765722e786d6c0ccc4d0ac3201040e17da17790d93763bb284562b2cbaebbf600439c1a41c7a0d29fdbd7e5e38337cedf14d59b
+4b0d592c9c070d8a65cd2e88b7f07c2ca71ba8da481cc52c6ce1c715e6e97818c9b48d13df49c873517d23d59085adb5dd20d6b52bd521ef2cdd5eb9246a3d8b
+4757e8d3f729e245eb2b260a0238fd010000ffff0300504b030414000600080000002100aa5225dfc60600008b1a0000160000007468656d652f7468656d652f
+7468656d65312e786d6cec595d8bdb46147d2ff43f08bd3bfe92fcb1c41b6cd9ceb6d94d42eca4e4716c8fadc98e344633de8d0981923c160aa569e943037deb
+43691b48a02fe9afd936a54d217fa17746b63c638fbb9b2585a5640d8b343af7ce997bafce1d4997afdc8fa87384134e58dc708b970aae83e3211b9178d2706f
+f7bbb99aeb7081e211a22cc60d778eb97b65f7c30f2ea31d11e2083b601ff31dd4704321a63bf93c1fc230e297d814c7706dcc920809384d26f951828ec16f44
+f3a542a1928f10895d274611b8bd311e932176fad2a5bbbb74dea1701a0b2e078634e949d7d8b050d8d1615122f89c0734718e106db830cf881df7f17de13a14
+7101171a6e41fdb9f9ddcb79b4b330a2628bad66d7557f0bbb85c1e8b0a4e64c26836c52cff3bd4a33f3af00546ce23ad54ea553c9fc29001a0e61a52917dda7
+dfaab7dafe02ab81d2438bef76b55d2e1a78cd7f798373d3973f03af40a97f6f03dfed06104503af4029dedfc07b5eb51478065e81527c65035f2d34db5ed5c0
+2b5048497cb8812ef89572b05c6d061933ba6785d77daf5b2d2d9caf50500d5975c929c62c16db6a2d42f758d2058004522448ec88f9148fd110aa3840940c12
+e2ec93490885374531e3305c2815ba8532fc973f4f1da988a01d8c346bc90b98f08d21c9c7e1c3844c45c3fd18bcba1ae4cdcb1fdfbc7cee9c3c7a71f2e89793
+c78f4f1efd9c3a32acf6503cd1ad5e7fffc5df4f3f75fe7afeddeb275fd9f15cc7fffed367bffdfaa51d082b5d85e0d5d7cffe78f1ecd5379ffff9c3130bbc99
+a0810eef930873e73a3e766eb10816a6426032c783e4ed2cfa2122ba45339e701423398bc57f478406fafa1c5164c1b5b019c13b09488c0d787576cf20dc0b93
+9920168fd7c2c8001e30465b2cb146e19a9c4b0b737f164fec9327331d770ba123dbdc018a8dfc766653d05662731984d8a07993a258a0098eb170e4357688b1
+6575770931e27a408609e36c2c9cbbc46921620d499f0c8c6a5a19ed9108f232b711847c1bb139b8e3b418b5adba8d8f4c24dc15885ac8f73135c27815cd048a
+6c2efb28a27ac0f791086d247bf364a8e33a5c40a6279832a733c29cdb6c6e24b05e2de9d7405eec693fa0f3c84426821cda7cee23c674649b1d06218aa6366c
+8fc4a18efd881f428922e7261336f80133ef10790e7940f1d674df21d848f7e96a701b9455a7b42a107965965872791533a37e7b733a4658490d08bfa1e71189
+4f15f73559f7ff5b5907217df5ed53cbaa2eaaa0371362bda3f6d6647c1b6e5dbc03968cc8c5d7ee369ac53731dc2e9b0decbd74bf976ef77f2fdddbeee7772f
+d82b8d06f9965bc574abae36eed1d67dfb9850da13738af7b9daba73e84ca32e0c4a3bf5cc8ab3e7b8690887f24e86090cdc2441cac64998f88488b017a229ec
+ef8bae7432e10bd713ee4c19876dbf1ab6fa96783a8b0ed8287d5c2d16e5a3692a1e1c89d578c1cfc6e15143a4e84a75f50896b9576c27ea51794940dabe0d09
+6d329344d942a2ba1c9441520fe610340b09b5b277c2a26e615193ee97a9da6001d4b2acc0d6c9810d57c3f53d30012378a242148f649ed2542fb3ab92f92e33
+bd2d984605c03e625901ab4cd725d7adcb93ab4b4bed0c99364868e566925091513d8c87688417d52947cf42e36d735d5fa5d4a02743a1e683d25ad1a8d6fe8d
+c579730d76ebda40635d2968ec1c37dc4ad9879219a269c31dc3633f1c4653a81d2eb7bc884ee0ddd95024e90d7f1e6599265cb4110fd3802bd149d520220227
+0e2551c395cbcfd24063a5218a5bb104827061c9d541562e1a3948ba99643c1ee3a1d0d3ae8dc848a7a7a0f0a95658af2af3f383a5259b41ba7be1e8d819d059
+720b4189f9d5a20ce0887078fb534ca33922f03a3313b255fdad35a685eceaef13550da5e3884e43b4e828ba98a77025e5191d7596c5403b5bac1902aa8564d1
+080713d960f5a01add34eb1a2987ad5df7742319394d34573dd35015d935ed2a66ccb06c036bb13c5f93d7582d430c9aa677f854bad725b7bed4bab57d42d625
+20e059fc2c5df70c0d41a3b69acca026196fcab0d4ecc5a8d93b960b3c85da599a84a6fa95a5dbb5b8653dc23a1d0c9eabf383dd7ad5c2d078b9af549156df3d
+f44f136c700fc4a30d2f81675470954af8f09020d810f5d49e24950db845ee8bc5ad0147ce2c210df741c16f7a41c90f72859adfc97965af90abf9cd72aee9fb
+e562c72f16daadd243682c228c8a7efacda50bafa2e87cf1e5458d6f7c7d89966fdb2e0d599467eaeb4a5e11575f5f8aa5ed5f5f1c02a2f3a052ead6cbf55625
+572f37bb39afddaae5ea41a5956b57826abbdb0efc5abdfbd0758e14d86b9603afd2a9e52ac520c8799582a45fabe7aa5ea9d4f4aacd5ac76b3e5c6c6360e5a9
+7c2c6201e155bc76ff010000ffff0300504b0304140006000800000021000dd1909fb60000001b010000270000007468656d652f7468656d652f5f72656c732f
+7468656d654d616e616765722e786d6c2e72656c73848f4d0ac2301484f78277086f6fd3ba109126dd88d0add40384e4350d363f2451eced0dae2c082e8761be
+9969bb979dc9136332de3168aa1a083ae995719ac16db8ec8e4052164e89d93b64b060828e6f37ed1567914b284d262452282e3198720e274a939cd08a54f980
+ae38a38f56e422a3a641c8bbd048f7757da0f19b017cc524bd62107bd5001996509affb3fd381a89672f1f165dfe514173d9850528a2c6cce0239baa4c04ca5b
+babac4df000000ffff0300504b01022d0014000600080000002100e9de0fbfff0000001c0200001300000000000000000000000000000000005b436f6e74656e
+745f54797065735d2e786d6c504b01022d0014000600080000002100a5d6a7e7c0000000360100000b00000000000000000000000000300100005f72656c732f
+2e72656c73504b01022d00140006000800000021006b799616830000008a0000001c00000000000000000000000000190200007468656d652f7468656d652f74
+68656d654d616e616765722e786d6c504b01022d0014000600080000002100aa5225dfc60600008b1a00001600000000000000000000000000d6020000746865
+6d652f7468656d652f7468656d65312e786d6c504b01022d00140006000800000021000dd1909fb60000001b0100002700000000000000000000000000d00900007468656d652f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73504b050600000000050005005d010000cb0a00000000}
+{\*\colorschememapping 3c3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d225554462d3822207374616e64616c6f6e653d22796573223f3e0d0a3c613a636c724d
+617020786d6c6e733a613d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f64726177696e676d6c2f323030362f6d6169
+6e22206267313d226c743122207478313d22646b3122206267323d226c743222207478323d22646b322220616363656e74313d22616363656e74312220616363
+656e74323d22616363656e74322220616363656e74333d22616363656e74332220616363656e74343d22616363656e74342220616363656e74353d22616363656e74352220616363656e74363d22616363656e74362220686c696e6b3d22686c696e6b2220666f6c486c696e6b3d22666f6c486c696e6b222f3e}
+{\*\latentstyles\lsdstimax371\lsdlockeddef0\lsdsemihiddendef0\lsdunhideuseddef0\lsdqformatdef0\lsdprioritydef99{\lsdlockedexcept \lsdqformat1 \lsdpriority0 \lsdlocked0 Normal;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 1;
+\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 2;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 3;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 4;
+\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 5;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 6;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 7;
+\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 8;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 9;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 1;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 5;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 6;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 7;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 8;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 9;
+\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 1;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 2;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 4;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 5;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 6;
+\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 7;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 8;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 9;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Normal Indent;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 footnote text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 annotation text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 header;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 footer;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index heading;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority35 \lsdlocked0 caption;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 table of figures;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 envelope address;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 envelope return;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 footnote reference;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 annotation reference;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 line number;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 page number;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 endnote reference;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 endnote text;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 table of authorities;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 macro;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 toa heading;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number 5;\lsdqformat1 \lsdpriority10 \lsdlocked0 Title;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Closing;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Signature;\lsdsemihidden1 \lsdunhideused1 \lsdpriority1 \lsdlocked0 Default Paragraph Font;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text Indent;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue 4;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Message Header;\lsdqformat1 \lsdpriority11 \lsdlocked0 Subtitle;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Salutation;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Date;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text First Indent;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text First Indent 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Note Heading;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text Indent 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text Indent 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Block Text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Hyperlink;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 FollowedHyperlink;\lsdqformat1 \lsdpriority22 \lsdlocked0 Strong;
+\lsdqformat1 \lsdpriority20 \lsdlocked0 Emphasis;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Document Map;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Plain Text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 E-mail Signature;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Top of Form;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Bottom of Form;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Normal (Web);\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Acronym;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Address;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Cite;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Code;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Definition;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Keyboard;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Preformatted;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Sample;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Typewriter;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Variable;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 annotation subject;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 No List;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Outline List 1;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Outline List 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Outline List 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Balloon Text;\lsdpriority39 \lsdlocked0 Table Grid;
+\lsdsemihidden1 \lsdlocked0 Placeholder Text;\lsdqformat1 \lsdpriority1 \lsdlocked0 No Spacing;\lsdpriority60 \lsdlocked0 Light Shading;\lsdpriority61 \lsdlocked0 Light List;\lsdpriority62 \lsdlocked0 Light Grid;
+\lsdpriority63 \lsdlocked0 Medium Shading 1;\lsdpriority64 \lsdlocked0 Medium Shading 2;\lsdpriority65 \lsdlocked0 Medium List 1;\lsdpriority66 \lsdlocked0 Medium List 2;\lsdpriority67 \lsdlocked0 Medium Grid 1;\lsdpriority68 \lsdlocked0 Medium Grid 2;
+\lsdpriority69 \lsdlocked0 Medium Grid 3;\lsdpriority70 \lsdlocked0 Dark List;\lsdpriority71 \lsdlocked0 Colorful Shading;\lsdpriority72 \lsdlocked0 Colorful List;\lsdpriority73 \lsdlocked0 Colorful Grid;\lsdpriority60 \lsdlocked0 Light Shading Accent 1;
+\lsdpriority61 \lsdlocked0 Light List Accent 1;\lsdpriority62 \lsdlocked0 Light Grid Accent 1;\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 1;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 1;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 1;
+\lsdsemihidden1 \lsdlocked0 Revision;\lsdqformat1 \lsdpriority34 \lsdlocked0 List Paragraph;\lsdqformat1 \lsdpriority29 \lsdlocked0 Quote;\lsdqformat1 \lsdpriority30 \lsdlocked0 Intense Quote;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 1;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 1;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 1;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 1;\lsdpriority70 \lsdlocked0 Dark List Accent 1;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 1;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 1;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 1;\lsdpriority60 \lsdlocked0 Light Shading Accent 2;\lsdpriority61 \lsdlocked0 Light List Accent 2;\lsdpriority62 \lsdlocked0 Light Grid Accent 2;
+\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 2;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 2;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 2;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 2;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 2;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 2;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 2;\lsdpriority70 \lsdlocked0 Dark List Accent 2;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 2;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 2;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 2;\lsdpriority60 \lsdlocked0 Light Shading Accent 3;\lsdpriority61 \lsdlocked0 Light List Accent 3;\lsdpriority62 \lsdlocked0 Light Grid Accent 3;
+\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 3;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 3;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 3;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 3;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 3;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 3;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 3;\lsdpriority70 \lsdlocked0 Dark List Accent 3;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 3;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 3;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 3;\lsdpriority60 \lsdlocked0 Light Shading Accent 4;\lsdpriority61 \lsdlocked0 Light List Accent 4;\lsdpriority62 \lsdlocked0 Light Grid Accent 4;
+\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 4;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 4;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 4;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 4;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 4;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 4;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 4;\lsdpriority70 \lsdlocked0 Dark List Accent 4;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 4;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 4;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 4;\lsdpriority60 \lsdlocked0 Light Shading Accent 5;\lsdpriority61 \lsdlocked0 Light List Accent 5;\lsdpriority62 \lsdlocked0 Light Grid Accent 5;
+\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 5;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 5;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 5;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 5;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 5;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 5;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 5;\lsdpriority70 \lsdlocked0 Dark List Accent 5;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 5;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 5;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 5;\lsdpriority60 \lsdlocked0 Light Shading Accent 6;\lsdpriority61 \lsdlocked0 Light List Accent 6;\lsdpriority62 \lsdlocked0 Light Grid Accent 6;
+\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 6;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 6;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 6;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 6;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 6;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 6;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 6;\lsdpriority70 \lsdlocked0 Dark List Accent 6;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 6;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 6;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 6;\lsdqformat1 \lsdpriority19 \lsdlocked0 Subtle Emphasis;\lsdqformat1 \lsdpriority21 \lsdlocked0 Intense Emphasis;
+\lsdqformat1 \lsdpriority31 \lsdlocked0 Subtle Reference;\lsdqformat1 \lsdpriority32 \lsdlocked0 Intense Reference;\lsdqformat1 \lsdpriority33 \lsdlocked0 Book Title;\lsdsemihidden1 \lsdunhideused1 \lsdpriority37 \lsdlocked0 Bibliography;
+\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority39 \lsdlocked0 TOC Heading;\lsdpriority41 \lsdlocked0 Plain Table 1;\lsdpriority42 \lsdlocked0 Plain Table 2;\lsdpriority43 \lsdlocked0 Plain Table 3;\lsdpriority44 \lsdlocked0 Plain Table 4;
+\lsdpriority45 \lsdlocked0 Plain Table 5;\lsdpriority40 \lsdlocked0 Grid Table Light;\lsdpriority46 \lsdlocked0 Grid Table 1 Light;\lsdpriority47 \lsdlocked0 Grid Table 2;\lsdpriority48 \lsdlocked0 Grid Table 3;\lsdpriority49 \lsdlocked0 Grid Table 4;
+\lsdpriority50 \lsdlocked0 Grid Table 5 Dark;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 1;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 1;
+\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 1;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 1;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 1;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 1;
+\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 1;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 2;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 2;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 2;
+\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 2;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 2;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 2;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 2;
+\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 3;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 3;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 3;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 3;
+\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 3;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 3;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 3;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 4;
+\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 4;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 4;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 4;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 4;
+\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 4;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 4;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 5;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 5;
+\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 5;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 5;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 5;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 5;
+\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 5;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 6;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 6;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 6;
+\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 6;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 6;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 6;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 6;
+\lsdpriority46 \lsdlocked0 List Table 1 Light;\lsdpriority47 \lsdlocked0 List Table 2;\lsdpriority48 \lsdlocked0 List Table 3;\lsdpriority49 \lsdlocked0 List Table 4;\lsdpriority50 \lsdlocked0 List Table 5 Dark;
+\lsdpriority51 \lsdlocked0 List Table 6 Colorful;\lsdpriority52 \lsdlocked0 List Table 7 Colorful;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 1;\lsdpriority47 \lsdlocked0 List Table 2 Accent 1;\lsdpriority48 \lsdlocked0 List Table 3 Accent 1;
+\lsdpriority49 \lsdlocked0 List Table 4 Accent 1;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 1;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 1;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 1;
+\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 2;\lsdpriority47 \lsdlocked0 List Table 2 Accent 2;\lsdpriority48 \lsdlocked0 List Table 3 Accent 2;\lsdpriority49 \lsdlocked0 List Table 4 Accent 2;
+\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 2;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 2;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 2;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 3;
+\lsdpriority47 \lsdlocked0 List Table 2 Accent 3;\lsdpriority48 \lsdlocked0 List Table 3 Accent 3;\lsdpriority49 \lsdlocked0 List Table 4 Accent 3;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 3;
+\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 3;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 3;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 4;\lsdpriority47 \lsdlocked0 List Table 2 Accent 4;
+\lsdpriority48 \lsdlocked0 List Table 3 Accent 4;\lsdpriority49 \lsdlocked0 List Table 4 Accent 4;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 4;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 4;
+\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 4;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 5;\lsdpriority47 \lsdlocked0 List Table 2 Accent 5;\lsdpriority48 \lsdlocked0 List Table 3 Accent 5;
+\lsdpriority49 \lsdlocked0 List Table 4 Accent 5;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 5;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 5;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 5;
+\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 6;\lsdpriority47 \lsdlocked0 List Table 2 Accent 6;\lsdpriority48 \lsdlocked0 List Table 3 Accent 6;\lsdpriority49 \lsdlocked0 List Table 4 Accent 6;
+\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 6;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 6;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 6;}}{\*\datastore 010500000200000018000000
+4d73786d6c322e534158584d4c5265616465722e362e3000000000000000000000060000
+d0cf11e0a1b11ae1000000000000000000000000000000003e000300feff090006000000000000000000000001000000010000000000000000100000feffffff00000000feffffff0000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffdfffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e5000000000000000000000000108e
+2fc59ddcd201feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000105000000000000}}
